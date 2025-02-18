@@ -1,0 +1,1358 @@
+['15 and 290 theorems', '2-factor theorem', '2π theorem', "abel's binomial theorem", "abel's curve theorem", "abel's theorem", 'abel-jacobi map#the abel-jacobi map of a riemannian manifold', 'abel-jacobi theorem', 'abel-ruffini theorem', 'abelian and tauberian theorems', 'abhyankar-moh theorem', 'absolute convergence theorem', 'acyclic models theorem', 'addition theorem', 'adiabatic theorem', "ado's theorem", 'af+bg theorem', "akhiezer's theorem", 'akra-bazzi theorem', 'albert-brauer-hasse-noether theorem', 'alchian-allen theorem', "alexandrov's uniqueness theorem", 'algebraic geometry and analytic geometry#chow.27s theorem', 'algebraic surface', 'alperin-brauer-gorenstein theorem', "alspach's conjecture", "alspach's theorem", 'alternate interior angles theorem', 'alternate segment theorem', 'altitude', 'amitsur-levitzki theorem', "analyst's traveling salesman theorem", 'analytic fredholm theorem', "anderson's theorem", 'andreotti-frankel theorem', 'angle bisector theorem', 'angle trisection#proof of impossibility', 'ankeny-artin-chowla theorem', "anne's theorem", "apery's theorem", "apollonius's theorem", 'appell-humbert theorem', "arakelyan's theorem", 'area theorem', 'arithmetic riemann-roch theorem', 'aronszajn-smith theorem', 'arrival theorem', "arrow's impossibility theorem", 'arrow-lind principle', 'arrow-lind theorem', 'art gallery theorem', 'artin approximation theorem', 'artin-schreier theorem', 'artin-verdier duality', 'artin-verdier duality theorem', 'artin-wedderburn theorem', 'artin-zorn theorem', "artstein's theorem", 'arzela-ascoli theorem', 'atiyah-bott fixed-point theorem', 'atiyah-segal completion theorem', 'atiyah-singer index theorem', "atkinson's theorem", 'ats theorem', "aumann's agreement theorem", 'autonomous convergence theorem', 'auxiliary polynomial theorem', 'ax-grothendieck theorem', 'ax-kochen theorem', 'aztec diamond theorem', 'babuska-lax-milgram theorem', 'baily-borel theorem', 'baire category theorem', "baker's theorem", 'balian-low theorem', "balinski's theorem", 'banach fixed-point theorem', 'banach-alaoglu theorem', 'banach-mazur theorem', 'banach-steinhaus theorem', 'banach-stone theorem', 'banach-tarski theorem', "bang's theorem", 'bapat-beg theorem', "baranyai's theorem", 'barban-davenport-halberstam theorem', "barbier's theorem", 'barwise compactness theorem', 'base change theorems', 'basel problem', "bass-guirvarc'h formula", 'bass-serre theorem', 'bass-serre theory#fundamental theorem of bass-serre theory', "basu's theorem", 'bauer-fike theorem', "bayes' theorem", 'bbd decomposition theorem', "beatty's theorem", 'beauville-laszlo theorem', "beck's monadicity theorem", "beck's theorem", "beck's theorem", 'beckman-quarles theorem', "beer's theorem", 'behnke-stein theorem', "behrend's theorem", "bell's theorem", "beltrami's theorem", "belyi's theorem", 'bendixson-dulac theorem', "berge's theorem", 'berger-kazdan comparison theorem', "bernstein's theorem", "bernstein's theorem", "bernstein's theorem on monotone functions", 'berry-esseen theorem', "bertini's theorem", "bertrand's ballot theorem", "bertrand's postulate", "bertrand's postulate#sylvester.27s theorem", 'bertrand-diquet-puiseux theorem', 'besicovitch covering theorem', 'best theorem', "betti's theorem", 'beurling-lax theorem', "bezout's identity", "bezout's lemma", "bezout's theorem", 'bing metrization theorem', "bing's recognition theorem", 'binomial inverse theorem', 'binomial theorem', "birch's theorem", "birkhoff's ergodic theorem", "birkhoff's representation theorem", "birkhoff's theorem", "birkhoff's theorem", 'birkhoff-grothendieck theorem', 'birkhoff-von neumann theorem', 'birman short exact sequence', 'bishop-cannings theorem', 'bishop-gromov inequality', 'blakers-massey theorem', 'blaschke selection theorem', "bloch's theorem", "bloch's theorem", "blondel's theorem", "blum's speedup theorem", "bocher's theorem", "bochner's tube theorem", 'bogoliubov-parasyuk theorem', 'bohr-mollerup theorem', 'bohr-van leeuwen theorem', 'bolyai-gerwien theorem', "bolzano's theorem", 'bolzano-weierstrass theorem', "bombieri's theorem", 'bombieri-friedlander-iwaniec theorem', 'bondareva-shapley theorem', "bondy's theorem", 'bondy-chvatal theorem', 'bonnet theorem', 'boolean prime ideal theorem', 'borel determinacy theorem', 'borel fixed-point theorem', 'borel-bott-weil theorem', 'borel-caratheodory theorem', 'borel-weil theorem', 'borsuk-ulam theorem', 'bott periodicity theorem', 'bounded inverse theorem', 'bourbaki-witt theorem', 'brahmagupta theorem', 'branching theorem', "brauer's main theorem", "brauer's theorem", "brauer's theorem on induced characters", 'brauer-cartan-hua theorem', 'brauer-nesbitt theorem', 'brauer-siegel theorem', 'brauer-suzuki theorem', 'brauer-suzuki-wall theorem', 'bregman-minc inequality', "brianchon's theorem", 'british flag theorem', "brooks's theorem", 'brouwer fixed-point theorem', 'browder-minty theorem', "brown's representability theorem", 'bruck-chowla-ryser theorem', "brun's theorem", 'brun-titchmarsh theorem', 'brunn-minkowski theorem', 'buchi-elgot-trakhtenbrot theorem', 'buckingham π theorem', "burke's theorem", "burnside's theorem", "busemann's theorem", 'butterfly theorem', 'byers-yang theorem', 'c-theorem', 'cameron-erdos conjecture', 'cameron-erdos theorem', 'cameron-martin theorem', "cantor's intersection theorem", "cantor's isomorphism theorem", "cantor's theorem", 'cantor-bernstein-schroder theorem', 'cap theorem', "caratheodory's existence theorem", "caratheodory's extension theorem", "caratheodory's theorem", "caratheodory's theorem", "caratheodory's theorem", "caratheodory's theorem", 'caratheodory-jacobi-lie theorem', 'cardinality of the continuum#uncountability', 'caristi fixed-point theorem', "carleson's theorem", 'carleson-jacobs theorem', "carlson's theorem", "carmichael's theorem", "carnot's theorem", "carnot's theorem", "carnot's theorem", "cartan's theorem", "cartan's theorems a and b", 'cartan-dieudonne theorem', 'cartan-hadamard theorem', 'cartan-kahler theorem', 'cartan-kuranishi prolongation theorem', "casey's theorem", 'castelnuovo theorem', 'castelnuovo-de franchis theorem', "castigliano's first and second theorems", "castigliano's method", 'cauchy integral theorem', "cauchy's theorem", "cauchy's theorem", "cauchy's theorem", 'cauchy-binet formula', 'cauchy-hadamard theorem', 'cauchy-kowalevski theorem', "cayley's theorem", 'cayley-bacharach theorem', 'cayley-hamilton theorem', 'cayley-salmon theorem', 'cellular approximation theorem', 'central limit theorem', 'cesaro summation', "cesaro's theorem", "ceva's theorem", "chasles' theorem", "chasles' theorem", "chasles' theorem", "chebotarev's density theorem", "chen's theorem", "cheng's eigenvalue comparison theorem", 'chern-gauss-bonnet theorem', "chevalley's structure theorem", 'chevalley-shephard-todd theorem', 'chevalley-warning theorem', 'chinese remainder theorem', "choi's theorem on completely positive maps", 'chomsky-schutzenberger enumeration theorem', 'chomsky-schutzenberger representation theorem', 'choquet-bishop-de leeuw theorem', "chow's theorem", 'chowla-mordell theorem', 'church-rosser theorem', 'circumcircle#angles', "clairaut's theorem", "clapeyron's theorem", 'clark-ocone theorem', 'classification of compact surfaces', 'classification of finite simple groups', 'classification of platonic solids', 'classification of symmetric spaces', 'clausius theorem', "clifford's circle theorems", "clifford's theorem on special divisors", 'closed graph theorem', 'closed range theorem', 'closed subgroup theorem', 'cluster decomposition theorem', 'coase theorem', "cochran's theorem", "codd's theorem", 'cohen structure theorem', "cohn's irreducibility criterion", 'coleman-mandula theorem', "commandino's theorem", 'commutation theorem', 'compactness theorem', 'compression theorem', 'conley-zehnder theorem', 'conservativity theorem', 'constant chord theorem', 'constant rank theorem', 'continuous mapping theorem', 'continuum hypothesis#independence from zfc', 'convergence problem#van vleck.27s theorem', 'convolution theorem', 'conway circle theorem', "cook's theorem", 'corners theorem', 'corona theorem', "courcelle's theorem", "cousin's lemma", "cousin's theorem#in henstock-kurzweil integration", "cox's theorem", 'cpctc', "craig's interpolation theorem", "craig's theorem", "cramer's theorem", "cramer's theorem", 'cramer-wold theorem', 'cramer’s decomposition theorem', 'critical line theorem', 'crooks fluctuation theorem', 'crossbar theorem', 'crystallographic restriction theorem', 'cubic equation', 'curtis-hedlund-lyndon theorem', 'cut-elimination theorem', "dandelin's theorem", "danskin's theorem", "darboux's theorem", "darboux's theorem", 'davenport-schmidt theorem', 'dawson-gartner theorem', "de branges's theorem", "de bruijn's theorem", "de finetti's theorem", 'de franchis theorem', "de gua's theorem", "de moivre's formula", "de moivre's theorem", "de rham's theorem", 'decomposition theorem of beilinson, bernstein and deligne', 'deduction theorem', 'defect #descartes.27s theorem', 'dehn function#known results', 'dehn-nielsen-baer theorem', 'denjoy theorem', 'denjoy-carleman theorem', 'denjoy-luzin theorem', 'denjoy-young-saks theorem', "desargues's theorem", "descartes's theorem", "descartes's theorem on total angular defect", "diaconescu's theorem", 'diller-dress theorem', "dilworth's theorem", 'dimension theorem for vector spaces', "dini's theorem", 'dinitz conjecture', "dinostratus' theorem", "dirac's theorem on chordal graphs", "dirac's theorems", "dirichlet's approximation theorem", "dirichlet's theorem on arithmetic progressions", "dirichlet's unit theorem", 'discrete series representation', 'disintegration theorem', 'divergence theorem', 'dold-thom theorem', 'dominated convergence theorem', "donaldson's theorem", "donsker's theorem", 'doob decomposition theorem', "doob's martingale convergence theorems", 'doob-meyer decomposition theorem', 'double-negation translation#propositional logic', "dudley's theorem", 'duggan-schwartz theorem', 'dunford-pettis theorem', 'dunford-schwartz theorem', "earnshaw's theorem", "easton's theorem", 'eberlein-smulian theorem', 'edge-of-the-wedge theorem', "edgeworth's limit theorem", "egorov's theorem", "ehresmann's theorem", 'eilenberg-ganea theorem', 'eilenberg-zilber theorem', "elitzur's theorem", 'envelope theorem', 'equal incircles theorem', 'equidistribution theorem', 'equipartition theorem', 'erdos-anning theorem', 'erdos-dushnik-miller theorem', 'erdos-gallai theorem', 'erdos-ginzburg-ziv theorem', 'erdos-kac theorem', 'erdos-ko-rado theorem', 'erdos-nagy theorem', 'erdos-posa theorem', 'erdos-rado theorem', 'erdos-stone theorem', 'erdos-szekeres theorem', "euclid's theorem", 'euclid-euler theorem', 'euclidean algorithm#algorithmic efficiency', "euler's partition theorem", "euler's polyhedron theorem", "euler's quadrilateral theorem", "euler's rotation theorem", "euler's theorem", "euler's theorem", "euler's theorem in geometry", "euler's theorem on homogeneous functions", "euler's totient function#ford's theorem", 'exchange theorem', 'excision theorem', 'exterior angle theorem', 'extreme value theorem', 'f. and m. riesz theorem', 'factor theorem', "fagin's theorem", "faltings's theorem", 'farey sequence#riemann hypothesis', 'farrell-markushevich theorem', "fary's theorem", 'fary-milnor theorem', "fatou's theorem", 'fatou-lebesgue theorem', 'faustman-ohlin theorem', 'feferman-vaught theorem', 'feit-thompson theorem', "fenchel's duality theorem", "fenchel's theorem", 'fenchel-moreau theorem', 'fermat polygonal number theorem', "fermat's last theorem", "fermat's little theorem", "fermat's theorem", "fermat's theorem on sums of two squares", "fernique's theorem", 'ferrero-washington theorem', "feuerbach's theorem", "fieller's theorem", 'final value theorem', 'finsler-hadwiger theorem', 'fisher separation theorem', 'fisher-tippett-gnedenko theorem', "fitting's theorem", 'five circles theorem', 'five color theorem', 'flat torus theorem', 'floquet theory#floquet theorem', "floquet's theorem", 'fluctuation dissipation theorem', 'fluctuation theorem', 'focal subgroup theorem', 'folk theorem', 'folk theorem', "ford's theorem", "foster's theorem", 'four color theorem', 'four functions theorem', 'four-vertex theorem', 'fourier inversion theorem', 'fourier theorem', 'franel-landau theorem', 'frankova-helly selection theorem', "fredholm's theorem", 'freidlin-wentzell theorem', "freiman's theorem", 'freudenthal suspension theorem', "freyd's adjoint functor theorem", 'friedberg-muchnik theorem', 'friendship theorem', 'frobenius determinant theorem', 'frobenius reciprocity theorem', 'frobenius theorem', 'frobenius theorem', 'frobenius theorem', "froda's theorem", "frucht's theorem", "fubini's theorem", "fubini's theorem on differentiation", "fuchs's theorem", "fuglede's theorem", 'full employment theorem', 'fulton-hansen connectedness theorem', 'fundamental theorem of algebra', 'fundamental theorem of arbitrage-free pricing', 'fundamental theorem of arithmetic', 'fundamental theorem of calculus', 'fundamental theorem of equivalence relations', 'fundamental theorem of galois theory', 'fundamental theorem on homomorphisms', 'fundamental theorems of welfare economics', "furry's theorem", 'fwl theorem', "galvin's theorem", "gamas's theorem", 'gap theorem', 'gauss theorem', "gauss's lemma", "gauss's lemma", "gauss's theorema egregium", 'gauss-bonnet theorem', 'gauss-lucas theorem', 'gauss-markov theorem', 'gauss-wantzel theorem', 'gelfand-mazur theorem', 'gelfand-naimark theorem', 'gelfond-schneider theorem', 'gell-mann and low theorem', 'geometric mean theorem', 'geometrization conjecture', "geroch's splitting theorem", 'gershgorin circle theorem', 'gibbard-satterthwaite theorem', "girsanov's theorem", "glaisher's theorem", "gleason's theorem", "glivenko's theorem", "glivenko's theorem", 'glivenko-cantelli theorem', 'goddard-thorn theorem', "godel's completeness theorem", "godel's incompleteness theorem", "godunov's theorem", 'going up and going down', 'going-up and going-down theorems', 'goldberg-sachs theorem', "goldie's theorem", 'goldstine theorem', "goldstone's theorem", 'golod-shafarevich theorem', "gomory's theorem", "goodstein's theorem", 'gordon-newell theorem', 'gottesman-knill theorem', 'gradient theorem', 'graph structure theorem', 'grauert-riemenschneider vanishing theorem', 'great orthogonality theorem', "green's theorem", 'green-tao theorem', "grinberg's theorem", "gromov's compactness theorem", "gromov's compactness theorem", "gromov's compactness theorem", "gromov's theorem on groups of polynomial growth", "gromov's theorem on groups of polynomial growth#growth rates of nilpotent groups", 'gromov-ruh theorem', 'gross-zagier theorem', "grothendieck's connectedness theorem", 'grothendieck-hirzebruch-riemann-roch theorem', "grotzsch's theorem", "grunsky's theorem", 'grunwald-wang theorem', 'grushko theorem', 'h-cobordism theorem', 'h-theorem', "haag's theorem", 'haag-łopuszanski-sohnius theorem', "haboush's theorem", 'hadamard three-circle theorem', 'hadamard three-lines theorem', "hadwiger's theorem", 'hahn decomposition theorem', 'hahn embedding theorem', 'hahn-banach theorem', 'hahn-kolmogorov theorem', 'hahn-mazurkiewicz theorem', 'hairy ball theorem', 'hajnal-szemeredi theorem', 'hales-jewett theorem', "hall's marriage theorem", 'halpern-lauchli theorem', 'ham sandwich theorem', 'hammersley-clifford theorem', "hardy's theorem", 'hardy-littlewood maximal theorem', 'hardy-littlewood tauberian theorem', 'hardy-ramanujan theorem', 'harish-chandra theorem', "harish-chandra's regularity theorem", "harnack's curve theorem", "harnack's theorem", 'hartman-grobman theorem', "hartogs's extension theorem", "hartogs's theorem", 'hartogs-rosenthal theorem', 'hasse norm theorem', "hasse's theorem on elliptic curves", 'hasse-arf theorem', 'hasse-minkowski theorem', 'hausdorff maximal principle', 'hausdorff maximality theorem', 'hausdorff-young inequality', 'heckscher-ohlin theorem', 'heegaard splitting', 'heine-borel theorem', 'heine-cantor theorem', 'hellinger-toeplitz theorem', 'hellmann-feynman theorem', "helly's selection theorem", "helly's theorem", 'helly-bray theorem', 'helmholtz theorem', "helmholtz's theorems", "herbrand's theorem", 'herbrand-ribet theorem', "higman's embedding theorem", 'hilbert projection theorem', "hilbert transform#titchmarsh's theorem", "hilbert's basis theorem", "hilbert's fifth problem", "hilbert's irreducibility theorem", "hilbert's nullstellensatz", "hilbert's syzygy theorem", "hilbert's theorem", "hilbert's theorem", "hilbert's theorem 90", 'hilbert-schmidt theorem', 'hilbert-speiser theorem', 'hilbert-waring theorem', 'hille-yosida theorem', "hilton's theorem", 'hilton-milnor theorem', "hindman's theorem", 'hinge theorem', 'hironaka theorem', 'hirzebruch signature theorem', 'hirzebruch-riemann-roch theorem', "hjelmslev's theorem", 'hobby-rice theorem', 'hodge index theorem', 'hohenberg-kohn theorems', "holder's theorem", "holditch's theorem", "holland's schema theorem", "holmstrom's theorem", 'homotopy excision theorem', 'hopf theorem', 'hopf-rinow theorem', 'hurewicz theorem', "hurwitz's automorphisms theorem", "hurwitz's theorem", "hurwitz's theorem", "hurwitz's theorem", "hurwitz's theorem", 'hyperbolization theorem', 'identity theorem', 'identity theorem for riemann surfaces', 'immerman-szelepcsenyi theorem', 'implicit function theorem', 'impossibility of angle trisection', 'increment theorem', 'independence of the axiom of choice', 'independence of the continuum hypothesis', 'independence of the parallel postulate', 'infinite monkey theorem', 'initial value theorem', 'inscribed angle theorem', 'inscribed angle#theorem', 'integer partition#odd parts and distinct parts', 'integral representation theorem for classical wiener space', 'integral root theorem', 'intercept theorem', 'intermediate value theorem', 'intersecting chords theorem', 'intersecting secants theorem', 'intersection theorem', 'inverse eigenvalues theorem', 'inverse function theorem', 'ionescu-tulcea theorem', 'isomorphism extension theorem', 'isomorphism theorem', 'isoperimetric gap', 'isoperimetric theorem', 'iwasawa decomposition', "jackson's theorem", "jackson's theorem", "jacobi's four-square theorem", 'jacobson density theorem', 'jacobson-bourbaki theorem', 'jacobson-morozov theorem', 'japanese theorem for concyclic polygons', 'japanese theorem for concyclic quadrilaterals', 'john ellipsoid', 'jordan curve theorem', "jordan's theorem", 'jordan-holder theorem', 'jordan-schonflies theorem', 'jordan-schur theorem', "joubert's theorem", 'jsj decomposition', 'jsj theorem', "jung's theorem", 'jurkat-richert theorem', "kachurovskii's theorem", 'kanamori-mcaloon theorem', 'kantorovich theorem', 'kaplansky density theorem', "kaplansky's theorem on quadratic forms", 'karhunen-loeve theorem', 'karp-lipton theorem', 'katz-lang finiteness theorem', 'kawamata-viehweg vanishing theorem', "kawasaki's theorem", "kelvin's circulation theorem", 'kempf-ness theorem', 'kepler conjecture', "kharitonov's theorem", "khinchin's theorem", "khinchin's theorem on diophantine approximations", 'killing-hopf theorem', 'kinoshita-lee-nauenberg theorem', 'kirby-paris theorem', "kirchberger's theorem", "kirchhoff's theorem", 'kirszbraun theorem', 'kleene fixed-point theorem', "kleene's recursion theorem", 'knaster-tarski theorem', "kneser's theorem", "kneser's theorem", "kneser's theorem", 'kochen-specker theorem', 'kodaira embedding theorem', 'kodaira vanishing theorem', 'koebe 1/4 theorem', 'kolmogorov extension theorem', "kolmogorov's three-series theorem", 'kolmogorov-arnold representation theorem', 'kolmogorov-arnold-moser theorem', "komura's theorem", "konig's theorem", "konig's theorem", "konig's theorem", "konig's theorem", "konig's theorem", 'kovari-sos-turan theorem', 'kraft-mcmillan theorem', "kramers' theorem", 'krein-milman theorem', "krener's theorem", "kronecker's theorem", 'kronecker-weber theorem', "krull's principal ideal theorem", 'krull-schmidt theorem', "kruskal's tree theorem", 'kruskal-katona theorem', 'krylov-bogolyubov theorem', "kuhn's theorem", "kuiper's theorem", 'kunneth theorem', "kuratowski's closure-complement problem", "kuratowski's theorem", 'kurosh subgroup theorem', 'kutta-joukowski theorem', 'l-balance theorem', "ladner's theorem", "lafforgue's theorem", 'lagrange inversion theorem', 'lagrange reversion theorem', "lagrange's four-square theorem", "lagrange's theorem", "lagrange's theorem", "lagrange's theorem", 'lambek-moser theorem', 'lame’s theorem', "lami's theorem", 'landau prime ideal theorem', 'landweber exact functor theorem', 'lasker-noether theorem', 'lattice theorem', 'laurent expansion theorem', "lauricella's theorem", "lawvere's fixed-point theorem", 'lax-milgram theorem', 'lax-richtmyer theorem', 'lax-wendroff theorem', "le cam's theorem", 'lebesgue covering dimension', 'lebesgue differentiation theorem', "lebesgue's decomposition theorem", "lebesgue's density theorem", 'lee hwa chung theorem', 'lee-yang theorem', 'lefschetz fixed-point theorem', 'lefschetz hyperplane theorem', 'lefschetz theorem on -classes', 'lefschetz-hopf theorem', 'lehmann-scheffe theorem', "leray's theorem", 'leray-hirsch theorem', 'lerner symmetry theorem', "lester's theorem", "levi's theorem", "levitzky's theorem", 'levy continuity theorem', "levy's modulus of continuity theorem", "lexell's theorem", 'lickorish twist theorem', 'lickorish-wallace theorem', "lie's theorem", "lie's third theorem", 'lie-kolchin theorem', 'lie-palais theorem', "lienard's theorem", "lindelof's theorem", 'lindemann-weierstrass theorem', "lindstrom's theorem", 'linear congruence theorem', 'linear speedup theorem', "linnik's theorem", 'lions-lax-milgram theorem', "liouville's theorem", "liouville's theorem", "liouville's theorem", "liouville's theorem", "little bezout's theorem", "lob's theorem", 'local invariant cycle theorem', "lochs's theorem", 'looman-menchoff theorem', "lovelock's theorem", 'lowenheim-skolem theorem', "lucas's theorem", "lukacs's proportion-sum independence theorem", 'lumer-phillips theorem', "luzin's theorem", "lyapunov's central limit theorem", 'lyapunov-malkin theorem', 'm. riesz extension theorem', 'macmahon master theorem', "maharam's theorem", "mahler's compactness theorem", "mahler's theorem", "maier's theorem", 'malgrange preparation theorem', 'malgrange-ehrenpreis theorem', 'malgrange-zerner theorem', 'manin-drinfeld theorem', "mann's theorem", 'mapping class group of a surface#the birman exact sequence', 'mapping class group of a surface#the dehn-nielsen-baer theorem', 'marcinkiewicz theorem', "marden's theorem", 'marginal value theorem', 'markus−yamabe theorem', "marsaglia's theorem", 'martingale representation theorem', "maschke's theorem", 'mason-stothers theorem', 'master theorem', "matiyasevich's theorem", 'max flow min cut theorem', "max noether's theorem", 'max/min csp/ones classification theorems', 'maximal ergodic theorem', 'maximum power theorem', "maxwell's theorem", "may's theorem", "mazur's control theorem", "mazur's torsion theorem", 'mazur-ulam theorem', 'mean value theorem', 'measurable riemann mapping theorem', 'mellin inversion theorem', "menelaus's theorem", "menger's theorem", "mercer's theorem", "mergelyan's theorem", 'mermin-wagner theorem', "mertens's theorems", 'metrization theorems', "meusnier's theorem", "midy's theorem", "mihailescu's theorem", "milliken's tree theorem", 'milliken-taylor theorem', 'milman-pettis theorem', 'min-max theorem', 'minimax theorem', "minkowski's second theorem", "minkowski's theorem", 'minkowski-hlawka theorem', "minlos's theorem", "miquel's theorem", 'mirsky-newman theorem', "mitchell's embedding theorem", "mittag-leffler's theorem", 'modigliani-miller theorem', 'modularity theorem', 'mohr-mascheroni theorem', "monge's theorem", 'monodromy theorem', 'monotone class theorem', 'monotone convergence theorem', "monsky's theorem", "montel's theorem", 'montgomery-zippin-gleason theorem', 'moore-aronszajn theorem', 'mordell-weil theorem', "moreau's theorem", "morera's theorem", "morley's categoricity theorem", "morley's trisector theorem", "morton's theorem", 'mostow rigidity theorem', 'moufang loop#associativity', "moufang's theorem", 'mountain pass theorem', 'moving equilibrium theorem', 'multinomial theorem', 'multiplication theorem', 'multiplicity-one theorem', 'mumford vanishing theorem', 'muntz-szasz theorem', 'mutual fund separation theorem', "mycielski's theorem", 'myers theorem', 'myers-steenrod theorem', 'myhill-nerode theorem', "nachbin's theorem", "nagata's compactification theorem", 'nagata-smirnov metrization theorem', 'nagell-lutz theorem', "napoleon's theorem", 'nash embedding theorem', 'nash-moser theorem', "netto's theorem", 'newlander-niremberg theorem', "newton's theorem", "newton's theorem about ovals", "nicomachus's theorem", 'nielsen fixed-point theorem', 'nielsen realization problem', 'nielsen-ninomiya theorem', 'nielsen-schreier theorem', 'nielsen-thurston classification', 'nilpotence theorem', "niven's theorem", 'no free lunch in search and optimization', 'no free lunch theorem', 'no wandering domain theorem', 'no-broadcasting theorem', 'no-cloning theorem', 'no-communication theorem', 'no-deleting theorem', 'no-hair theorem', 'no-trade theorem', "noether's second theorem", "noether's theorem", "noether's theorem on rationality for surfaces", 'non-squeezing theorem', "norton's theorem", "novikov's compact leaf theorem", 'nyquist-shannon sampling theorem', 'odd number theorem', 'open mapping theorem', 'open mapping theorem', 'open mapping theorem', 'optical equivalence theorem', 'optical theorem', 'optional stopping theorem', 'orbit #corollary', 'orbit #orbit theorem', 'orbit theorem', 'orbit-stabilizer theorem', "ore's theorem", 'orlicz-pettis theorem', 'ornstein theorem', 'oseledec theorem', 'osterwalder-schrader theorem', "ostrowski's theorem", 'ostrowski-hadamard gap theorem', "paley's theorem", 'paley-wiener theorem', 'pandya theorem', "pappus's area theorem", "pappus's centroid theorem", "pappus's hexagon theorem", 'parallel axis theorem', 'parallel postulate#history', 'paris-harrington theorem', "parovicenko's theorem", "parseval's theorem", "parthasarathy's theorem", "pascal's theorem", "pasch's theorem", 'pcp theorem', 'peano existence theorem', 'peeling theorem', 'peetre theorem', "peixoto's theorem", "pell's equation", 'penrose-hawking singularity theorems', 'pentagonal number theorem', "perelman's geometrization theorem", 'perfect graph theorem', 'perlis theorem', 'perpendicular axis theorem', 'perron-frobenius theorem', 'peter-weyl theorem', 'phragmen-lindelof theorem', 'picard theorem', 'picard-lindelof theorem', "pick's theorem", 'pickands-balkema-de haan theorem', 'pitman-koopman-darmois theorem', 'pitot theorem', 'pivot theorem', 'pizza theorem', 'planar separator theorem', 'plancherel theorem', 'plancherel theorem for spherical functions', 'platonic solid#classification', 'poincare conjecture', 'poincare duality theorem', 'poincare recurrence theorem', 'poincare-bendixson theorem', 'poincare-birkhoff-witt theorem', 'poincare-hopf theorem', 'poisson limit theorem', 'polya enumeration theorem', 'polynomial remainder theorem', "pomeranchuk's theorem", "pompeiu's theorem", "poncelet's closure theorem", 'poncelet-steiner theorem', 'pontryagin duality theorem', 'pontryagin duality#pontryagin duality theorem', 'positive energy theorem', "post's theorem", "poynting's theorem", 'preimage theorem', "preissmann's theorem#flat torus theorem", "price's theorem", 'prime number theorem', 'primitive element theorem', 'principal axis theorem', 'principal ideal theorem', "prokhorov's theorem", 'proper base change theorem', "proth's theorem", 'pseudorandom generator theorem', "ptolemy's theorem", 'puiseux series#newton-puiseux theorem', "puiseux's theorem", 'pythagorean theorem', 'quantum threshold theorem', 'quartic equation', 'quasiconformal mapping#measurable riemann mapping theorem', 'quillen-suslin theorem', 'quotient of subspace theorem', "rademacher's theorem", "rado's theorem", "rado's theorem", "radon's theorem", 'radon-nikodym theorem', "raikov's theorem", 'ramanujam vanishing theorem', "ramanujan-skolem's theorem", "ramsey's theorem", 'rank-nullity theorem', 'rao-blackwell theorem', 'rashevsky-chow theorem', 'rational root theorem', "ratner's theorems", 'rauch comparison theorem', "redei's theorem", 'reeb sphere theorem', 'reeh-schlieder theorem', 'reflection theorem', "regev's theorem", 'regular homotopy', 'reidemeister-singer theorem', "reider's theorem", 'remmert-stein theorem', 'residue theorem', "reuschle's theorem", 'reversed compound agent theorem', 'reynolds transport theorem', "ribet's theorem", "rice's theorem", 'rice-shapiro theorem', 'richard h. price', "richardson's theorem", 'riemann mapping theorem', 'riemann series theorem', 'riemann singularity theorem', "riemann's existence theorem", "riemann's theorem on removable singularities", 'riemann-roch theorem', 'riemann-roch theorem for smooth manifolds', 'riemann-roch theorem for surfaces', 'riesz representation theorem', 'riesz-fischer theorem', 'riesz-thorin theorem', 'ringel-youngs theorem', 'rising sun lemma', "robbins' theorem", 'robertson-seymour theorem', "robin's theorem", "robinson's joint consistency theorem", "rokhlin's theorem", "rolle's theorem", "rosser's theorem", "rouche's theorem", 'rouche-capelli theorem', "routh's theorem", 'routh-hurwitz theorem', "runge's theorem", 'rybczynski theorem', 'ryll-nardzewski fixed-point theorem', 's-cobordism theorem', 's-cobordism theorem#the s-cobordism theorem', 'saccheri-legendre theorem', 'sahlqvist correspondence theorem', "saint-venant's theorem", "sard's theorem", "sarkovskii's theorem", "savitch's theorem", "sazonov's theorem", "schaefer's dichotomy theorem", 'schauder fixed-point theorem', "schilder's theorem", 'schneider-lang theorem', "schnyder's theorem", 'schreier refinement theorem', 'schroder-bernstein theorem for measurable spaces', 'schroder-bernstein theorems for operator algebras', "schur's lemma", "schur's theorem", 'schur-zassenhaus theorem', 'schwartz kernel theorem', 'schwartz-zippel theorem', 'schwarz-ahlfors-pick theorem', "schwenk's theorem", 'scott core theorem', 'seifert-van kampen theorem', "sela's theorem", 'sensitivity theorem', 'separating axis theorem', "shannon's expansion theorem", "shannon's source coding theorem", "shannon's theorem", 'shannon-hartley theorem', 'shell theorem', 'shift theorem', 'shirshov-cohn theorem', 'shirshov-witt theorem', 'siegel-walfisz theorem', 'silverman-toeplitz theorem', 'simplicial approximation theorem', "sinkhorn's theorem", "sion's minimax theorem", 'sipser-lautemann theorem', "siu's semicontinuity theorem", 'six circles theorem', 'six exponentials theorem', "sklar's theorem", 'skoda-el mir theorem', 'skolem-mahler-lech theorem', 'skolem-noether theorem', "skorokhod's embedding theorem", "skorokhod's representation theorem", 'sleszynski-pringsheim theorem', "slutsky's theorem", 'smn theorem', "snaith's theorem", 'sobolev embedding theorem', 'sokhatsky-weierstrass theorem', "soler's theorem", 'solutions of a general cubic equation', 'solutions of a general quartic equation', "solutions to pell's equation", 'sonnenschein-mantel-debreu theorem', "sophie germain's theorem", 'soul theorem', 'soundness theorem', 'space hierarchy theorem', "specht's theorem", 'spectral theorem', 'speedup theorem', "sperner's theorem", 'sphere packing theorems in dimensions 8 and 24', 'sphere packing#hypersphere packing', 'sphere theorem', 'spin-statistics theorem', 'sprague-grundy theorem', 'squeeze theorem', "stahl's theorem", 'stallings theorem about ends of groups', 'stallings-zeeman theorem', "stanley's reciprocity theorem", 'star of david theorem', 'stark-heegner theorem', 'stein-stromberg theorem', 'steiner-lehmus theorem', 'steinhaus theorem', 'steinitz theorem', "stewart's theorem", 'stinespring factorization theorem', "stirling's theorem", "stokes's theorem", 'stolper-samuelson theorem', 'stolz-cesaro theorem', 'stone duality#the duality theorem', "stone's representation theorem for boolean algebras", "stone's theorem on one-parameter unitary groups", 'stone-tukey theorem', 'stone-von neumann theorem', 'stone-weierstrass theorem', "strassmann's theorem", 'strong perfect graph theorem', 'structure theorem for finitely generated modules over a principal ideal domain', 'structure theorem for gaussian measures', 'structured program theorem', "sturm's theorem", 'sturm-picone comparison theorem', 'subspace theorem', 'sullivan conjecture', 'superrigidity theorem', 'supersymmetry nonrenormalization theorems', 'supporting hyperplane theorem', 'surface #classification of closed surfaces', 'svarc-milnor lemma', 'svarc-milnor lemma', "swan's theorem", 'sylow theorems', 'sylvester pentahedral theorem', "sylvester's determinant theorem", "sylvester's law of inertia", "sylvester's theorem", 'sylvester-gallai theorem', 'symmetric hypergraph theorem', 'symmetric space#classification of riemannian symmetric spaces', 'symphonic theorem', "synge's theorem", "sz.-nagy's dilation theorem", 'szego limit theorems', "szemeredi's theorem", 'szemeredi-trotter theorem', 'szpilrajn extension theorem', 'takagi existence theorem', "takens's theorem", 'tameness theorem', 'tangent-secant theorem', "tarski's indefinability theorem", "tarski's plank problem", "taylor's theorem", 'taylor-proudman theorem', "tennenbaum's theorem", "thabit ibn qurra's theorem", 'thabit number', "thales's theorem", 'the duality theorem', "thebault's theorem", 'theorem of de moivre-laplace', 'theorem of the cube', 'theorem of the gnomon', 'theorem of three moments', 'theorem on friends and strangers', "thevenin's theorem", 'thom transversality theorem', 'thompson transitivity theorem', 'thompson uniqueness theorem', "thomsen's theorem", 'thue equation', "thue's theorem", 'thue-siegel-roth theorem', "thurston's geometrization theorem", 'tietze extension theorem', "tijdeman's theorem", 'tikhonov fixed-point theorem', 'time hierarchy theorem', 'titchmarsh convolution theorem', 'titchmarsh theorem', 'tits alternative', "toda's theorem", "tomita's theorem", "tonelli's theorem", "tonelli's theorem", "topkis's theorem", "toponogov's theorem", 'torelli theorem', 'trichotomy theorem', 'trombi-varadarajan theorem', "trudinger's theorem", "tsen's theorem", "tunnell's theorem", "turan's theorem", 'turan-kubilius inequality', 'turan-kubilius theorem', 'tutte theorem', "tverberg's theorem", "tychonoff's theorem", 'ugly duckling theorem', 'uncountability of the continuum', 'uniformization theorem', 'universal approximation theorem', 'universal coefficient theorem', 'unmixedness theorem', 'vafa-witten theorem', 'valiant-vazirani theorem', "van aubel's theorem", "van der waerden's theorem", "van schooten's theorem", "van vleck's theorem", 'vantieghems theorem', "varignon's theorem", "vieta's formulas", 'vietoris-begle mapping theorem', "vinogradov's theorem", 'virial theorem', 'vitali convergence theorem', 'vitali covering theorem', 'vitali set', 'vitali theorem', 'vitali-hahn-saks theorem', "viviani's theorem", 'von neumann bicommutant theorem', "von neumann's theorem", 'von staudt-clausen theorem', "wagner's theorem", "waldhausen's theorem", 'wallace-bolyai-gerwien theorem', 'walter theorem', "weber's theorem", "weber's theorem", "wedderburn's little theorem", "wedderburn's theorem", 'weierstrass factorization theorem', 'weierstrass preparation theorem', 'weierstrass-casorati theorem', 'weinberg-witten theorem', 'well-ordering theorem', 'whitehead theorem', 'whitney embedding theorem', 'whitney extension theorem', 'whitney immersion theorem', 'whitney-graustein theorem', "wick's theorem", "wiener's tauberian theorem", 'wiener-ikehara theorem', 'wigner-eckart theorem', "wilkie's theorem", "wilson's theorem", "witt's theorem", "wold's theorem", "wolstenholme's theorem", 'z* theorem', 'zahorski theorem', "zariski's connectedness theorem", "zariski's main theorem", "zeckendorf's theorem", 'zeilberger-bressoud theorem', 'zj theorem', 'zlil sela#mathematical contributions', "zorn's lemma", "zsigmondy's theorem", "łos' theorem"]
+
+
+Labeled Theorems (not in Wikipedia list):
+   1.    WDID(Q32028) superposition theorem
+   2.    WDID(Q57463) Andreotti–Grauert theorem
+   3.    WDID(Q57486) fundamental theorem of curves
+   4.    WDID(Q57498) fundamental theorem of linear programming
+   5.    WDID(Q60190) principle of explosion
+   6.   WDID(Q138596) Mostowski collapse lemma
+   7.   WDID(Q164321) law of cosines
+   8.   WDID(Q170181) law of sines
+   9.   WDID(Q172298) primary decomposition
+  10.   WDID(Q173300) De Morgan's laws
+  11.   WDID(Q174955) Catalan's conjecture
+  12.   WDID(Q176674) Markov brothers' inequality
+  13.   WDID(Q181054) Euclidean division
+  14.   WDID(Q182714) Heron's formula
+  15.   WDID(Q184871) Euler's formula
+  16.   WDID(Q188276) pigeonhole principle
+  17.   WDID(Q190546) Cauchy–Schwarz inequality
+  18.   WDID(Q190557) L'Hôpital's rule
+  19.   WDID(Q193882) Menelaus' theorem
+  20.   WDID(Q198740) law of the iterated logarithm
+  21.   WDID(Q200787) Gödel's incompleteness theorems
+  22.   WDID(Q204819) Euler's identity
+  23.   WDID(Q205472) Zipf's law
+  24.   WDID(Q207455) chain rule
+  25.   WDID(Q207952) law of large numbers
+  26.   WDID(Q208216) triangle inequality
+  27.   WDID(Q240950) Faltings' theorem
+  28.   WDID(Q249514) Chebyshev's inequality
+  29.   WDID(Q256303) Lax equivalence theorem
+  30.   WDID(Q260060) charge-parity-time symmetry
+  31.   WDID(Q277987) Teichmüller–Tukey lemma
+  32.   WDID(Q279090) Brahmagupta–Fibonacci identity
+  33.   WDID(Q282023) Euler–Maclaurin formula
+  34.   WDID(Q285719) Thales' theorem
+  35.   WDID(Q318714) Abel's identity
+  36.   WDID(Q318754) summation by parts
+  37.   WDID(Q320577) Yoneda lemma
+  38.   WDID(Q322666) Cramer's rule
+  39.   WDID(Q339606) modus ponendo tollens
+  40.   WDID(Q366730) Ky Fan inequality
+  41.   WDID(Q367866) computational formula for the variance
+  42.   WDID(Q371685) Kraft's inequality
+  43.   WDID(Q373593) law of cotangents
+  44.   WDID(Q377276) Cook–Levin theorem
+  45.   WDID(Q378741) Carleman's inequality
+  46.   WDID(Q383238) Hartogs' extension theorem
+  47.   WDID(Q387743) Poisson summation formula
+  48.   WDID(Q392440) monstrous moonshine
+  49.   WDID(Q420714) Akra–Bazzi method
+  50.   WDID(Q467756) Stokes' theorem
+  51.   WDID(Q468422) principle of excluded middle
+  52.   WDID(Q468887) law of tangents
+  53.   WDID(Q470877) Stirling's approximation
+  54.   WDID(Q472883) quadratic reciprocity
+  55.   WDID(Q479834) Abel's test
+  56.   WDID(Q494995) Riemann–Hurwitz formula
+  57.   WDID(Q495412) Schoenflies problem
+  58.   WDID(Q510733) Gronwall's inequality
+  59.   WDID(Q512897) Brooks' theorem
+  60.   WDID(Q516403) Euler's polyhedron formula
+  61.   WDID(Q517378) Boole's inequality
+  62.   WDID(Q518131) Jensen's inequality
+  63.   WDID(Q537518) Bretschneider's formula
+  64.   WDID(Q538557) Leibniz formula for determinants
+  65.   WDID(Q552367) Berge's lemma
+  66.   WDID(Q571154) Fejér's theorem
+  67.   WDID(Q574902) Tarski's undefinability theorem
+  68.   WDID(Q580245) Crocco's theorem
+  69.   WDID(Q586051) Haag–Lopuszanski–Sohnius theorem
+  70.   WDID(Q588218) Koebe quarter theorem
+  71.   WDID(Q588736) Millman's theorem
+  72.   WDID(Q601134) Shapiro inequality
+  73.   WDID(Q606254) Farkas' lemma
+  74.   WDID(Q608294) Max-flow min-cut theorem
+  75.   WDID(Q617388) Little's Law
+  76.   WDID(Q617417) isoperimetric inequality
+  77.   WDID(Q648511) median voter theorem
+  78.   WDID(Q649616) isosceles triangle theorem
+  79.   WDID(Q655196) Roy's identity
+  80.   WDID(Q657820) Fredholm alternative
+  81.   WDID(Q657903) Waring's problem
+  82.   WDID(Q663129) Okishio's theorem
+  83.   WDID(Q670618) Arden's rule
+  84.   WDID(Q681147) Serre's modularity conjecture
+  85.   WDID(Q713069) Artin reciprocity law
+  86.   WDID(Q725944) Runge–Kutta method
+  87.   WDID(Q727729) Gauss's test
+  88.   WDID(Q728969) Torricelli's law
+  89.   WDID(Q729373) Chomsky–Schützenberger theorem
+  90.   WDID(Q729471) Cantor's diagonal argument
+  91.   WDID(Q731894) Hölder's inequality
+  92.   WDID(Q733336) Sperner's lemma
+  93.   WDID(Q736383) Kummer's test
+  94.   WDID(Q737851) Banach–Tarski paradox
+  95.   WDID(Q744925) Condorcet's jury theorem
+  96.   WDID(Q755092) Minkowski inequality
+  97.   WDID(Q760892) Popoviciu's inequality
+  98.   WDID(Q781220) Van Lamoen circle
+  99.   WDID(Q784038) Rado’s selection principle
+ 100.   WDID(Q784909) Sommerfeld identity
+ 101.   WDID(Q794042) Bessel's inequality
+ 102.   WDID(Q804316) Baker–Campbell–Hausdorff formula
+ 103.   WDID(Q826791) Bernstein inequalities
+ 104.   WDID(Q830124) Girsanov theorem
+ 105.   WDID(Q831721) Lovász local lemma
+ 106.   WDID(Q834025) Cauchy's integral theorem
+ 107.   WDID(Q841893) Desargues' theorem
+ 108.   WDID(Q842436) Markov's inequality
+ 109.   WDID(Q844118) modus tollens
+ 110.   WDID(Q847822) 68–95–99.7 rule
+ 111.   WDID(Q859102) Cauchy's convergence test
+ 112.   WDID(Q859176) Cayley's formula
+ 113.   WDID(Q865371) Mahler's inequality
+ 114.   WDID(Q868279) Harnack's inequality
+ 115.   WDID(Q868437) law of noncontradiction
+ 116.   WDID(Q877489) Apollonius' theorem
+ 117.   WDID(Q886305) Blumenthal's zero–one law
+ 118.   WDID(Q892869) Bonse's inequality
+ 119.   WDID(Q893496) Borel–Cantelli lemma
+ 120.   WDID(Q898252) Dini test
+ 121.   WDID(Q908669) Ehrenfest theorem
+ 122.   WDID(Q910563) Young's inequality
+ 123.   WDID(Q913327) Tellegen's theorem
+ 124.   WDID(Q913764) Cauchy's integral formula
+ 125.   WDID(Q914099) alternating series test
+ 126.   WDID(Q918258) Fagnano's problem
+ 127.   WDID(Q919125) parallelogram law
+ 128.   WDID(Q929547) Myers's theorem
+ 129.   WDID(Q929777) Gromov–Hausdorff convergence
+ 130.   WDID(Q930173) Muirhead's inequality
+ 131.   WDID(Q931404) Bertrand–Diguet–Puiseux theorem
+ 132.   WDID(Q935404) Binet–Cauchy identity
+ 133.   WDID(Q937458) Wald's equation
+ 134.   WDID(Q937921) Simson line
+ 135.   WDID(Q944228) Hardy's inequality
+ 136.   WDID(Q944238) Parseval's identity
+ 137.   WDID(Q944604) tennis racket theorem
+ 138.   WDID(Q947364) Wirtinger's inequality for functions
+ 139.   WDID(Q948116) consensus theorem
+ 140.   WDID(Q954454) handshaking lemma
+ 141.   WDID(Q955054) Kleene's theorem
+ 142.   WDID(Q958887) Proizvolov's identity
+ 143.   WDID(Q990530) Erdős–Mordell inequality
+ 144.  WDID(Q1007698) Gallai's theorem
+ 145.  WDID(Q1022961) Clifton–Bub–Halvorson theorem
+ 146.  WDID(Q1023483) Courant–Friedrichs–Lewy condition
+ 147.  WDID(Q1030949) Pedoe's inequality
+ 148.  WDID(Q1031460) Gödel's second incompleteness theorem
+ 149.  WDID(Q1033910) Cantor–Bernstein–Schroeder theorem
+ 150.  WDID(Q1035624) Hermite–Hadamard inequality
+ 151.  WDID(Q1035674) Tusi couple
+ 152.  WDID(Q1048466) Jensen's formula
+ 153.  WDID(Q1048488) Morrie's law
+ 154.  WDID(Q1050230) maximum modulus principle
+ 155.  WDID(Q1050932) Hartogs' theorem
+ 156.  WDID(Q1051423) Cauchy condensation test
+ 157.  WDID(Q1051925) resolution
+ 158.  WDID(Q1052005) Frege's theorem
+ 159.  WDID(Q1052021) Craig interpolation
+ 160.  WDID(Q1054170) Hadwiger–Finsler inequality
+ 161.  WDID(Q1054182) Ono's inequality
+ 162.  WDID(Q1055879) law of total variance
+ 163.  WDID(Q1057416) Eisenstein's criterion
+ 164.  WDID(Q1058622) Golden–Thompson inequality
+ 165.  WDID(Q1059151) Frisch–Waugh–Lovell theorem
+ 166.  WDID(Q1060321) Gaussian integral
+ 167.  WDID(Q1070305) Chernoff bound
+ 168.  WDID(Q1072412) Weierstrass M-test
+ 169.  WDID(Q1094975) Abouabdillah's theorem
+ 170.  WDID(Q1110301) Y-Δ transform
+ 171.  WDID(Q1127312) consequentia mirabilis
+ 172.  WDID(Q1135224) Wigner's theorem
+ 173.  WDID(Q1135706) Harnack's principle
+ 174.  WDID(Q1138810) Cramér–Rao bound
+ 175.  WDID(Q1148012) coupon collector's problem
+ 176.  WDID(Q1149189) Rearrangement inequality
+ 177.  WDID(Q1149225) Euler's four-square identity
+ 178.  WDID(Q1149255) Dirichlet's test
+ 179.  WDID(Q1149348) Brahmagupta's formula
+ 180.  WDID(Q1151100) Itō's lemma
+ 181.  WDID(Q1151539) Jacobi identity
+ 182.  WDID(Q1153588) Helmholtz decomposition
+ 183.  WDID(Q1154428) absorption law
+ 184.  WDID(Q1155313) integral test for convergence
+ 185.  WDID(Q1177508) Hajós's theorem
+ 186.  WDID(Q1186808) Lucas' theorem
+ 187.  WDID(Q1187196) Degen's eight-square identity
+ 188.  WDID(Q1188734) Weitzenböck's inequality
+ 189.  WDID(Q1189968) Riesz's lemma
+ 190.  WDID(Q1196538) Descartes' theorem
+ 191.  WDID(Q1206853) Lagrange's identity
+ 192.  WDID(Q1209055) Mollweide's formula
+ 193.  WDID(Q1227685) Dirichlet conditions
+ 194.  WDID(Q1242399) Doob–Dynkin lemma
+ 195.  WDID(Q1242402) Doob's martingale inequality
+ 196.  WDID(Q1255240) Vitali's convergence theorem
+ 197.  WDID(Q1287074) Noether normalization lemma
+ 198.  WDID(Q1317367) Japanese theorem for cyclic polygons
+ 199.  WDID(Q1317813) Schur's inequality
+ 200.  WDID(Q1327058) Law of the Third
+ 201.  WDID(Q1330377) Burnside's lemma
+ 202.  WDID(Q1343972) divergence of the sum of the reciprocals of the primes
+ 203.  WDID(Q1360073) union theorem
+ 204.  WDID(Q1361393) Lusin's theorem
+ 205.  WDID(Q1365087) Hadamard's inequality
+ 206.  WDID(Q1370201) argument principle
+ 207.  WDID(Q1370316) Casey’s theorem
+ 208.  WDID(Q1375963) converse
+ 209.  WDID(Q1375989) Neyman–Pearson lemma
+ 210.  WDID(Q1379344) Descartes' rule of signs
+ 211.  WDID(Q1381253) Vidav-Palmer theorem
+ 212.  WDID(Q1421757) half-angle formula
+ 213.  WDID(Q1422649) Koopmans' theorem
+ 214.  WDID(Q1424496) Hensel's lemma
+ 215.  WDID(Q1425564) Gibbs' inequality
+ 216.  WDID(Q1426292) uniform boundedness principle
+ 217.  WDID(Q1426580) Belevitch's theorem
+ 218.  WDID(Q1428736) Chebyshev's sum inequality
+ 219.  WDID(Q1429231) Cauchy formula for repeated integration
+ 220.  WDID(Q1434158) fluctuation-dissipation theorem
+ 221.  WDID(Q1476195) Plotkin bound
+ 222.  WDID(Q1479613) Weil conjectures
+ 223.  WDID(Q1499675) Gelfand representation
+ 224.  WDID(Q1503239) symmetry of second derivatives
+ 225.  WDID(Q1530383) Bienaymé equation
+ 226.  WDID(Q1543149) Sokhotski–Plemelj theorem
+ 227.  WDID(Q1551745) Woodbury matrix identity
+ 228.  WDID(Q1576235) Lochs' theorem
+ 229.  WDID(Q1589600) fundamental theorem of finitely generated abelian groups
+ 230.  WDID(Q1604943) summation index shift
+ 231.  WDID(Q1607573) Henselian ring
+ 232.  WDID(Q1616875) Von Zeipel theorem
+ 233.  WDID(Q1618150) Kadison transitivity theorem
+ 234.  WDID(Q1622794) Hoeffding's inequality
+ 235.  WDID(Q1631086) Jordan–Chevalley decomposition
+ 236.  WDID(Q1635026) Runge–Gross theorem
+ 237.  WDID(Q1683356) Japanese theorem for cyclic quadrilaterals
+ 238.  WDID(Q1697669) Dvoretzky–Rogers theorem
+ 239.  WDID(Q1703592) Jordan's inequality
+ 240.  WDID(Q1747439) Kolmogorov's inequality
+ 241.  WDID(Q1754809) Bayes' rule
+ 242.  WDID(Q1780722) James' theorem
+ 243.  WDID(Q1784730) FKG inequality
+ 244.  WDID(Q1786419) Kramers theorem
+ 245.  WDID(Q1789457) Ermakoff's test
+ 246.  WDID(Q1789463) Raabe's test
+ 247.  WDID(Q1816904) Auerbach's lemma
+ 248.  WDID(Q1816909) Bramble–Hilbert lemma
+ 249.  WDID(Q1816918) Goursat's integral lemma
+ 250.  WDID(Q1816920) Jones' lemma
+ 251.  WDID(Q1816943) Schanuel's lemma
+ 252.  WDID(Q1825985) Lindeberg's condition
+ 253.  WDID(Q1827325) Liouville's formula
+ 254.  WDID(Q1855610) De Moivre–Laplace theorem
+ 255.  WDID(Q1872826) Lubell–Yamamoto–Meshalkin inequality
+ 256.  WDID(Q1914255) maximum principle
+ 257.  WDID(Q1914905) Ramanujan–Nagell equation
+ 258.  WDID(Q1935689) Dynkin system
+ 259.  WDID(Q1937896) Road coloring problem
+ 260.  WDID(Q1943494) Kakutani's theorem
+ 261.  WDID(Q1945137) monotonicity of entailment
+ 262.  WDID(Q1959890) Hausdorff paradox
+ 263.  WDID(Q1966978) Lévy's continuity theorem
+ 264.  WDID(Q1970635) Hamming bound
+ 265.  WDID(Q1972209) Doob martingale
+ 266.  WDID(Q1980541) Jacobi's theorem
+ 267.  WDID(Q1989192) law of total probability
+ 268.  WDID(Q2004664) Kolmogorov's zero-one law
+ 269.  WDID(Q2039117) Pythagorean trigonometric identity
+ 270.  WDID(Q2044612) Laplace expansion
+ 271.  WDID(Q2074239) Hadamard's lemma
+ 272.  WDID(Q2075125) Karush–Kuhn–Tucker conditions
+ 273.  WDID(Q2116294) Singleton bound
+ 274.  WDID(Q2134013) Raychaudhuri equation
+ 275.  WDID(Q2154318) Ruki sound law
+ 276.  WDID(Q2185349) fundamental theorem of Riemannian geometry
+ 277.  WDID(Q2197859) squared triangular number
+ 278.  WDID(Q2226575) Archimedes' hat-box theorem
+ 279.  WDID(Q2226587) Banach–Mackey theorem
+ 280.  WDID(Q2226624) Bruck–Ryser–Chowla theorem
+ 281.  WDID(Q2226643) Clairaut's relation
+ 282.  WDID(Q2226660) Gleason–Kahane–Żelazko theorem
+ 283.  WDID(Q2226697) Krein–Šmulian theorem
+ 284.  WDID(Q2226706) Kurepa Theorem
+ 285.  WDID(Q2226711) Lancret's theorem
+ 286.  WDID(Q2226714) Legendre's theorem on spherical triangles
+ 287.  WDID(Q2226716) Fréchet–Kolmogorov theorem
+ 288.  WDID(Q2226748) Mackey topology
+ 289.  WDID(Q2226756) Mertens' theorem
+ 290.  WDID(Q2226759) Meyers–Serrin theorem
+ 291.  WDID(Q2226822) Vizing's theorem
+ 292.  WDID(Q2226855) Sharkovskii's theorem
+ 293.  WDID(Q2226962) Casorati–Weierstrass theorem
+ 294.  WDID(Q2247110) law of total expectation
+ 295.  WDID(Q2257186) Center-of-Mass Theorem
+ 296.  WDID(Q2298452) Van Cittert–Zernike theorem
+ 297.  WDID(Q2301141) Wiener–Khinchin theorem
+ 298.  WDID(Q2312489) HM-GM-AM-QM inequalities
+ 299.  WDID(Q2338929) Steinitz exchange lemma
+ 300.  WDID(Q2341004) Lévy–Steinitz theorem
+ 301.  WDID(Q2345282) Noisy-channel coding theorem
+ 302.  WDID(Q2346904) Euler's criterion
+ 303.  WDID(Q2358904) parallelism implies equal corresponding angles
+ 304.  WDID(Q2372261) law of identity
+ 305.  WDID(Q2387196) Peirce's law
+ 306.  WDID(Q2387837) Goursat's lemma
+ 307.  WDID(Q2392296) Droz-Farny line theorem
+ 308.  WDID(Q2395582) Weill's theorem
+ 309.  WDID(Q2397775) Krull's theorem
+ 310.  WDID(Q2410467) Azuma's inequality
+ 311.  WDID(Q2443110) Cubic reciprocity
+ 312.  WDID(Q2454864) Gilbert–Varshamov bound
+ 313.  WDID(Q2468326) Zermelo's theorem
+ 314.  WDID(Q2474925) fundamental lemma of calculus of variations
+ 315.  WDID(Q2488476) well-ordering principle
+ 316.  WDID(Q2493651) Bertrand's theorem
+ 317.  WDID(Q2576932) nth-term test
+ 318.  WDID(Q2590416) Hardy–Littlewood inequality
+ 319.  WDID(Q2612539) Bombieri–Vinogradov theorem
+ 320.  WDID(Q2621270) Routh–Hurwitz stability criterion
+ 321.  WDID(Q2642081) work-energy principle
+ 322.  WDID(Q2687556) Browder fixed point theorem
+ 323.  WDID(Q2709660) Sylvester's criterion
+ 324.  WDID(Q2718608) Paley–Zygmund inequality
+ 325.  WDID(Q2799490) Mertens’ theorem
+ 326.  WDID(Q2902746) Erdős–Graham problem
+ 327.  WDID(Q2904195) diagonal lemma
+ 328.  WDID(Q2908743) Tarski's theorem
+ 329.  WDID(Q2912340) Law of truly large numbers
+ 330.  WDID(Q2913431) regularity theorem for Lebesgue measure
+ 331.  WDID(Q2917311) Goldbach–Euler theorem
+ 332.  WDID(Q2993299) Erdős–Burr conjecture
+ 333.  WDID(Q2993325) Kemnitz's conjecture
+ 334.  WDID(Q2993329) Milnor conjecture
+ 335.  WDID(Q2993330) Milnor conjecture
+ 336.  WDID(Q2996637) Leibniz integral rule
+ 337.  WDID(Q2996944) spherical law of cosines
+ 338.  WDID(Q3018544) Riemann–Siegel formula
+ 339.  WDID(Q3022268) Urysohn's metrization theorem
+ 340.  WDID(Q3044466) Proof of Fermat's Last Theorem for specific exponents
+ 341.  WDID(Q3068230) Tanaka's formula
+ 342.  WDID(Q3077613) Crofton formula
+ 343.  WDID(Q3077643) product formula
+ 344.  WDID(Q3077644) product formula
+ 345.  WDID(Q3077645) Lie product formula
+ 346.  WDID(Q3077649) Selberg trace formula
+ 347.  WDID(Q3147824) Landsberg–Schaar relation
+ 348.  WDID(Q3147827) Vandermonde's identity
+ 349.  WDID(Q3154001) Kantorovich inequality
+ 350.  WDID(Q3154002) Korn's inequality
+ 351.  WDID(Q3154004) Levinson's inequality
+ 352.  WDID(Q3154012) Loewner's torus inequality
+ 353.  WDID(Q3229329) Artin–Rees lemma
+ 354.  WDID(Q3229331) estimation lemma
+ 355.  WDID(Q3229337) Dehn's lemma
+ 356.  WDID(Q3229338) Fitting lemma
+ 357.  WDID(Q3229340) Higman's lemma
+ 358.  WDID(Q3229349) Zolotarev's lemma
+ 359.  WDID(Q3229353) Van der Corput lemma
+ 360.  WDID(Q3258490) law of the zero-one of Borel
+ 361.  WDID(Q3267775) proof that π is irrational
+ 362.  WDID(Q3291120) class number formula
+ 363.  WDID(Q3298255) Soddy's hexlet
+ 364.  WDID(Q3345196) Thâbit ibn Kurrah rule
+ 365.  WDID(Q3363330) Von Neumann paradox
+ 366.  WDID(Q3491629) Pontryagin's maximum principle
+ 367.  WDID(Q3497142) Barrow's inequality
+ 368.  WDID(Q3526974) Theorem of Alasia
+ 369.  WDID(Q3526980) Erdős–Fuchs theorem
+ 370.  WDID(Q3526981) Erdős–Kaplansky theorem
+ 371.  WDID(Q3526986) Erdős–Szemerédi theorem
+ 372.  WDID(Q3526987) Euler's homogeneous function theorem
+ 373.  WDID(Q3526988) Hermite–Lindemann Theorem
+ 374.  WDID(Q3527026) Budan's theorem
+ 375.  WDID(Q3527044) Pappus' area theorem
+ 376.  WDID(Q3527054) De Bruijn–Erdős theorem
+ 377.  WDID(Q3527056) De Bruijn–Erdős theorem
+ 378.  WDID(Q3527069) Engel's theorem
+ 379.  WDID(Q3527077) Folkman's theorem
+ 380.  WDID(Q3527082) Girard's theorem
+ 381.  WDID(Q3527084) Glaeser's continuity theorem
+ 382.  WDID(Q3527090) Hamilton's theorem
+ 383.  WDID(Q3527092) Hessenberg's theorem
+ 384.  WDID(Q3527115) Lüroth's theorem
+ 385.  WDID(Q3527126) Motzkin's Theorem
+ 386.  WDID(Q3527131) Neuberg theorem
+ 387.  WDID(Q3527140) Poincaré–Birkhoff theorem
+ 388.  WDID(Q3527151) Rellich–Kondrachov theorem
+ 389.  WDID(Q3527161) Stampacchia theorem
+ 390.  WDID(Q3527167) Stickelberger's theorem
+ 391.  WDID(Q3527176) Theorem of Wantzel
+ 392.  WDID(Q3527179) Weinstein's neighbourhood theorem
+ 393.  WDID(Q3527182) Wielandt theorem
+ 394.  WDID(Q3527183) Wittenbauer's theorem
+ 395.  WDID(Q3527192) prime decomposition of a 3-manifold
+ 396.  WDID(Q3527201) Invariance of domain
+ 397.  WDID(Q3527204) Baire's simple limit theorem
+ 398.  WDID(Q3527240) midpoint theorem
+ 399.  WDID(Q3527250) Hadamard three-line theorem
+ 400.  WDID(Q3527252) Three-gap theorem
+ 401.  WDID(Q3527255) Collage theorem
+ 402.  WDID(Q3527258) angular momentum theorem
+ 403.  WDID(Q3527261) honeycomb conjecture
+ 404.  WDID(Q3595339) Maximum-minimums identity
+ 405.  WDID(Q3615690) Sundbärg index
+ 406.  WDID(Q3656857) Karamata's inequality
+ 407.  WDID(Q3711844) Friedrichs' inequality
+ 408.  WDID(Q3711848) Sobolev inequality
+ 409.  WDID(Q3748374) Grassmann's identity
+ 410.  WDID(Q3748379) Riemann–von Mangoldt formula
+ 411.  WDID(Q3749578) Bolzano’s theorem
+ 412.  WDID(Q3791816) Picone identity
+ 413.  WDID(Q3822213) Loop theorem
+ 414.  WDID(Q3830120) Slutsky's lemma
+ 415.  WDID(Q3921905) Euclid's first theorem
+ 416.  WDID(Q3983976) mean value theorem for integrals
+ 417.  WDID(Q3983995) Binet’s theorem
+ 418.  WDID(Q3984001) Cauchy's mean-value theorem
+ 419.  WDID(Q3984015) Kuratowski embedding
+ 420.  WDID(Q3984018) Holevo's theorem
+ 421.  WDID(Q3984019) Johnson’s theorem
+ 422.  WDID(Q3984021) Krasnoselskii theorem
+ 423.  WDID(Q3984032) Pohlke's theorem
+ 424.  WDID(Q3984062) theorem of the uniqueness of limit
+ 425.  WDID(Q4048810) Bartlett's theorem
+ 426.  WDID(Q4121034) Peetre's inequality
+ 427.  WDID(Q4127961) second mean value theorem for integrals
+ 428.  WDID(Q4183831) Minkowski problem
+ 429.  WDID(Q4223035) classification of Fatou components
+ 430.  WDID(Q4257928) Morse–Palais lemma
+ 431.  WDID(Q4274653) level ancestor problem
+ 432.  WDID(Q4287804) slowly varying function
+ 433.  WDID(Q4317416) Vysochanskij–Petunin inequality
+ 434.  WDID(Q4317418) Jackson's inequality
+ 435.  WDID(Q4349092) first mean value theorem for integrals
+ 436.  WDID(Q4358002) Steffensen's inequality
+ 437.  WDID(Q4358367) von Neumann–Morgenstern utility theorem
+ 438.  WDID(Q4378244) Test of Lobachevsky
+ 439.  WDID(Q4378868) Phragmén–Lindelöf principle
+ 440.  WDID(Q4378892) Schwarz reflection principle
+ 441.  WDID(Q4439341) standard part function
+ 442.  WDID(Q4447633) Spherical Pythagorean theorem
+ 443.  WDID(Q4454912) Alexandrov's theorem
+ 444.  WDID(Q4454915) Alexandrov's theorem
+ 445.  WDID(Q4454920) Beltrami–Enneper theorem
+ 446.  WDID(Q4454921) Bleecker's theorem
+ 447.  WDID(Q4454924) Birkhoff–Khinchin theorem
+ 448.  WDID(Q4454926) Bloch theorem
+ 449.  WDID(Q4454940) Denjoy's theorem on rotation number
+ 450.  WDID(Q4454945) Caratheodory–Fejer theorem
+ 451.  WDID(Q4454948) Caratheodory–Toeplitz theorem
+ 452.  WDID(Q4454956) Kolmogorov's theorem
+ 453.  WDID(Q4454970) Legendre's theorem
+ 454.  WDID(Q4454981) Mansion's theorem
+ 455.  WDID(Q4454982) Men'shov's theorem
+ 456.  WDID(Q4455005) Prigogine's theorem
+ 457.  WDID(Q4455018) Reeb stability theorem
+ 458.  WDID(Q4455024) Salmon's theorem
+ 459.  WDID(Q4455025) no-wandering-domain theorem
+ 460.  WDID(Q4455027) Stepanoff theorem
+ 461.  WDID(Q4455028) Steklov's theorem
+ 462.  WDID(Q4455034) Fock-Krylov theorem
+ 463.  WDID(Q4455098) Fredholm theory
+ 464.  WDID(Q4456448) Schur test
+ 465.  WDID(Q4459373) Capelli's identity
+ 466.  WDID(Q4491919) Isserlis' theorem
+ 467.  WDID(Q4491941) half-side formula
+ 468.  WDID(Q4491945) Delambre analogies
+ 469.  WDID(Q4491948) Napier's analogies
+ 470.  WDID(Q4495708) quartic reciprocity
+ 471.  WDID(Q4666526) Abel's inequality
+ 472.  WDID(Q4667492) Abhyankar's conjecture
+ 473.  WDID(Q4667495) Abhyankar's inequality
+ 474.  WDID(Q4669893) absorption
+ 475.  WDID(Q4683187) adjunction formula
+ 476.  WDID(Q4691766) Fredholm kernel
+ 477.  WDID(Q4692965) Agmon's inequality
+ 478.  WDID(Q4695182) Ahlfors measure conjecture
+ 479.  WDID(Q4695185) Ahlfors finiteness theorem
+ 480.  WDID(Q4695203) Ahlswede–Daykin inequality
+ 481.  WDID(Q4724359) algorithmic Lovász local lemma
+ 482.  WDID(Q4733800) Almgren regularity theorem
+ 483.  WDID(Q4751140) Analytic subgroup theorem
+ 484.  WDID(Q4751162) Analyticity of holomorphic functions
+ 485.  WDID(Q4754231) Anderson orthogonality theorem
+ 486.  WDID(Q4756100) Andreotti–Vesentini theorem
+ 487.  WDID(Q4760299) André–Oort conjecture
+ 488.  WDID(Q4769755) annulus theorem
+ 489.  WDID(Q4790949) Aristarchus' inequality
+ 490.  WDID(Q4807194) Askey–Gasper inequality
+ 491.  WDID(Q4812181) asymptotic equipartition property
+ 492.  WDID(Q4815876) Atiyah–Hitchin–Singer theorem
+ 493.  WDID(Q4815878) Atiyah–Jones conjecture
+ 494.  WDID(Q4815937) Atkinson–Mingarelli theorem
+ 495.  WDID(Q4819058) Aubin–Lions lemma
+ 496.  WDID(Q4822773) Auslander–Buchsbaum formula
+ 497.  WDID(Q4822774) Auslander–Buchsbaum theorem
+ 498.  WDID(Q4833741) B-theorem
+ 499.  WDID(Q4837774) Babenko–Beckner inequality
+ 500.  WDID(Q4841299) Baer–Suzuki theorem
+ 501.  WDID(Q4863268) Barratt–Priddy theorem
+ 502.  WDID(Q4873468) Bauerian extension
+ 503.  WDID(Q4880230) Beez's theorem
+ 504.  WDID(Q4891605) Berger's inequality for Einstein manifolds
+ 505.  WDID(Q4894580) Bernstein–von Mises theorem
+ 506.  WDID(Q4897670) Beth definability
+ 507.  WDID(Q4901411) Bhatia–Davis inequality
+ 508.  WDID(Q4903712) Biconditional elimination
+ 509.  WDID(Q4903714) Biconditional introduction
+ 510.  WDID(Q4907094) Bihari–LaSalle inequality
+ 511.  WDID(Q4913049) Dieudonné's theorem
+ 512.  WDID(Q4915488) Bipolar theorem
+ 513.  WDID(Q4916485) Birkhoff–Kellogg invariant-direction theorem
+ 514.  WDID(Q4925292) Blaschke–Lebesgue theorem
+ 515.  WDID(Q4936241) Bochner identity
+ 516.  WDID(Q4936242) Bochner's theorem
+ 517.  WDID(Q4936245) Bochner–Kodaira–Nakano identity
+ 518.  WDID(Q4936248) Bochner–Yano theorem
+ 519.  WDID(Q4937705) Bogomolov–Miyaoka–Yau inequality
+ 520.  WDID(Q4942198) Bonnesen's inequality
+ 521.  WDID(Q4944920) Borell–Brascamp–Lieb inequality
+ 522.  WDID(Q4944923) Borel–Weil–Bott theorem
+ 523.  WDID(Q4948981) Bott residue formula
+ 524.  WDID(Q4955671) Braikenridge–Maclaurin theorem
+ 525.  WDID(Q4957756) Brascamp–Lieb inequality
+ 526.  WDID(Q4958219) Brauer's theorem on forms
+ 527.  WDID(Q4958221) Brauer's three main theorems
+ 528.  WDID(Q4958229) Brauer–Fowler theorem
+ 529.  WDID(Q4978800) Brumer bound
+ 530.  WDID(Q5002042) Bussgang theorem
+ 531.  WDID(Q5011347) CHSH inequality
+ 532.  WDID(Q5018293) Calabi conjecture
+ 533.  WDID(Q5027968) Campbell's theorem
+ 534.  WDID(Q5027969) Campbell's theorem
+ 535.  WDID(Q5037754) Carathéodory kernel theorem
+ 536.  WDID(Q5041151) Carleman's condition
+ 537.  WDID(Q5047038) Cartan's criterion
+ 538.  WDID(Q5047039) Cartan's lemma
+ 539.  WDID(Q5047046) Cartan–Brauer–Hua theorem
+ 540.  WDID(Q5048330) Case analysis
+ 541.  WDID(Q5054347) Cauchy–Rassias stability
+ 542.  WDID(Q5062109) Central limit theorem for directional statistics
+ 543.  WDID(Q5073346) Chapman–Robbins bound
+ 544.  WDID(Q5087368) Chasles–Cayley–Brill formula
+ 545.  WDID(Q5089020) Chebyshev–Markov–Stieltjes inequalities
+ 546.  WDID(Q5089261) Cheeger bound
+ 547.  WDID(Q5094271) Cheung–Marks theorem
+ 548.  WDID(Q5094301) Chevalley–Iwahori–Nagata theorem
+ 549.  WDID(Q5105491) Chow's moving lemma
+ 550.  WDID(Q5105492) Chow's lemma
+ 551.  WDID(Q5105585) Chow–Rashevskii theorem
+ 552.  WDID(Q5115048) Mills' theorem
+ 553.  WDID(Q5116402) Chung–Fuchs theorem
+ 554.  WDID(Q5121504) circle packing theorem
+ 555.  WDID(Q5128337) Classical involution theorem
+ 556.  WDID(Q5155083) Commutant lifting theorem
+ 557.  WDID(Q5155091) commutativity of conjunction
+ 558.  WDID(Q5156542) Completeness of atomic initial sequents
+ 559.  WDID(Q5156572) complex conjugate root theorem
+ 560.  WDID(Q5156702) Component theorem
+ 561.  WDID(Q5159176) condensation lemma
+ 562.  WDID(Q5161172) Conjunction introduction
+ 563.  WDID(Q5161242) Conley index theory
+ 564.  WDID(Q5164489) constructive dilemma
+ 565.  WDID(Q5165690) Contraction principle
+ 566.  WDID(Q5166461) Converse theorem
+ 567.  WDID(Q5172854) correlation inequality
+ 568.  WDID(Q5175397) Cotlar–Stein lemma
+ 569.  WDID(Q5178096) Courant minimax principle
+ 570.  WDID(Q5178830) Cousin problems
+ 571.  WDID(Q5179139) Cover's theorem
+ 572.  WDID(Q5179256) Covering lemma
+ 573.  WDID(Q5182181) Crank conjecture
+ 574.  WDID(Q5182296) Craps principle
+ 575.  WDID(Q5198232) Cyclic surgery theorem
+ 576.  WDID(Q5199068) Cyclotomic identity
+ 577.  WDID(Q5244715) De Rham–Weil theorem
+ 578.  WDID(Q5257888) Denjoy–Wolff theorem
+ 579.  WDID(Q5257889) Denjoy–Luzin–Saks theorem
+ 580.  WDID(Q5262967) Derrick's theorem
+ 581.  WDID(Q5265416) destructive dilemma
+ 582.  WDID(Q5273779) Dickson's lemma
+ 583.  WDID(Q5275382) differentiation of integrals
+ 584.  WDID(Q5281396) Disc theorem
+ 585.  WDID(Q5282265) disjunction elimination
+ 586.  WDID(Q5282267) disjunction introduction
+ 587.  WDID(Q5284938) Dixon's identity
+ 588.  WDID(Q5287805) dodecahedral conjecture
+ 589.  WDID(Q5299978) double bubble theorem
+ 590.  WDID(Q5299981) Double centralizer theorem
+ 591.  WDID(Q5300058) Double limit theorem
+ 592.  WDID(Q5300067) double negation
+ 593.  WDID(Q5300096) Double suspension theorem
+ 594.  WDID(Q5317821) Dvoretzky's theorem
+ 595.  WDID(Q5317822) Dvoretzky–Kiefer–Wolfowitz inequality
+ 596.  WDID(Q5319220) Dynkin's formula
+ 597.  WDID(Q5320284) Dévissage
+ 598.  WDID(Q5323322) ELSV formula
+ 599.  WDID(Q5331316) Eaton's inequality
+ 600.  WDID(Q5332932) Eckmann–Hilton argument
+ 601.  WDID(Q5348612) Ehrenfeucht–Mostowski theorem
+ 602.  WDID(Q5348615) Ehrenpreis conjecture
+ 603.  WDID(Q5348634) Ehrling's lemma
+ 604.  WDID(Q5349904) Eisenbud–Levine–Khimshiashvili signature formula
+ 605.  WDID(Q5349954) Eisenstein's theorem
+ 606.  WDID(Q5372452) Nernst heat theorem
+ 607.  WDID(Q5376147) Ending lamination theorem
+ 608.  WDID(Q5379865) Enriques–Babbage theorem
+ 609.  WDID(Q5380810) Entropy power inequality
+ 610.  WDID(Q5384440) Equichordal point problem
+ 611.  WDID(Q5384549) Equioscillation theorem
+ 612.  WDID(Q5385316) Erdős arcsine law
+ 613.  WDID(Q5385327) Erdős–Turán inequality
+ 614.  WDID(Q5402566) Etemadi's inequality
+ 615.  WDID(Q5420759) Expander mixing lemma
+ 616.  WDID(Q5421567) Exportation
+ 617.  WDID(Q5428744) factorization lemma
+ 618.  WDID(Q5432814) Faltings' product theorem
+ 619.  WDID(Q5438430) Favard's theorem
+ 620.  WDID(Q5438875) Fay's trisecant identity
+ 621.  WDID(Q5440935) Federer–Morse theorem
+ 622.  WDID(Q5441613) Fekete–Szegő inequality
+ 623.  WDID(Q5442450) Feller's coin-tossing constants
+ 624.  WDID(Q5446357) Fiber bundle construction theorem
+ 625.  WDID(Q5454143) First case of Fermat's last theorem
+ 626.  WDID(Q5456251) five points determine a conic
+ 627.  WDID(Q5456327) Fixed-point lemma for normal functions
+ 628.  WDID(Q5458529) Fleischner's theorem
+ 629.  WDID(Q5464250) fold-and-cut theorem
+ 630.  WDID(Q5473574) Foster's reactance theorem
+ 631.  WDID(Q5494135) Fraïssé's theorem
+ 632.  WDID(Q5500352) free will theorem
+ 633.  WDID(Q5503260) Freudenthal spectral theorem
+ 634.  WDID(Q5506660) Fréchet inequalities
+ 635.  WDID(Q5507713) Fukushima's Theorem
+ 636.  WDID(Q5508971) Fundamental theorem of ideal theory in number fields
+ 637.  WDID(Q5508972) Fundamental theorem of cyclic groups
+ 638.  WDID(Q5508973) Fundamental theorem of asset pricing
+ 639.  WDID(Q5508975) fundamental theorem of linear algebra
+ 640.  WDID(Q5514839) Gilbert–Varshamov bound for linear codes
+ 641.  WDID(Q5515291) Gabbay's separation theorem
+ 642.  WDID(Q5515505) Gabriel's theorem
+ 643.  WDID(Q5516119) Gabriel–Popesco theorem
+ 644.  WDID(Q5516877) Gagliardo–Nirenberg interpolation inequality
+ 645.  WDID(Q5518852) Gallai–Hasse–Roy–Vitaver theorem
+ 646.  WDID(Q5527816) Gauss's inequality
+ 647.  WDID(Q5527842) Gaussian isoperimetric inequality
+ 648.  WDID(Q5530428) Gelfand–Naimark–Segal construction
+ 649.  WDID(Q5532439) Generalized Helmholtz theorem
+ 650.  WDID(Q5533839) Genus–degree formula
+ 651.  WDID(Q5550363) Gerbaldi's theorem
+ 652.  WDID(Q5557991) Giambelli's formula
+ 653.  WDID(Q5563261) Ginsberg's theorem
+ 654.  WDID(Q5566480) Glaeser's composition theorem
+ 655.  WDID(Q5569549) Glicksberg's theorem
+ 656.  WDID(Q5586065) Gordon–Luecke theorem
+ 657.  WDID(Q5586175) Gorenstein–Harada theorem
+ 658.  WDID(Q5586176) Gorenstein–Walter theorem
+ 659.  WDID(Q5591910) Gradient conjecture
+ 660.  WDID(Q5593569) Gram's theorem
+ 661.  WDID(Q5610192) Gromov's inequality for complex projective space
+ 662.  WDID(Q5610194) Gromov's systolic inequality for essential manifolds
+ 663.  WDID(Q5610724) Grothendieck local duality
+ 664.  WDID(Q5610727) Grothendieck existence theorem
+ 665.  WDID(Q5610731) Grothendieck inequality
+ 666.  WDID(Q5610732) Grothendieck trace formula
+ 667.  WDID(Q5610735) Grothendieck–Ogg–Shafarevich formula
+ 668.  WDID(Q5626450) Gödel's speed-up theorem
+ 669.  WDID(Q5638293) Kolmogorov's criterion
+ 670.  WDID(Q5638321) Kolmogorov continuity theorem
+ 671.  WDID(Q5643246) Hall–Higman theorem
+ 672.  WDID(Q5649096) Hanner's inequalities
+ 673.  WDID(Q5654097) Haran's diamond theorem
+ 674.  WDID(Q5657840) Harish-Chandra isomorphism
+ 675.  WDID(Q5682202) Hattori–Stong theorem
+ 676.  WDID(Q5687106) Haynsworth inertia additivity formula
+ 677.  WDID(Q5699656) Heine's identity
+ 678.  WDID(Q5721923) Henry George Theorem
+ 679.  WDID(Q5741903) Hermite's identity
+ 680.  WDID(Q5741914) Hermite reciprocity
+ 681.  WDID(Q5746158) Hesse's theorem
+ 682.  WDID(Q5761240) Hilbert–Burch theorem
+ 683.  WDID(Q5871872) Hitchin–Thorpe inequality
+ 684.  WDID(Q5875438) Hochster–Roberts theorem
+ 685.  WDID(Q5876398) Hoeffding's lemma
+ 686.  WDID(Q5883744) Holmgren's uniqueness theorem
+ 687.  WDID(Q5884154) Holomorphic Lefschetz fixed-point formula
+ 688.  WDID(Q5892839) Honda–Tate theorem
+ 689.  WDID(Q5900506) Hopf maximum principle
+ 690.  WDID(Q5928235) Hudde's rules
+ 691.  WDID(Q5962990) Hájek–Le Cam convolution theorem
+ 692.  WDID(Q5988174) idempotency of entailment
+ 693.  WDID(Q6029715) Infinite-dimensional Lebesgue measure
+ 694.  WDID(Q6043250) Integration using Euler's formula
+ 695.  WDID(Q6085965) Isolation lemma
+ 696.  WDID(Q6095356) Itō isometry
+ 697.  WDID(Q6141847) Bernoulli theorem
+ 698.  WDID(Q6141885) moment-area theorem
+ 699.  WDID(Q6153280) Laplace principle
+ 700.  WDID(Q6321608) Jørgensen's inequality
+ 701.  WDID(Q6353895) Kallman–Rota inequality
+ 702.  WDID(Q6377764) Kato theorem
+ 703.  WDID(Q6378601) Katětov–Tong insertion theorem
+ 704.  WDID(Q6385835) Kellogg's theorem
+ 705.  WDID(Q6387086) Kempf vanishing theorem
+ 706.  WDID(Q6401711) Khintchine inequality
+ 707.  WDID(Q6403067) Lagrange's identity
+ 708.  WDID(Q6421006) Kline sphere characterization
+ 709.  WDID(Q6425525) Koecher–Vinberg theorem
+ 710.  WDID(Q6433477) Kostant's convexity theorem
+ 711.  WDID(Q6436610) Krein's condition
+ 712.  WDID(Q6436614) Krein–Rutman theorem
+ 713.  WDID(Q6439289) Krull–Akizuki theorem
+ 714.  WDID(Q6443113) Kullback's inequality
+ 715.  WDID(Q6443980) Kummer's theorem
+ 716.  WDID(Q6444407) Kunen's inconsistency theorem
+ 717.  WDID(Q6444775) Kunita–Watanabe theorem
+ 718.  WDID(Q6445655) Kuratowski's free set theorem
+ 719.  WDID(Q6449702) Bernstein's inequality
+ 720.  WDID(Q6466909) Labelled enumeration theorem
+ 721.  WDID(Q6470834) Ladyzhenskaya's inequality
+ 722.  WDID(Q6485828) Lange's conjecture
+ 723.  WDID(Q6487014) Lang's theorem
+ 724.  WDID(Q6496164) Latimer–MacDuffee theorem
+ 725.  WDID(Q6503509) law of the unconscious statistician
+ 726.  WDID(Q6503511) Law of total covariance
+ 727.  WDID(Q6503512) Law of total cumulance
+ 728.  WDID(Q6511269) Lebedev–Milin inequality
+ 729.  WDID(Q6516730) Lefschetz duality
+ 730.  WDID(Q6517045) leftover hash lemma
+ 731.  WDID(Q6518929) Lehmer's conjecture
+ 732.  WDID(Q6528762) Lerche–Newberger sum rule
+ 733.  WDID(Q6533272) lethargy theorem
+ 734.  WDID(Q6535568) Levi decomposition theorem
+ 735.  WDID(Q6549441) limit comparison test
+ 736.  WDID(Q6653168) Littlewood subordination theorem
+ 737.  WDID(Q6675607) Loomis–Whitney inequality
+ 738.  WDID(Q6680142) Lorden's inequality
+ 739.  WDID(Q6703479) Luna's slice theorem
+ 740.  WDID(Q6705124) Lusin's separation theorem
+ 741.  WDID(Q6705975) Luttinger's theorem
+ 742.  WDID(Q6736209) main conjecture of Iwasawa theory
+ 743.  WDID(Q6744165) Malliavin's absolute continuity lemma
+ 744.  WDID(Q6757284) Marcinkiewicz interpolation theorem
+ 745.  WDID(Q6757294) Marcinkiewicz–Zygmund inequality
+ 746.  WDID(Q6760835) Margulis lemma
+ 747.  WDID(Q6777130) Martingale central limit theorem
+ 748.  WDID(Q6783219) Mashreghi–Ransford inequality
+ 749.  WDID(Q6786560) material implication
+ 750.  WDID(Q6787678) Matlis duality
+ 751.  WDID(Q6788131) Matsumoto's theorem
+ 752.  WDID(Q6795830) maximum-margin hyperplane
+ 753.  WDID(Q6795920) Maximum theorem
+ 754.  WDID(Q6796210) max–min inequality
+ 755.  WDID(Q6826396) Meyer's theorem
+ 756.  WDID(Q6835566) Michael selection theorem
+ 757.  WDID(Q6860170) Milman's reverse Brunn–Minkowski inequality
+ 758.  WDID(Q6860189) Milne-Thomson circle theorem
+ 759.  WDID(Q6864698) Mingarelli identity
+ 760.  WDID(Q6867850) Minkowski's first inequality for convex bodies
+ 761.  WDID(Q6867878) Minlos' theorem
+ 762.  WDID(Q6874717) Mirsky's theorem
+ 763.  WDID(Q6885951) Mnev's universality theorem
+ 764.  WDID(Q6894771) Moise's theorem
+ 765.  WDID(Q6917002) Mostow–Palais theorem
+ 766.  WDID(Q6933484) Mukhopadhyaya theorem
+ 767.  WDID(Q6934653) multidimensional Chebyshev's inequality
+ 768.  WDID(Q6934659) Multidimensional sampling
+ 769.  WDID(Q6935388) Mumford's compactness theorem
+ 770.  WDID(Q6947442) Myerson–Satterthwaite theorem
+ 771.  WDID(Q6958465) Nagao's theorem
+ 772.  WDID(Q6959669) Naimark's dilation theorem
+ 773.  WDID(Q6960251) Nakamura number
+ 774.  WDID(Q6973257) Shapley-Shubik Theorem
+ 775.  WDID(Q7028899) Nicod's axiom
+ 776.  WDID(Q7031621) Nielsen theory
+ 777.  WDID(Q7051622) norm residue isomorphism theorem
+ 778.  WDID(Q7071451) Néron–Ogg–Shafarevich criterion
+ 779.  WDID(Q7081688) Oka's lemma
+ 780.  WDID(Q7081700) Oka coherence theorem
+ 781.  WDID(Q7089964) Omega-categorical theory
+ 782.  WDID(Q7103669) Ornstein isomorphism theorem
+ 783.  WDID(Q7106480) Oseledets theorem
+ 784.  WDID(Q7106530) Osgood's lemma
+ 785.  WDID(Q7127466) Paley construction
+ 786.  WDID(Q7128479) Palm–Khintchine theorem
+ 787.  WDID(Q7133115) Pappus configuration
+ 788.  WDID(Q7137090) Parikh's theorem
+ 789.  WDID(Q7164654) Penrose square root law
+ 790.  WDID(Q7178199) Petersen's theorem
+ 791.  WDID(Q7179251) Petr–Douglas–Neumann theorem
+ 792.  WDID(Q7188035) Phragmen–Brouwer theorem
+ 793.  WDID(Q7191884) Pieri's formula
+ 794.  WDID(Q7196482) Pinsker's inequality
+ 795.  WDID(Q7208506) Poisson scatter theorem
+ 796.  WDID(Q7229466) Popoviciu's inequality on variances
+ 797.  WDID(Q7240001) Preissman's theorem
+ 798.  WDID(Q7249438) Projection-slice theorem
+ 799.  WDID(Q7250222) property P conjecture
+ 800.  WDID(Q7253815) Prékopa–Leindler inequality
+ 801.  WDID(Q7253851) Prüfer theorems
+ 802.  WDID(Q7254880) Pseudoisotopy theorem
+ 803.  WDID(Q7257195) Pu's inequality
+ 804.  WDID(Q7258945) Pugh's closing lemma
+ 805.  WDID(Q7263747) Pyrrho's lemma
+ 806.  WDID(Q7265292) Q-Vandermonde identity
+ 807.  WDID(Q7271994) Quillen's lemma
+ 808.  WDID(Q7272511) Quintuple product identity
+ 809.  WDID(Q7281886) Radó–Kneser–Choquet theorem
+ 810.  WDID(Q7288991) Ramanujam–Samuel theorem
+ 811.  WDID(Q7288993) Ramanujan's master theorem
+ 812.  WDID(Q7299310) Raynaud's isogeny theorem
+ 813.  WDID(Q7310483) Reiss relation
+ 814.  WDID(Q7311758) Remez inequality
+ 815.  WDID(Q7314263) representer theorem
+ 816.  WDID(Q7317833) revelation principle
+ 817.  WDID(Q7318298) Reversible diffusion
+ 818.  WDID(Q7333121) Riemannian Penrose inequality
+ 819.  WDID(Q7341068) Robbins lemma
+ 820.  WDID(Q7359378) Rogers–Ramanujan continued fraction
+ 821.  WDID(Q7359380) Rogers–Ramanujan identities
+ 822.  WDID(Q7359893) Roitman's theorem
+ 823.  WDID(Q7369136) Ross' conjecture
+ 824.  WDID(Q7370472) Rothe–Hagen identity
+ 825.  WDID(Q7382362) Russo–Dye theorem
+ 826.  WDID(Q7413036) Samuelson's inequality
+ 827.  WDID(Q7423215) Sarason interpolation theorem
+ 828.  WDID(Q7429791) Scallop theorem
+ 829.  WDID(Q7431096) Scheinerman's conjecture
+ 830.  WDID(Q7431703) Schlessinger's theorem
+ 831.  WDID(Q7432946) Schuette–Nesbitt formula
+ 832.  WDID(Q7433042) Schur–Horn theorem
+ 833.  WDID(Q7443739) second moment method
+ 834.  WDID(Q7446189) Segal conjecture
+ 835.  WDID(Q7447523) Selberg's zeta function conjecture
+ 836.  WDID(Q7455422) Serre–Swan theorem
+ 837.  WDID(Q7455423) Serre–Tate theorem
+ 838.  WDID(Q7457534) seven circles theorem
+ 839.  WDID(Q7460736) shadowing lemma
+ 840.  WDID(Q7460997) Shafarevich–Weil theorem
+ 841.  WDID(Q7495288) Sherman–Takeda theorem
+ 842.  WDID(Q7506515) Siacci's theorem
+ 843.  WDID(Q7508236) side-approximation theorem
+ 844.  WDID(Q7510553) Siegel's theorem on integral points
+ 845.  WDID(Q7521375) simultaneous uniformization theorem
+ 846.  WDID(Q7545379) Smith conjecture
+ 847.  WDID(Q7558851) Solovay model
+ 848.  WDID(Q7578329) Spitzer's formula
+ 849.  WDID(Q7578744) splitting lemma
+ 850.  WDID(Q7595768) stable manifold theorem
+ 851.  WDID(Q7600088) Stanley–Wilf conjecture
+ 852.  WDID(Q7601219) star height problem
+ 853.  WDID(Q7606897) Steinitz's theorem
+ 854.  WDID(Q7607564) Positivstellensatz
+ 855.  WDID(Q7629089) Sturm separation theorem
+ 856.  WDID(Q7630144) Størmer's theorem
+ 857.  WDID(Q7631155) subgroup test
+ 858.  WDID(Q7638108) Sun's curious identity
+ 859.  WDID(Q7660749) Weinstein–Aronszajn identity
+ 860.  WDID(Q7678798) Talagrand's concentration inequality
+ 861.  WDID(Q7687931) Tate's isogeny theorem
+ 862.  WDID(Q7687977) Tate duality
+ 863.  WDID(Q7688964) tautology
+ 864.  WDID(Q7782345) theorem of Bertini
+ 865.  WDID(Q7786765) Thomae's formula
+ 866.  WDID(Q7795821) Thompson order formula
+ 867.  WDID(Q7801912) Tikhonov's theorem
+ 868.  WDID(Q7803014) tilted large deviation principle
+ 869.  WDID(Q7813341) Toida's conjecture
+ 870.  WDID(Q7820875) Tonelli–Hobson test
+ 871.  WDID(Q7825024) topological censorship
+ 872.  WDID(Q7830555) toy theorem
+ 873.  WDID(Q7835331) transposition
+ 874.  WDID(Q7840113) triangle postulate
+ 875.  WDID(Q7851042) Tucker's lemma
+ 876.  WDID(Q7856594) Turán's inequalities
+ 877.  WDID(Q7856999) Tutte homotopy theorem
+ 878.  WDID(Q7857004) Tutte–Berge formula
+ 879.  WDID(Q7858531) twisted Poincaré duality
+ 880.  WDID(Q7880612) ultraparallel theorem
+ 881.  WDID(Q7885107) uniform limit theorem
+ 882.  WDID(Q7886967) uniqueness theorem for Poisson's equation
+ 883.  WDID(Q7901945) Ushiki's theorem
+ 884.  WDID(Q7902910) universal Turing machine theorem
+ 885.  WDID(Q7915395) Varadhan's lemma
+ 886.  WDID(Q7917272) Vaughan's identity
+ 887.  WDID(Q7917710) Veblen's theorem
+ 888.  WDID(Q7917715) Veblen–Young theorem
+ 889.  WDID(Q7931634) Vincent's theorem
+ 890.  WDID(Q7935203) Virtually Haken conjecture
+ 891.  WDID(Q7936769) Vitale's random Brunn–Minkowski inequality
+ 892.  WDID(Q7941493) Von Neumann's inequality
+ 893.  WDID(Q7961649) Waldspurger's theorem
+ 894.  WDID(Q7980185) Weil conjecture on Tamagawa numbers
+ 895.  WDID(Q7980189) Weil reciprocity law
+ 896.  WDID(Q7980430) Weitzenböck identity
+ 897.  WDID(Q7982357) Wendel's theorem
+ 898.  WDID(Q7990327) Weyl's lemma
+ 899.  WDID(Q7990328) Weyl character formula
+ 900.  WDID(Q7990339) Weyl–Schouten theorem
+ 901.  WDID(Q7990342) Weyl–von Neumann theorem
+ 902.  WDID(Q7999145) Wiener–Wintner theorem
+ 903.  WDID(Q8027028) Wirtinger's representation and projection theorem
+ 904.  WDID(Q8028565) Witten conjecture
+ 905.  WDID(Q8068449) Zeeman's comparison theorem
+ 906.  WDID(Q8080822) Łoś–Tarski preservation theorem
+ 907.  WDID(Q9289849) conjunction elimination
+ 908.  WDID(Q9360626) Lewis Carroll identity
+ 909.  WDID(Q9363233) Frobenius-König theorem
+ 910.  WDID(Q9363269) Leibniz' theorem
+ 911.  WDID(Q9363284) Riemann–Lebesgue lemma
+ 912.  WDID(Q9363325) partition of unity
+ 913.  WDID(Q9363332) convergence of monotonic sequence
+ 914. WDID(Q10380294) Lamé's theorem
+ 915. WDID(Q10380297) Landau–Yang theorem
+ 916. WDID(Q10861254) generalized Stokes' theorem
+ 917. WDID(Q10866853) Wolstenholme cyclic inequality
+ 918. WDID(Q10965882) Trakhtenbrot's theorem
+ 919. WDID(Q11704319) Generalized Gauss-Bonnet theorem
+ 920. WDID(Q11722674) Takens' theorem
+ 921. WDID(Q11837622) Post's lattice
+ 922. WDID(Q12019364) Heine's theorem
+ 923. WDID(Q12594744) Matveev's theorem
+ 924. WDID(Q12620409) Cantor–Lebesgue theorem
+ 925. WDID(Q12620603) Cotes' theorem
+ 926. WDID(Q12621713) Peano's theorem
+ 927. WDID(Q13107586) Welch–Satterthwaite equation
+ 928. WDID(Q13365745) Maekawa's theorem
+ 929. WDID(Q13605872) Thurston elliptization conjecture
+ 930. WDID(Q14916038) Pfister's sixteen-square identity
+ 931. WDID(Q14943261) Liouville-Arnold theorem
+ 932. WDID(Q15021036) Nielsen transformation
+ 933. WDID(Q15214697) Schottky's theorem
+ 934. WDID(Q15260421) 123 theorem
+ 935. WDID(Q15285793) Dorfman-Steiner theorem
+ 936. WDID(Q15296043) Brezis–Gallouet inequality
+ 937. WDID(Q15304008) Littlewood–Richardson rule
+ 938. WDID(Q15709387) Hua's identity
+ 939. WDID(Q15793248) bundle theorem
+ 940. WDID(Q15806879) Krull's intersection theorem
+ 941. WDID(Q15825591) Selberg's lemma
+ 942. WDID(Q15844076) Cartan–Ambrose–Hicks theorem
+ 943. WDID(Q15844090) Steiner's theorem
+ 944. WDID(Q15844092) Wintner-Wielandt theorem
+ 945. WDID(Q15851368) theorem for change of variables in multiple integrals
+ 946. WDID(Q15864883) Mahler volume
+ 947. WDID(Q15940470) Legendre's three-square theorem
+ 948. WDID(Q16163173) umbrella theorem
+ 949. WDID(Q16179858) constrained extremum theorem
+ 950. WDID(Q16188208) Lamé's theorem
+ 951. WDID(Q16320788) Fueter–Pólya theorem
+ 952. WDID(Q16320789) Sárközy's theorem
+ 953. WDID(Q16636852) van der Waerden Permanent Conjecture
+ 954. WDID(Q16680049) Blumberg theorem
+ 955. WDID(Q16705451) Tarski–Seidenberg theorem
+ 956. WDID(Q16705475) Riesz completness theorem
+ 957. WDID(Q16705488) Fisher's theorem for normal samples
+ 958. WDID(Q16705492) Chaplygin's Theorem
+ 959. WDID(Q16840359) Bennett's inequality
+ 960. WDID(Q16842437) Bishop–Phelps theorem
+ 961. WDID(Q16843249) Bloch's formula
+ 962. WDID(Q16857878) waist of the sphere theorem
+ 963. WDID(Q16908682) Mestre bound
+ 964. WDID(Q16911248) Murakami–Yano formula
+ 965. WDID(Q16928396) Jessen–Wintner theorem
+ 966. WDID(Q16930828) Gilman–Griess theorem
+ 967. WDID(Q16942395) Delzant's theorem
+ 968. WDID(Q16944399) Reshetnyak gluing theorem
+ 969. WDID(Q16947915) Hilbert–Mumford criterion
+ 970. WDID(Q16956851) Von Neumann's trace inequality
+ 971. WDID(Q16966018) Hermite–Minkowski theorem
+ 972. WDID(Q16979202) Grace–Walsh–Szegő theorem
+ 973. WDID(Q16979306) modus non excipiens
+ 974. WDID(Q16989302) Kolmogorov's two-series theorem
+ 975. WDID(Q17000009) Shintani's unit theorem
+ 976. WDID(Q17002928) Beck–Fiala theorem
+ 977. WDID(Q17004731) chain rule
+ 978. WDID(Q17005376) Cohn-Vossen's inequality
+ 979. WDID(Q17005467) Brahmagupta's identity
+ 980. WDID(Q17005645) Bruss–Duerinckx theorem
+ 981. WDID(Q17005818) Conway criterion
+ 982. WDID(Q17006544) Chetaev instability theorem
+ 983. WDID(Q17007435) Chebotarev theorem on roots of unity
+ 984. WDID(Q17011576) Fabry gap theorem
+ 985. WDID(Q17015004) fundamental theorem of algebraic K-theory
+ 986. WDID(Q17015268) Gale–Ryser theorem
+ 987. WDID(Q17020604) Hanani–Tutte theorem
+ 988. WDID(Q17020898) Harcourt's theorem
+ 989. WDID(Q17022569) Herglotz-Noether theorem
+ 990. WDID(Q17027555) Hopf lemma
+ 991. WDID(Q17027556) Hopkins–Levitzki theorem
+ 992. WDID(Q17027740) Hsiang–Lawson's conjecture
+ 993. WDID(Q17027747) Hsu–Robbins–Erdős theorem
+ 994. WDID(Q17028374) hyperbolic law of cosines
+ 995. WDID(Q17029124) Ignatov's theorem
+ 996. WDID(Q17037933) Weyl's theorem on complete reducibility
+ 997. WDID(Q17043011) Monk's formula
+ 998. WDID(Q17056925) Malmquist's theorem
+ 999. WDID(Q17062131) one-shot deviation principle
+1000. WDID(Q17079965) Rademacher–Menchov theorem
+1001. WDID(Q17086178) Ingleton's inequality
+1002. WDID(Q17091514) Willmore conjecture
+1003. WDID(Q17093302) Markov–Krein theorem
+1004. WDID(Q17093903) slice theorem
+1005. WDID(Q17097788) Behrend's trace formula
+1006. WDID(Q17097849) Denjoy–Carleman–Ahlfors theorem
+1007. WDID(Q17097989) polynomial function theorems for zeros
+1008. WDID(Q17098001) Riesz–Markov–Kakutani representation theorem
+1009. WDID(Q17098012) Vitali–Carathéodory theorem
+1010. WDID(Q17098096) mean value theorem for divided differences
+1011. WDID(Q17098389) Keel–Mori theorem
+1012. WDID(Q17098742) Matrix Chernoff bound
+1013. WDID(Q17099060) Mori–Nagata theorem
+1014. WDID(Q17099286) Narasimhan–Seshadri theorem
+1015. WDID(Q17099374) Neukirch–Uchida theorem
+1016. WDID(Q17099544) Pascal's rule
+1017. WDID(Q17099549) PBR theorem
+1018. WDID(Q17103152) Schur product theorem
+1019. WDID(Q17103352) maximum power transfer theorem
+1020. WDID(Q17104455) upper bound theorem
+1021. WDID(Q17122926) Riesz rearrangement inequality
+1022. WDID(Q17126077) Quillen's theorems A and B
+1023. WDID(Q17142767) Moran's theorem
+1024. WDID(Q17163411) hook length formula
+1025. WDID(Q17638184) Weyl's theorem
+1026. WDID(Q18027666) Erdős-Selfridge theorem
+1027. WDID(Q18205404) bagpipe theorem
+1028. WDID(Q18206043) Cohen–Hewitt factorization theorem
+1029. WDID(Q18206223) Dao's six point circle
+1030. WDID(Q18206236) Esenin-Volpin's theorem
+1031. WDID(Q18206243) Fulkerson–Chen–Anstee theorem
+1032. WDID(Q18206257) Milnor–Moore theorem
+1033. WDID(Q18206262) Musselman's theorem
+1034. WDID(Q18206272) Posner's theorem
+1035. WDID(Q18207105) Kosnita's theorem
+1036. WDID(Q18207320) Gelfand–Raikov theorem
+1037. WDID(Q18210319) Borel's theorem
+1038. WDID(Q18212339) Moore–Penrose theorem
+1039. WDID(Q18212341) Sylvester inequality
+1040. WDID(Q18212342) Nash–Kuiper theorem
+1041. WDID(Q18212343) Painlevé theorem
+1042. WDID(Q18212347) theorem about the sum of interior angles of a polygon
+1043. WDID(Q18212353) Church–Turing theorem
+1044. WDID(Q18354377) Ewald–Oseen extinction theorem
+1045. WDID(Q18359323) Vinogradov's mean-value theorem
+1046. WDID(Q18411092) Cheeger finiteness theorem
+1047. WDID(Q18415473) Buchdahl's theorem
+1048. WDID(Q18430596) trillium theorem
+1049. WDID(Q18457093) Rellich-Dixmier theorem
+1050. WDID(Q18461671) Dao's theorem on six circumcenters
+1051. WDID(Q18463302) Erdős-Wintner theorem
+1052. WDID(Q18640217) Fermat's right triangle theorem
+1053. WDID(Q18762467) Purser's theorem
+1054. WDID(Q18814978) Popescu’s theorem
+1055. WDID(Q18891558) Schiffler's theorem
+1056. WDID(Q19256001) Kawasaki's Riemann–Roch formula
+1057. WDID(Q19294562) Atiyah–Bott formula
+1058. WDID(Q19360789) Alexander's theorem
+1059. WDID(Q19596039) Bernstein–Kushnirenko theorem
+1060. WDID(Q19597641) Kuratowski–Ulam theorem
+1061. WDID(Q19921695) Gudkov's conjecture
+1062. WDID(Q20182654) Cheeger–Buser inequality
+1063. WDID(Q20183875) Alexander’s torus theorem
+1064. WDID(Q20660712) Gerschgorin theorem
+1065. WDID(Q20707135) Mahaney's theorem
+1066. WDID(Q20753846) Leibniz' theorem
+1067. WDID(Q20826049) Lyapunov central limit theorem
+1068. WDID(Q20851062) Atiyah-Jänich theorem
+1069. WDID(Q20851082) Platonov's theorem
+1070. WDID(Q21043119) Matsumoto's theorem
+1071. WDID(Q21044726) optional sampling theorem
+1072. WDID(Q21045278) fundamental lemma of calculus of variations
+1073. WDID(Q21049998) Dedekind's isomorphism theorem
+1074. WDID(Q21051250) Hewitt–Savage zero–one law
+1075. WDID(Q21069246) Rokhlin lemma
+1076. WDID(Q21755500) Petersen–Morley theorem
+1077. WDID(Q23021008) Segre's theorem
+1078. WDID(Q23041626) Legendre's formula
+1079. WDID(Q23058987) Qvist's theorem
+1080. WDID(Q23400563) quotient rule
+1081. WDID(Q23659866) right triangle altitude theorem
+1082. WDID(Q24687039) Kelmans–Seymour conjecture
+1083. WDID(Q24896206) crossing number inequality
+1084. WDID(Q24957190) Fuhrmann's theorem
+1085. WDID(Q24963391) Dubins–Spanier theorems
+1086. WDID(Q24963888) Weller's theorem
+1087. WDID(Q25098853) Kuratowski and Ryll-Nardzewski measurable selection theorem
+1088. WDID(Q25098881) Sumihiro's theorem
+1089. WDID(Q25098884) Serre's theorem on affineness
+1090. WDID(Q25098911) Poincaré–Miranda theorem
+1091. WDID(Q25098919) Lusternik–Schnirelmann theorem
+1092. WDID(Q25099354) McKelvey–Schofield chaos theorem
+1093. WDID(Q25099357) Shafarevich's theorem on solvable Galois groups
+1094. WDID(Q25100274) Littlewood's 4/3 inequality
+1095. WDID(Q25106520) Janiszewski's theorem
+1096. WDID(Q25110385) Levinson's Theorem
+1097. WDID(Q25111134) binomial sum variance inequality
+1098. WDID(Q25111170) approximate max-flow min-cut theorem
+1099. WDID(Q25111495) Ohsawa–Takegoshi L2 extension theorem
+1100. WDID(Q25143636) theorem of the three geodesics
+1101. WDID(Q25303602) Cantor–Bernstein theorem
+1102. WDID(Q25303635) Łoś–Vaught test
+1103. WDID(Q25303656) Poincaré separation theorem
+1104. WDID(Q25303664) Thaine's theorem
+1105. WDID(Q25303703) Pisier–Ringrose inequality
+1106. WDID(Q25303727) Ostrogradsky instability
+1107. WDID(Q25303764) Wiener–Lévy theorem
+1108. WDID(Q25303782) Alfvén's Theorem
+1109. WDID(Q25303824) Castelnuovo's contraction theorem
+1110. WDID(Q25303848) sum of two squares theorem
+1111. WDID(Q25304045) Vermeil's theorem
+1112. WDID(Q25304092) Schinzel's theorem
+1113. WDID(Q25304094) Haruki's Theorem
+1114. WDID(Q25304231) Denjoy–Riesz theorem
+1115. WDID(Q25304324) even circuit theorem
+1116. WDID(Q25304543) two ears theorem
+1117. WDID(Q25305404) Carlitz–Wan conjecture
+1118. WDID(Q25305595) Fichera's existence principle
+1119. WDID(Q25351846) Frobenius's theorem
+1120. WDID(Q25377495) strong law of large numbers
+1121. WDID(Q25377496) weak law of large numbers
+1122. WDID(Q25377942) Lindeberg's central limit theorem
+1123. WDID(Q25378060) McShane's lemma
+1124. WDID(Q25378284) Radon–Riesz theorem
+1125. WDID(Q25378414) Frank's lemma
+1126. WDID(Q25378970) Andersen-Jessen theorem
+1127. WDID(Q25385476) Wagner's Equivalence Theorem
+1128. WDID(Q25386910) Satz von Kan und Thurston
+1129. WDID(Q25387387) Battle-Harary-Kodama theorem
+1130. WDID(Q25402330) Kolmogorov's normability criterion
+1131. WDID(Q26877694) angle relation in the lemniscate of Bernoulli
+1132. WDID(Q26882835) Alexander subbase theorem
+1133. WDID(Q26905515) Adian–Rabin theorem
+1134. WDID(Q27964064) three spheres inequality
+1135. WDID(Q28057428) Pólya Conjecture
+1136. WDID(Q28057429) Multivariate Central Limit Theorem
+1137. WDID(Q28197065) Marczewski’s separability theorem
+1138. WDID(Q28403771) Khinchin's theorem on the factorization of distributions
+1139. WDID(Q28403965) hockey-stick identity
+1140. WDID(Q28404630) Universal chord theorem
+1141. WDID(Q28456250) Furstenberg–Sárközy theorem
+1142. WDID(Q29167304) Gaussian correlation inequality
+1143. WDID(Q29479399) Gibbard's theorem
+1144. WDID(Q30591105) Bang's theorem on tetrahedra
+1145. WDID(Q30694447) Erdős–Tetali theorem
+1146. WDID(Q30704542) Seesaw theorem
+1147. WDID(Q30749910) Blichfeldt's theorem
+1148. WDID(Q30891709) Roberts's triangle theorem
+1149. WDID(Q31837065) Fuss' theorem
+1150. WDID(Q39049561) Electromagnetism uniqueness theorem
+1151. WDID(Q42417350) Olech theorem
+1152. WDID(Q42897585) Ehrenfeucht conjecture
+1153. WDID(Q48807921) Kelvin's minimum energy theorem
+1154. WDID(Q48835561) Cubical complex
+1155. WDID(Q48968385) Nakano vanishing theorem
+1156. WDID(Q48995859) Finsler's lemma
+1157. WDID(Q48996213) unique homomorphic extension theorem
+1158. WDID(Q48999814) Solovay–Kitaev theorem
+1159. WDID(Q49164838) Fabri–Picasso theorem
+1160. WDID(Q53067086) Cauchy–Davenport theorem
+1161. WDID(Q53851488) Rainwater's theorem
+1162. WDID(Q54539168) Binet's formula
+1163. WDID(Q55607862) Cohn's theorem
+1164. WDID(Q55612221) Gabriel–Rosenberg reconstruction theorem
+1165. WDID(Q55615352) Jouanolou's trick
+1166. WDID(Q55622445) Matsusaka's big theorem
+1167. WDID(Q55624108) Multi-homogeneous Bézout theorem
+1168. WDID(Q55630360) Prandtl–Batchelor theorem
+1169. WDID(Q55634934) Tennis ball theorem
+1170. WDID(Q55638209) Zariski's finiteness theorem
+1171. WDID(Q55641721) Separating equilibrium
+1172. WDID(Q55648034) Ladyzhenskaya–Babuška–Brezzi condition
+1173. WDID(Q55713716) Rado's transversal theorem
+1174. WDID(Q56027110) H. Bauer's maximum principle
+1175. WDID(Q56273825) Wilks' theorem
+1176. WDID(Q56276831) theorem of the highest weight
+1177. WDID(Q56291547) Chevalley restriction theorem
+1178. WDID(Q56292585) Walsh–Lebesgue theorem
+1179. WDID(Q56296628) Cauchy's limit theorem
+1180. WDID(Q56297031) Weierstrass’ inequalities
+1181. WDID(Q56297168) Wallis’ inequality
+1182. WDID(Q56298491) Schwerer Lefschetz theorem
+1183. WDID(Q56298550) Milnor–Wood inequality
+1184. WDID(Q56313802) Roth's theorem on arithmetic progressions
+1185. WDID(Q56374723) Kac–Bernstein theorem
+1186. WDID(Q56375780) Darmois–Skitovich theorem
+1187. WDID(Q56375782) Heyde theorem
+1188. WDID(Q56548256) Weyl–Kac character formula
+1189. WDID(Q56573863) theorem about nine points on cubic curve
+1190. WDID(Q60406167) Pestov–Ionin theorem
+1191. WDID(Q60739808) Itô's theorem
+1192. WDID(Q60741336) Peano kernel theorem
+1193. WDID(Q60741606) Sedrakyan's inequality
+1194. WDID(Q60790246) Local criterion for flatness
+1195. WDID(Q60790479) Anderson–Kadec theorem
+1196. WDID(Q60790732) Fischer's inequality
+1197. WDID(Q60792307) Lions–Magenes lemma
+1198. WDID(Q60794025) Kakutani's theorem
+1199. WDID(Q60794154) Feldman–Hájek theorem
+1200. WDID(Q60982527) Kadets-Snobar theorem
+1201. WDID(Q61056848) L'Huilier's Theorem
+1202. WDID(Q61773008) Linnik's theorem on convolution of normal distribution and Poisson's distribution
+1203. WDID(Q62091930) Godel's first incompleteness theorem
+1204. WDID(Q62713031) Moore-Osgood Theorem
+1205. WDID(Q65059571) Markov chain central limit theorem
+1206. WDID(Q65063913) Sims conjecture
+1207. WDID(Q65066994) Nash-Williams theorem
+1208. WDID(Q65119854) Rural hospitals theorem
+1209. WDID(Q65120950) Davenport–Erdős theorem
+1210. WDID(Q65122664) Universal embedding theorem
+1211. WDID(Q65235517) formula of Ascoli
+1212. WDID(Q65924901) Girard's theorem
+1213. WDID(Q66018963) Price’s law
+1214. WDID(Q66380136) Gisin-Hughston-Jozsa-Wootters theorem
+1215. WDID(Q66711802) Broken Chord theorem
+1216. WDID(Q78344221) nerve theorem
+1217. WDID(Q78859089) Spherical law of cotangens
+1218. WDID(Q78910215) Lasry's equality
+1219. WDID(Q84845514) Dupin's theorem
+1220. WDID(Q85751092) Cederbaum's maximum flow theorem
+1221. WDID(Q85758225) Eakin–Nagata theorem
+1222. WDID(Q85769835) Inverse Pythagorean theorem
+1223. WDID(Q85773557) Kaplansky's theorem on projective modules
+1224. WDID(Q85774945) Kotzig's theorem
+1225. WDID(Q85800438) Serre's inequality on height
+1226. WDID(Q85803783) Stromquist–Woodall theorem
+1227. WDID(Q85804930) Tait–Kneser theorem
+1228. WDID(Q85808992) Theorem of transition
+1229. WDID(Q91075317) Scherzer's theorem
+1230. WDID(Q91264225) portmanteau theorem
+1231. WDID(Q94391802) Pokhozhaev's identity
+1232. WDID(Q95674594) vertically opposite angle theorem
+1233. WDID(Q95993626) Satz von Mather-Thurston
+1234. WDID(Q96373852) Bottema's theorem
+1235. WDID(Q96376481) Dixmier-Ng Theorem
+1236. WDID(Q96387088) Lawson–Woodward theorem
+1237. WDID(Q96402496) Romanov's theorem
+1238. WDID(Q96413064) Ursescu theorem
+1239. WDID(Q97166118) Hopf–Whitney theorem
+1240. WDID(Q97175856) Kato–Rellich theorem
+1241. WDID(Q97279461) F. Riesz's theorem
+1242. WDID(Q97359344) Artin's theorem on induced characters
+1243. WDID(Q97359412) Serre's theorem on a semisimple Lie algebra
+1244. WDID(Q97380239) Vivanti–Pringsheim theorem
+1245. WDID(Q97485926) Cauchy–Schwarz inequality for sums
+1246. WDID(Q97621521) McCoy's Theorem
+1247. WDID(Q98393044) Borel-Harish-Chandra theorem
+1248. WDID(Q98668944) Teichmüller's Theorem
+1249. WDID(Q99304092) strong Whitney embedding theorem
+1250. WDID(Q99308325) strong Whitney immersion theorem
+1251. WDID(Q104585805) Wigner's theorem
+1252. WDID(Q104841505) Mackey–Arens theorem
+1253. WDID(Q104844004) Richards' theorem
+1254. WDID(Q104848151) Graham–Rothschild theorem
+1255. WDID(Q104902490) Blichfeldt's theorem
+1256. WDID(Q105742287) Oka–Weil theorem
+1257. WDID(Q106178732) Almgren isomorphism theorem
+1258. WDID(Q106349935) Margulis' normal subgroup theorem
+1259. WDID(Q106362666) Nirenberg's conjecture
+1260. WDID(Q106577791) Besicovitch inequality
+1261. WDID(Q107177007) Jury theorem
+1262. WDID(Q107203920) Jensen inequality
+1263. WDID(Q107634572) Moessner's theorem
+1264. WDID(Q108060866) Pfister theorem
+1265. WDID(Q108739396) Eilenberg–Niven theorem
+1266. WDID(Q108877023) Bott-Samelson Theorem
+1267. WDID(Q108888270) Walsh's approximation theorem
+1268. WDID(Q109360081) Bertrand-Darboux theorem
+1269. WDID(Q109362644) Poincaré's theorem
+1270. WDID(Q109645771) Thomassen theorem
+1271. WDID(Q110362895) Bergman's diamond lemma
+1272. WDID(Q110536121) Chentsov’s theorem
+1273. WDID(Q110818489) Grothendieck trace theorem
+1274. WDID(Q110948876) Plemelj-Smithies formulas
+1275. WDID(Q111128068) Grünwald–Marcinkiewicz theorem
+1276. WDID(Q111912376) Nielsen's theorem
+1277. WDID(Q111953566) Blow-up lemma
+1278. WDID(Q111955295) Geiringer–Laman theorem
+1279. WDID(Q111995262) Alexandrov’s soap bubble theorem
+1280. WDID(Q112302918) Baik-Deift-Johansson theorem
+1281. WDID(Q112571087) propagation of singularities theorem
+1282. WDID(Q112659216) midpoint theorem
+1283. WDID(Q112679233) theorem of H.-E. Richert
+1284. WDID(Q112912748) Markov chain tree theorem
+1285. WDID(Q112943558) Read's conjecture
+1286. WDID(Q113322879) Restricted Invertibility theorem
+1287. WDID(Q113532978) Călugăreanu theorem
+1288. WDID(Q113561117) Thom–Sebastiani Theorem
+1289. WDID(Q113576326) NLTS Conjecture
+1290. WDID(Q113579989) Lévy’s inequality
+1291. WDID(Q113586784) Toeplitz lemma
+1292. WDID(Q113611577) Dubins–Schwarz theorem
+1293. WDID(Q113623203) Itô–Nisio theorem
+1294. WDID(Q113659201) Kuratowski's intersection theorem
+1295. WDID(Q114043610) Bonferroni inequalities
+1296. WDID(Q114244531) Cocycle Super-Rigidity
+1297. WDID(Q114296818) eyeball theorem
+1298. WDID(Q114315594) Halanay Inequality
+1299. WDID(Q114406848) Napoleon-Barlotti theorem
+1300. WDID(Q114425616) Lomonosov's invariant subspace theorem
+1301. WDID(Q114558594) Optional Decomposition Theorem
+1302. WDID(Q114741715) Komlós' theorem
+1303. WDID(Q115284697) Soft graviton theorem
+1304. WDID(Q115679191) Hegerfeldt's theorem
+1305. WDID(Q115690815) van den Berg–Kesten inequality
+1306. WDID(Q115803137) Lucchesi–Younger theorem
+1307. WDID(Q116382512) Šidák inequality
+1308. WDID(Q116841638) Dimension doubling theorem
+1309. WDID(Q116968937) Matsaev's theorem
+1310. WDID(Q116980617) Le Potier's vanishing theorem
+1311. WDID(Q117184219) Hölder's inequality for sums
+1312. WDID(Q117336722) Bogomolov–Sommese vanishing theorem
+1313. WDID(Q117355532) Minkowski inequality for sums
+1314. WDID(Q117355636) Cauchy–Schwarz inequality for integrals
+1315. WDID(Q117372168) Hölder's inequality for integrals
+1316. WDID(Q117373676) Minkowski inequality for integrals
+1317. WDID(Q117679663) Mantel's theorem
+1318. WDID(Q118175843) Kleitman's lemma
+1319. WDID(Q118176576) Mertens' first theorem
+1320. WDID(Q118176598) Mertens' second theorem
+1321. WDID(Q118176628) Mertens' third theorem
+1322. WDID(Q118220479) Catalan's identity
+1323. WDID(Q118949245) absorption identity for binomial coefficients
+1324. WDID(Q119650583) Forster-Swan theorem
+1325. WDID(Q120446040) Robbins conjecture
+1326. WDID(Q120567818) triangle inequality for complex numbers
+1327. WDID(Q120629511) Stein-Rosenberg theorem
+1328. WDID(Q120753667) Miljutin's theorem
+1329. WDID(Q120907267) Jordan decomposition theorem
+1330. WDID(Q121067969) Futurama theorem
+1331. WDID(Q122199167) Motzkin-Taussky theorem
+1332. WDID(Q122475046) Suslin's theorem
+1333. WDID(Q122889520) Abi-Khuzam inequality
+1334. WDID(Q122897541) AAA Theorem
+1335. WDID(Q122897542) AAS Theorem
+1336. WDID(Q122973568) Kreiss matrix theorem
+1337. WDID(Q123142374) Cybenko's theorem
+1338. WDID(Q123561960) Griffiths' theorem
+1339. WDID(Q124423070) Yamada-Watanabe theorem
+1340. WDID(Q124513067) Birkhoff–Kakutani theorem
+1341. WDID(Q125960846) Opial-Olech-Beesack inequalities
+1342. WDID(Q126724429) Coppel's theorem
+1343. WDID(Q128537125) first Ray–Knight theorem
+1344. WDID(Q128693310) Nash's theorem
+1345. WDID(Q129064812) de Rham theorem
+1346. WDID(Q130261894) Diameter rigidity
+1347. WDID(Q131005670) Tarski irredundant basis theorem
+1348. WDID(Q131422683) Whitney's inequality on connectivity
+1349. WDID(Q131438158) Pál's theorem
+1350. WDID(Q131445042) Whitney's theorem on connectivity
+1351. WDID(Q131462712) Ptolemy's second theorem
+1352. WDID(Q131531232) Harsanyi's utilitarian theorem
+1353. WDID(Q131551013) Nioproban
+1354. WDID(Q131599485) Droz-Farny circle
