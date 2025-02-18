@@ -47,7 +47,7 @@ def get_wikidata_theorems(email):
         return [], []
 
     labeled_theorems = []
-    filtered_theorems = []
+    unlabeled_theorems = []
 
     for result in results["results"]["bindings"]:
         wdid = result["theorem"]["value"].split("/")[-1]
@@ -55,11 +55,11 @@ def get_wikidata_theorems(email):
         identifier = result.get("identifier", {}).get("value", "N/A")
 
         if not name or name == wdid:
-            filtered_theorems.append((wdid, name, identifier))
+            unlabeled_theorems.append((wdid, name, identifier))
         else:
             labeled_theorems.append((wdid, name, identifier))
 
-    return labeled_theorems, filtered_theorems
+    return labeled_theorems, unlabeled_theorems
 
 def get_wikipedia_theorems(email):
     url = "https://en.wikipedia.org/w/index.php?title=List_of_theorems&action=raw"
@@ -80,19 +80,21 @@ def get_wikipedia_theorems(email):
 
 if __name__ == "__main__":
     email = sys.argv[1]
-    labeled_theorems, filtered_theorems = get_wikidata_theorems(email)
     wikipedia_theorems = get_wikipedia_theorems(email)
 
     normalized_wikipedia_theorems = sorted(normalize_name(thm) for thm in wikipedia_theorems)
+    print("Wikipedia list of theorems (normalized):")
     print(normalized_wikipedia_theorems)
     s_normalized_wikipedia_theorems = '|'.join(normalized_wikipedia_theorems)
 
+    labeled_theorems, unlabeled_theorems = get_wikidata_theorems(email)
+
     unmatched_theorems = sorted((t for t in labeled_theorems if normalize_name(t[1]) not in s_normalized_wikipedia_theorems), key=lambda t: int(t[0][1:]))
 
-    print("\n\nLabeled Theorems (not in Wikipedia list):")
+    print("\n\nWikidata Theorems not in Wikipedia list:")
     for i, (wdid, name, _) in enumerate(unmatched_theorems):
         print(f"{i+1:>4}. {"WDID("+wdid+")":>15} {name}")
 
-    # print("\nFiltered Theorems (No Name or Name Matches WDID):")
-    # for i, (wdid, name, _) in enumerate(filtered_theorems):
+    # print("\nWikidata Unlabeled Theorems (no name or name matches WDID):")
+    # for i, (wdid, name, _) in enumerate(unlabeled_theorems):
     #     print(f"{i+1:>4}. {"WDID("+wdid+")":>15} {name}")
