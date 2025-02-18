@@ -12,6 +12,7 @@ def normalize_name(name):
     name = unicodedata.normalize("NFKD", name)
     name = html.unescape(name)  # Convert HTML escape codes
     name = name.replace('.27', "'") # '
+    name = name.replace("'s", '').replace("'", '')
     name = "".join([c for c in name if not unicodedata.combining(c)])  # Remove accents
     name = name.replace("–", "-").replace("—", "-").replace('---', '-').replace('--', '-')  # Normalize hyphens
     name = re.sub(r"\(.*?\)", "", name)  # Remove text in parentheses
