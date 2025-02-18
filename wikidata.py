@@ -6,11 +6,13 @@ from bs4 import BeautifulSoup
 import unicodedata
 import html
 import sys
+import urllib
 
 def normalize_name(name):
-    # Normalize to NFKD, remove diacritics, replace hyphens, remove text in parentheses, and lowercase
+    name = urllib.parse.unquote(name)
+    name = html.unescape(name) # Convert HTML escape codes
+    # Normalize to NFKD, remove diacritics, replace hyphens and lowercase
     name = unicodedata.normalize("NFKD", name)
-    name = html.unescape(name)  # Convert HTML escape codes
     name = name.replace('.27', "'") # '
     name = name.replace("'s", '').replace("'", '')
     name = "".join([c for c in name if not unicodedata.combining(c)])  # Remove accents
@@ -78,6 +80,15 @@ def get_wikipedia_theorems(email):
 
     return theorem_names
 
+def check_wikipedia_redirects(theorem_name, email):
+    url = f"https://en.wikipedia.org/wiki/{theorem_name.replace(' ', '_')}"
+    response = requests.get(url, headers={"User-Agent": f"WikidataTheoremScraper/1.0 ({email})"})
+
+    if response.status_code == 200:
+        return urllib.parse.unquote(response.url.split("/")[-1]).replace('_', ' ') , response.url
+    else:
+        return None , None
+
 if __name__ == "__main__":
     email = sys.argv[1]
     wikipedia_theorems = get_wikipedia_theorems(email)
@@ -91,10 +102,31 @@ if __name__ == "__main__":
 
     unmatched_theorems = sorted((t for t in labeled_theorems if normalize_name(t[1]) not in s_normalized_wikipedia_theorems), key=lambda t: int(t[0][1:]))
 
-    print("\n\nWikidata Theorems not in Wikipedia list:")
-    for i, (wdid, name, _) in enumerate(unmatched_theorems):
-        print(f"{i+1:>4}. {"WDID("+wdid+")":>15} {name}")
+    theorems_with_page_in_wikipedia_list = []
+    theorems_with_page_not_in_wikipedia_list = []
 
-    # print("\nWikidata Unlabeled Theorems (no name or name matches WDID):")
-    # for i, (wdid, name, _) in enumerate(unlabeled_theorems):
-    #     print(f"{i+1:>4}. {"WDID("+wdid+")":>15} {name}")
+    print("\n\nWikidata theorem search:")
+    for i, (wdid, name, _) in enumerate(unmatched_theorems):
+        redirect_title , url = check_wikipedia_redirects(name, email=email)
+
+        if not redirect_title:
+            print(f"🟨 {i+1:>4}. {"WDID("+wdid+")":>15} {name} (No valid redirect found)")
+        elif normalize_name(redirect_title) in s_normalized_wikipedia_theorems:
+            print(f"✅ {i+1:>4}. {"WDID("+wdid+")":>15} {name} (Redirects to theorem in list: {redirect_title}, {url})")
+            theorems_with_page_in_wikipedia_list.append((wdid, name, url))
+        elif (normalize_name(redirect_title) == normalize_name(name)):
+            print(f"❌ {i+1:>4}. {"WDID("+wdid+")":>15} {name} ({url})")
+            theorems_with_page_not_in_wikipedia_list.append((wdid, name, url))
+        else:
+            print(f"❌ {i+1:>4}. {"WDID("+wdid+")":>15} {name} (Redirects to theorem not in list: {redirect_title}, {url})")
+            theorems_with_page_not_in_wikipedia_list.append((wdid, name, url))
+
+    print(f"\nTotal number of Wikidata theorems with Wikipedia pages that are not in Wikipedia's list of theorems: {len(theorems_with_page_not_in_wikipedia_list)}")
+
+    # print("\n\nWikidata theorems with Wikipedia page and that are in Wikipedia's list of theorem:")
+    # for i, (wdid, name, url) in enumerate(theorems_with_page_in_wikipedia_list):
+    #     print(f"✅ {i+1:>4}. {"WDID("+wdid+")":>15} {name} ({url})")
+
+    # print("\n\nWikidata theorems with Wikipedia page but that are not in Wikipedia's list of theorem:")
+    # for i, (wdid, name, url) in enumerate(theorems_with_page_not_in_wikipedia_list):
+    #     print(f"❌ {i+1:>4}. {"WDID("+wdid+")":>15} {name} ({url})")
