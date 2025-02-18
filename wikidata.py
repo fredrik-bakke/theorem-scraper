@@ -76,13 +76,14 @@ def get_wikipedia_theorems(email):
     for line in response.text.split("\n"):
         match = re.match(r"^\*\s*\[\[(.+?)\]\]\s*\(", line)
         if match:
-            theorem_names.update(thm.strip() for thm in match.group(1).split('|'))
+            theorem_parts = match.group(1).split('|')
+            theorem_names.update(thm.strip() for thm in theorem_parts)
 
     return theorem_names
 
 def check_wikipedia_redirects(theorem_name, email):
     url = f"https://en.wikipedia.org/wiki/{theorem_name.replace(' ', '_')}"
-    response = requests.get(url, headers={"User-Agent": f"WikidataTheoremScraper/1.0 ({email})"})
+    response = requests.get(url, headers={"User-Agent": f"WikidataTheoremScraper/1.0 ({email})"}, allow_redirects=True)
 
     if response.status_code == 200:
         return urllib.parse.unquote(response.url.split("/")[-1]).replace('_', ' ') , response.url
@@ -92,10 +93,24 @@ def check_wikipedia_redirects(theorem_name, email):
 if __name__ == "__main__":
     email = sys.argv[1]
     wikipedia_theorems = get_wikipedia_theorems(email)
+    normalized_wikipedia_theorems = set(normalize_name(thm) for thm in wikipedia_theorems)
 
-    normalized_wikipedia_theorems = sorted(normalize_name(thm) for thm in wikipedia_theorems)
-    print("Wikipedia list of theorems (normalized):")
+    print("Checking redirects from Wikipedia's list of theorems:")
+    i = 1
+    # Check redirects for Wikipedia theorem links and add to exclusion string
+    for thm in wikipedia_theorems:
+        redirect_title , url = check_wikipedia_redirects(thm, email=email)
+        if redirect_title:
+            n_redirect_title = normalize_name(redirect_title)
+            if n_redirect_title not in normalized_wikipedia_theorems:
+                normalized_wikipedia_theorems.update(normalize_name(redirect_title))
+                print(f"{i:>4}. {redirect_title} added")
+                i += 1
+
+    print("Wikipedia list of theorems (exclusion strings):")
+    normalized_wikipedia_theorems = sorted(normalized_wikipedia_theorems)
     print(normalized_wikipedia_theorems)
+
     s_normalized_wikipedia_theorems = '|'.join(normalized_wikipedia_theorems)
 
     labeled_theorems, unlabeled_theorems = get_wikidata_theorems(email)
