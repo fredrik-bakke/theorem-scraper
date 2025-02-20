@@ -7,6 +7,9 @@ import unicodedata
 import html
 import sys
 import urllib
+import string
+import aiohttp
+import asyncio
 
 def normalize_name(name):
     name = urllib.parse.unquote(name)
@@ -14,11 +17,14 @@ def normalize_name(name):
     # Normalize to NFKD, remove diacritics, replace hyphens and lowercase
     name = unicodedata.normalize("NFKD", name)
     name = name.replace('.27', "'") # '
-    name = name.replace("'s", '').replace("'", '')
+    name = name.replace("'s", '').replace('’s', '') # Remove possessive
     name = "".join([c for c in name if not unicodedata.combining(c)])  # Remove accents
     name = name.replace("–", "-").replace("—", "-").replace('---', '-').replace('--', '-')  # Normalize hyphens
     name = re.sub(r"\(.*?\)", "", name)  # Remove text in parentheses
     name = name.replace('_', ' ') # Replace underscores by spaces
+    name = name.translate(str.maketrans('', '', string.punctuation))  # Remove punctuation
+    name = re.sub(r'\s+', ' ', name).strip() # Replace multiple spaces with a single space
+    name = name.replace('aa', 'a').replace('ae', 'a').replace('oe', 'o').replace('ue', 'u') # Replace common transliterations
     return name.lower().strip()
 
 def get_wikidata_theorems(email):
@@ -63,17 +69,39 @@ def get_wikidata_theorems(email):
 
     return labeled_theorems, unlabeled_theorems
 
-def get_wikipedia_theorems(email):
-    url = "https://en.wikipedia.org/w/index.php?title=List_of_theorems&action=raw"
-    response = requests.get(url, headers={"User-Agent": f"WikidataTheoremScraper/1.0 ({email})"})
+def get_mathematical_fields(email):
+    query = """
+    SELECT ?field ?fieldLabel WHERE {
+      ?field wdt:P31 wd:Q1936384.
+      SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    }
+    """
+
+    url = "https://query.wikidata.org/sparql"
+    headers = {"Accept": "application/json", "User-Agent": f"WikidataTheoremScraper/1.0 ({email})"}
+    response = requests.get(url, headers=headers, params={"query": query})
 
     if response.status_code != 200:
-        print("Failed to fetch Wikipedia source.")
-        return set()
+        return None
+
+    data = response.json()
+    fields = [(entry["field"]["value"].split('/')[-1], entry["fieldLabel"]["value"]) for entry in data["results"]["bindings"]]
+    fields = [(wdid , name) for (wdid , name) in fields if wdid != name]
+    return fields
+
+async def fetch(session, url, headers):
+    async with session.get(url, headers=headers) as response:
+        return await response.text()
+
+async def get_wikipedia_theorems_async(email):
+    url = "https://en.wikipedia.org/w/index.php?title=List_of_theorems&action=raw"
+    headers = {"User-Agent": f"WikidataTheoremScraper/1.0 ({email})"}
+
+    async with aiohttp.ClientSession() as session:
+        response_text = await fetch(session, url, headers)
 
     theorem_names = set()
-
-    for line in response.text.split("\n"):
+    for line in response_text.split("\n"):
         match = re.match(r"^\*\s*\[\[(.+?)\]\]\s*\(", line)
         if match:
             theorem_parts = match.group(1).split('|')
@@ -81,37 +109,62 @@ def get_wikipedia_theorems(email):
 
     return theorem_names
 
-def check_wikipedia_redirects(theorem_name, email):
+async def check_wikipedia_redirects_async(theorem_name, email):
     url = f"https://en.wikipedia.org/wiki/{theorem_name.replace(' ', '_')}"
-    response = requests.get(url, headers={"User-Agent": f"WikidataTheoremScraper/1.0 ({email})"}, allow_redirects=True)
+    headers = {"User-Agent": f"WikidataTheoremScraper/1.0 ({email})"}
 
-    if response.status_code == 200:
-        return urllib.parse.unquote(response.url.split("/")[-1]).replace('_', ' ') , response.url
-    else:
-        return None , None
+    async with aiohttp.ClientSession() as session:
+        async with session.get(url, headers=headers, allow_redirects=True) as response:
+            if response.status != 200:
+                return None, None
+            redirect_title = urllib.parse.unquote(str(response.url).split("/")[-1]).replace('_', ' ')
+            return redirect_title, str(response.url)
 
-if __name__ == "__main__":
-    email = sys.argv[1]
-    wikipedia_theorems = get_wikipedia_theorems(email)
+async def get_wikipedia_alternate_names_async(main_theorem_name, email):
+    raw_url = f"https://en.wikipedia.org/w/index.php?title={main_theorem_name.replace(' ', '_')}&action=raw"
+    headers = {"User-Agent": f"WikidataTheoremScraper/1.0 ({email})"}
+
+    async with aiohttp.ClientSession() as session:
+        response_text = await fetch(session, raw_url, headers)
+
+    boldface_matches = re.findall(r"'''(.*?)'''", response_text)
+    return boldface_matches
+
+async def main(email):
+    wikipedia_theorems = await get_wikipedia_theorems_async(email)
     normalized_wikipedia_theorems = set(normalize_name(thm) for thm in wikipedia_theorems)
 
-    print("Checking redirects from Wikipedia's list of theorems:")
+    alt_thm_name_keywords = ('theorem', 'lemma', 'corollary', 'proposition', 'lemma', 'correspondence', 'identity', 'conjecture', 'duality')
+
+    print("Checking redirects and alternative theorem names for Wikipedia's list of theorems.")
     i = 1
-    # Check redirects for Wikipedia theorem links and add to exclusion string
+    tasks = []
     for thm in wikipedia_theorems:
-        redirect_title , url = check_wikipedia_redirects(thm, email=email)
+        tasks.append(check_wikipedia_redirects_async(thm, email=email))
+    results = await asyncio.gather(*tasks)
+
+    alt_tasks = []
+    for thm, (redirect_title, url) in zip(wikipedia_theorems, results):
         if redirect_title:
             n_redirect_title = normalize_name(redirect_title)
             if n_redirect_title not in normalized_wikipedia_theorems:
-                normalized_wikipedia_theorems.update(normalize_name(redirect_title))
-                print(f"{i:>4}. {redirect_title} added")
-                i += 1
+                normalized_wikipedia_theorems.update(n_redirect_title)
 
-    print("Wikipedia list of theorems (exclusion strings):")
-    normalized_wikipedia_theorems = sorted(normalized_wikipedia_theorems)
-    print(normalized_wikipedia_theorems)
+            alt_tasks.append(get_wikipedia_alternate_names_async(redirect_title, email=email))
+
+    alt_results = await asyncio.gather(*alt_tasks)
+
+    for alt_theorem_names in alt_results:
+        for alt_thm_name in alt_theorem_names:
+            n_alt_thm_name = normalize_name(alt_thm_name)
+            if n_alt_thm_name not in normalized_wikipedia_theorems and any(s in n_alt_thm_name and len(s) + 3 < len(n_alt_thm_name) for s in alt_thm_name_keywords):
+                normalized_wikipedia_theorems.update(n_alt_thm_name)
+
+    print("\nWikipedia list of theorems (exclusion strings):")
+    normalized_wikipedia_theorems = sorted(thm for thm in normalized_wikipedia_theorems if len(thm) > 3)
 
     s_normalized_wikipedia_theorems = '|'.join(normalized_wikipedia_theorems)
+    print(s_normalized_wikipedia_theorems)
 
     labeled_theorems, unlabeled_theorems = get_wikidata_theorems(email)
 
@@ -120,10 +173,13 @@ if __name__ == "__main__":
     theorems_with_page_in_wikipedia_list = []
     theorems_with_page_not_in_wikipedia_list = []
 
-    print("\n\nWikidata theorem search:")
+    print("\n\nWikidata theorem search (theorems that are not on Wikipedia's list):")
+    tasks = []
     for i, (wdid, name, _) in enumerate(unmatched_theorems):
-        redirect_title , url = check_wikipedia_redirects(name, email=email)
+        tasks.append(check_wikipedia_redirects_async(name, email=email))
+    results = await asyncio.gather(*tasks)
 
+    for i, ((wdid, name, _), (redirect_title, url)) in enumerate(zip(unmatched_theorems, results)):
         if not redirect_title:
             print(f"🟨 {i+1:>4}. {"WDID("+wdid+")":>15} {name} (No valid redirect found)")
         elif normalize_name(redirect_title) in s_normalized_wikipedia_theorems:
@@ -138,10 +194,6 @@ if __name__ == "__main__":
 
     print(f"\nTotal number of Wikidata theorems with Wikipedia pages that are not in Wikipedia's list of theorems: {len(theorems_with_page_not_in_wikipedia_list)}")
 
-    # print("\n\nWikidata theorems with Wikipedia page and that are in Wikipedia's list of theorem:")
-    # for i, (wdid, name, url) in enumerate(theorems_with_page_in_wikipedia_list):
-    #     print(f"✅ {i+1:>4}. {"WDID("+wdid+")":>15} {name} ({url})")
-
-    # print("\n\nWikidata theorems with Wikipedia page but that are not in Wikipedia's list of theorem:")
-    # for i, (wdid, name, url) in enumerate(theorems_with_page_not_in_wikipedia_list):
-    #     print(f"❌ {i+1:>4}. {"WDID("+wdid+")":>15} {name} ({url})")
+if __name__ == "__main__":
+    email = sys.argv[1]
+    asyncio.run(main(email))
