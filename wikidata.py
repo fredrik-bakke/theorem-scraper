@@ -89,6 +89,42 @@ def get_mathematical_fields(email):
     fields = [(wdid , name) for (wdid , name) in fields if wdid != name]
     return fields
 
+def get_theorem_fields(email):
+    sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
+    sparql.addCustomHttpHeader("User-Agent", f"WikidataTheoremScraper/1.0 ({email})")
+
+    query = """
+    SELECT ?theorem ?theoremLabel ?fieldLabel WHERE {
+      ?theorem wdt:P31 wd:Q65943.
+      ?theorem wdt:P2579 ?field.
+      SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    }
+    """
+
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+
+    for attempt in range(3):  # Retry up to 3 times
+        try:
+            results = sparql.query().convert()
+            break
+        except Exception as e:
+            print(f"Query failed (attempt {attempt + 1}): {e}")
+            time.sleep(5)
+    else:
+        print("Failed after 3 attempts.")
+        return {}
+
+    theorem_fields = {}
+    for result in results["results"]["bindings"]:
+        theorem = result["theorem"]["value"].split("/")[-1]
+        field = result["fieldLabel"]["value"]
+        if theorem not in theorem_fields:
+            theorem_fields[theorem] = []
+        theorem_fields[theorem].append(field)
+
+    return theorem_fields
+
 async def fetch(session, url, headers):
     async with session.get(url, headers=headers) as response:
         return await response.text()
@@ -113,12 +149,14 @@ async def check_wikipedia_redirects_async(theorem_name, email):
     url = f"https://en.wikipedia.org/wiki/{theorem_name.replace(' ', '_')}"
     headers = {"User-Agent": f"WikidataTheoremScraper/1.0 ({email})"}
 
-    async with aiohttp.ClientSession() as session:
-        async with session.get(url, headers=headers, allow_redirects=True) as response:
-            if response.status != 200:
-                return None, None
-            redirect_title = urllib.parse.unquote(str(response.url).split("/")[-1]).replace('_', ' ')
-            return redirect_title, str(response.url)
+    for attempt in range(5):  # Retry up to 3 times
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url, headers=headers, allow_redirects=True) as response:
+                if response.status == 200:
+                    redirect_title = urllib.parse.unquote(str(response.url).split("/")[-1]).replace('_', ' ')
+                    return redirect_title, str(response.url)
+                await asyncio.sleep(1)  # Wait for 5 seconds before retrying
+    return None, None
 
 async def get_wikipedia_alternate_names_async(main_theorem_name, email):
     raw_url = f"https://en.wikipedia.org/w/index.php?title={main_theorem_name.replace(' ', '_')}&action=raw"
@@ -167,6 +205,7 @@ async def main(email):
     print(s_normalized_wikipedia_theorems)
 
     labeled_theorems, unlabeled_theorems = get_wikidata_theorems(email)
+    theorem_fields = get_theorem_fields(email)
 
     unmatched_theorems = sorted((t for t in labeled_theorems if normalize_name(t[1]) not in s_normalized_wikipedia_theorems), key=lambda t: int(t[0][1:]))
 
@@ -180,16 +219,17 @@ async def main(email):
     results = await asyncio.gather(*tasks)
 
     for i, ((wdid, name, _), (redirect_title, url)) in enumerate(zip(unmatched_theorems, results)):
+        fields = ", ".join(theorem_fields.get(wdid, ["Unknown"]))
         if not redirect_title:
-            print(f"🟨 {i+1:>4}. {"WDID("+wdid+")":>15} {name} (No valid redirect found)")
+            print(f"🟨 {i+1:>4}. {"WDID("+wdid+")":>15} {name} (No valid redirect found) [Fields: {fields}]")
         elif normalize_name(redirect_title) in s_normalized_wikipedia_theorems:
-            print(f"✅ {i+1:>4}. {"WDID("+wdid+")":>15} {name} (Redirects to theorem in list: {redirect_title}, {url})")
+            print(f"✅ {i+1:>4}. {"WDID("+wdid+")":>15} {name} (Redirects to theorem in list: {redirect_title}, {url}) [Fields: {fields}]")
             theorems_with_page_in_wikipedia_list.append((wdid, name, url))
         elif (normalize_name(redirect_title) == normalize_name(name)):
-            print(f"❌ {i+1:>4}. {"WDID("+wdid+")":>15} {name} ({url})")
+            print(f"❌ {i+1:>4}. {"WDID("+wdid+")":>15} {name} ({url}) [Fields: {fields}]")
             theorems_with_page_not_in_wikipedia_list.append((wdid, name, url))
         else:
-            print(f"❌ {i+1:>4}. {"WDID("+wdid+")":>15} {name} (Redirects to theorem not in list: {redirect_title}, {url})")
+            print(f"❌ {i+1:>4}. {"WDID("+wdid+")":>15} {name} (Redirects to theorem not in list: {redirect_title}, {url}) [Fields: {fields}]")
             theorems_with_page_not_in_wikipedia_list.append((wdid, name, url))
 
     print(f"\nTotal number of Wikidata theorems with Wikipedia pages that are not in Wikipedia's list of theorems: {len(theorems_with_page_not_in_wikipedia_list)}")
