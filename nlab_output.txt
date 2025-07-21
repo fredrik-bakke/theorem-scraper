@@ -4,345 +4,355 @@
    3. Adámek's fixed point theorem
    4. Alfsen-Shultz theorem
    5. Arnold-Kuiper-Massey theorem
-   6. Artin representability theorem
-   7. Artin-Lurie representability theorem
-   8. Atiyah-Segal completion theorem
-   9. BBDG decomposition theorem
-  10. Baire category theorem
-  11. Banach fixed-point theorem
-  12. Banach-Alaoglu theorem
-  13. Banach-Steinhaus theorem
-  14. Banch-Tarski theorem
-  15. Barr embedding theorem
-  16. Barr's theorem
-  17. Berger's theorem
-  18. Bergman's centralizer theorem
-  19. Bertrand's theorem
-  20. Beth definability theorem
-  21. Birkhoff's HSP theorem
-  22. Birkhoff's subdirect representation theorem
-  23. Birkhoff's theorem
-  24. Birkhoff-von Neumann theorem
-  25. Bisognano-Wichmann theorem
-  26. Blakers-Massey theorem
-  27. Bloch's theorem
-  28. Bochner's theorem
-  29. Bogomolov-Tian-Todorov theorem
-  30. Boman's theorem
-  31. Borel's theorem
-  32. Borel-Weil theorem
-  33. Bousfield-Friedlander theorem
-  34. Brauer induction theorem
-  35. Brouwer's fixed point theorem
-  36. Brown representability theorem
-  37. Bruck-Toyoda theorem
-  38. Bub-Clifton theorem
-  39. Buchstaber–Rees theorem
-  40. Bénabou-Roubaud theorem
-  41. Bézout's theorem
-  42. Cantor's theorem
-  43. Cantor-Schroeder-Bernstein theorem
-  44. Cartan theorem B
-  45. Cartan's closed subgroup theorem
-  46. Cauchy group theorem
-  47. Cauchy integral theorem
-  48. Cauchy interlace theorem
-  49. Cauchy sum theorem
-  50. Cauchy theorem
-  51. Cayley's theorem
-  52. Cheeger-Gromoll splitting theorem
-  53. Chevalley's theorem on constructible sets
-  54. Chow's theorem
-  55. Church-Rosser theorem
-  56. Coleman-Mandula theorem
-  57. Craig interpolation theorem
-  58. Darboux's theorem
-  59. Day's reflection theorem
-  60. Deligne's theorem
-  61. Desargues' theorem
-  62. Diaconescu's theorem
-  63. Diaconescu-Goodman-Myhill theorem
-  64. Dirichlet's unit theorem
-  65. Dolbeault theorem
-  66. Dold-Thom theorem
-  67. Donaldson's theorem
-  68. Donaldson-Uhlenbeck-Yau theorem
-  69. Dowker's theorem
-  70. Dragon's theorem
-  71. Drinfeld-Kohno theorem
-  72. Dugger's theorem
-  73. Döring-Harding-Hamhalter theorem
-  74. Eastin-Knill theorem
-  75. Ehresmann's theorem
-  76. Eilenberg-Watts theorem
-  77. Eilenberg-Zilber theorem
-  78. Elmendorf's theorem
-  79. FRS-theorem on rational 2d CFT
-  80. Feit-Thompson theorem
-  81. Fell's theorem
-  82. Fermat's little theorem
-  83. Fourier inversion theorem
-  84. Fox's theorem
-  85. Freudenthal suspension theorem
-  86. Freyd-Mitchell embedding theorem
-  87. Frobenius theorem
-  88. Frobenius-Perron theorem
-  89. Fubini theorem
-  90. Furstenberg-Zimmer structure theorem
-  91. Gabriel's theorem
-  92. Gabriel-Popescu theorem
-  93. Gabriel-Rosenberg theorem
-  94. Gauss-Bonnet theorem
-  95. Gelfand-Kolmogorov theorem
-  96. Gelfand-Mazur theorem
-  97. Gelfand-Neumark theorem
-  98. Gelfand-Raikov theorem
-  99. Gelfond's theorem
- 100. Gershgorin circle theorem
- 101. Giraud's theorem
- 102. Gleason's theorem
- 103. Goddard-Thorn no-ghost theorem
- 104. Goldblatt-Thomason theorem
- 105. Goldman-Millson quasi-abelianity theorem
- 106. Goursat theorem
- 107. Grauert embedding theorem
- 108. Green theorem
- 109. Gromov's non-squeezing theorem
- 110. Grothendieck-Riemann-Roch theorem
- 111. Haag's theorem
- 112. Haag–Łopuszański–Sohnius theorem
- 113. Hadwiger's theorem
- 114. Haefliger theorem
- 115. Hahn decomposition theorem
- 116. Hahn-Banach separation theorem
- 117. Hahn-Banach theorem
- 118. Harder-Narasimhan theorem
- 119. Hedberg's theorem
- 120. Heine-Borel theorem
- 121. Heine-Cantor theorem
- 122. Hellman-Feynman theorem
- 123. Higman's embedding theorem
- 124. Hilbert's Theorem 90
- 125. Hirzebruch signature theorem
- 126. Hirzebruch-Riemann-Roch theorem
- 127. Hochschild-Kostant-Rosenberg theorem
- 128. Hodge theorem
- 129. Hodge-Maxwell theorem
- 130. Hopf degree theorem
- 131. Hopkins-Miller theorem
- 132. Hurewicz theorem
- 133. Hurwitz theorem
- 134. Jacobson-Morozov theorem
- 135. Jones' theorem
- 136. Jordan curve theorem
- 137. Jordan-Hölder theorem
- 138. Kadeishvili's theorem
- 139. Kahn-Priddy theorem
- 140. Kan-Thurston theorem
- 141. Keisler-Shelah isomorphism theorem
- 142. Kleene's fixed point theorem
- 143. Kochen-Specker theorem
- 144. Kodaira embedding theorem
- 145. Kodaira vanishing theorem
- 146. Kolmogorov extension theorem
- 147. Koszul-Malgrange theorem
- 148. Kreisel-Lacombe-Shoenfield-Tseitin theorem
- 149. Kronecker-Weber theorem
- 150. Kuiper's theorem
- 151. König's theorem
- 152. Künneth theorem
- 153. Lagrange's theorem
- 154. Landweber exact functor theorem
- 155. Landweber-Novikov theorem
- 156. Lawvere's fixed point theorem
- 157. Lazard's theorem
- 158. Lefschetz theorem on (1,1)-classes
- 159. Leray-Hirsch theorem
- 160. Lindström's theorem
- 161. Loday-Quillen-Tsygan theorem
- 162. Löb's theorem
- 163. Löwenheim-Skolem theorem
- 164. Maharam's theorem
- 165. Maschke's theorem
- 166. Mather's stability theorem
- 167. Mather-Yau theorem
- 168. May recognition theorem
- 169. Mazur-Ulam theorem
- 170. Michael's theorem
- 171. Milnor's theorem
- 172. Milnor-Moore theorem
- 173. Milnor-Quillen theorem on MU
- 174. Mordell-Weil theorem
- 175. Mostow rigidity theorem
- 176. Myers-Steenrod theorem
- 177. Narasimhan embedding theorem
- 178. Narasimhan–Seshadri theorem
- 179. Nash embedding theorem
- 180. Newlander-Nirenberg theorem
- 181. Nielsen-Schreier theorem
- 182. Noether's theorem
- 183. Nori's Tannakian theorem
- 184. Osterwalder-Schrader theorem
- 185. Ostrowski's theorem
- 186. PBW theorem
- 187. PCT theorem
- 188. Paley-Wiener-Schwartz theorem
- 189. Parseval's theorem
- 190. Penrose singularity theorem
- 191. Peter-Weyl theorem
- 192. Poincaré–Hopf theorem
- 193. Pontryagin's theorem
- 194. Proper Morphisms, Completions, and the Grothendieck Existence Theorem
- 195. Pythagorean theorem
- 196. Pólya enumeration theorem
- 197. Quillen's theorem
- 198. Quillen-Suslin theorem
- 199. Rector completion theorem
- 200. Reeb sphere theorem
- 201. Reeb theorem
- 202. Reeh-Schlieder theorem
- 203. Reidemeister-Schreier theorem
- 204. Ribet's theorem
- 205. Riemann existence theorem
- 206. Riemann series theorem
- 207. Riesz representation theorem
- 208. Robinson consistency theorem
- 209. Sard's theorem
- 210. Schneider's theorem
- 211. Segal-Carlsson completion theorem
- 212. Serre finiteness theorem
- 213. Serre's theorem on Proj
- 214. Serre-Swan theorem
- 215. Shum's theorem
- 216. Snaith theorem
- 217. Solovay-Kitaev theorem
- 218. Spectral Mackey functor theorem
- 219. Steenrod approximation theorem
- 220. Stinespring factorization theorem
- 221. Stokes theorem
- 222. Stone-Weierstrass theorem
- 223. Stone-von Neumann theorem
- 224. Strøm's theorem
- 225. Taimanov theorem
- 226. Tannaka-Krein theorem
- 227. Tarski-Seidenberg theorem
- 228. Tate's acyclicity theorem
- 229. Taylor's theorem
- 230. Thom's theorem
- 231. Thom's transversality theorem
- 232. Tietze extension theorem
- 233. Tychonoff theorem
- 234. Wagner-Preston theorem
- 235. Wedderburn-Artin theorem
- 236. Weierstrass preparation theorem
- 237. Weil uniformization theorem
- 238. Wheels theorem
- 239. Whitehead theorem
- 240. Whitney embedding theorem
- 241. Whitney extension theorem
- 242. Wigner theorem
- 243. Wiles' proof of Fermat's last theorem
- 244. adjoint (infinity,1)-functor theorem
- 245. adjoint functor theorem
- 246. adjoint lifting theorem
- 247. adjoint triangle theorem
- 248. arithmetic Riemann-Roch theorem
- 249. basis theorem
- 250. bicommutant theorem
- 251. binomial theorem
- 252. c-theorem
- 253. cellular approximation theorem
- 254. central limit theorem
- 255. change of rings theorem
- 256. chromatic convergence theorem
- 257. closed graph theorem
- 258. coherence theorem
- 259. collar neighbourhood theorem
- 260. compactness theorem
- 261. comparison theorem
- 262. completeness theorem
- 263. completion theorem for complex cobordism cohomology
- 264. constructive Gelfand duality theorem
- 265. de Finetti's theorem
- 266. de Rham theorem
- 267. decomposition theorem for simplicial groups
- 268. divergence theorem
- 269. equivariant Pontrjagin theorem
- 270. ergodic decomposition theorem
- 271. extreme value theorem
- 272. fan theorem
- 273. fluctuation-dissipation theorem
- 274. folk theorem
- 275. four-colour theorem
- 276. fracture theorem
- 277. fundamental theorem of Riemannian geometry
- 278. fundamental theorem of algebra
- 279. fundamental theorem of arithmetic
- 280. fundamental theorem of calculus
- 281. fundamental theorem of covering spaces
- 282. fundamental theorem of dg-algebraic equivariant rational homotopy theory
- 283. fundamental theorem of dg-algebraic rational homotopy theory
- 284. fundamental theorem of finitely generated abelian groups
- 285. fundamental theorem of identity types
- 286. fundamental theorem of linear algebra
- 287. fundamental theorem of topos theory
- 288. global dimension theorem
- 289. group completion theorem
- 290. h-cobordism theorem
- 291. halting theorem
- 292. hard Lefschetz theorem
- 293. hyperplane section theorem
- 294. implicit function theorem
- 295. index theorem
- 296. intermediate value theorem
- 297. inverse function theorem
- 298. main theorem of classical Galois theory
- 299. main theorem of perturbative renormalization
- 300. maximal ideal theorem
- 301. mean value theorem
- 302. metrization theorem
- 303. modularity theorem
- 304. monadicity theorem
- 305. nerve theorem
- 306. nilpotence theorem
- 307. no-cloning theorem
- 308. no-go theorem
- 309. no-hair theorem
- 310. norm residue isomorphism theorem
- 311. periodicity theorem
- 312. positive energy theorem
- 313. praeclarum theorema
- 314. prime geodesic theorem
- 315. prime ideal theorem
- 316. prime number theorem
- 317. product theorem
- 318. propagation of singularities theorem
- 319. proper base change theorem
- 320. quantum adiabatic theorem
- 321. rank-nullity theorem
- 322. rational zero theorem
- 323. reconstruction theorem
- 324. representable functor theorem
- 325. rigidity theorem for elliptic genera
- 326. selection theorem
- 327. simplicial approximation theorem
- 328. slice theorem
- 329. soft graviton theorem
- 330. spectral theorem
- 331. spin-statistics theorem
- 332. stone-weierstrass theorem
- 333. strictification theorem
- 334. structure theorem for finitely generated modules over a principal ideal domain
- 335. the fundamental theorem of Galois theory
- 336. theorem of the heart
- 337. thick subcategory theorem
- 338. triangulation theorem
- 339. tubular neighborhood theorem
- 340. twisted Pontrjagin theorem
- 341. ultrafilter theorem
- 342. universal coefficient theorem
- 343. van Kampen theorem
- 344. well-ordering theorem
+   6. Artin induction theorem
+   7. Artin representability theorem
+   8. Artin-Lurie representability theorem
+   9. Atiyah-Jänich theorem
+  10. Atiyah-Segal completion theorem
+  11. Atkinson's theorem
+  12. BBDG decomposition theorem
+  13. Baire category theorem
+  14. Banach fixed-point theorem
+  15. Banach-Alaoglu theorem
+  16. Banach-Steinhaus theorem
+  17. Banch-Tarski theorem
+  18. Barr embedding theorem
+  19. Barr's theorem
+  20. Berger's theorem
+  21. Bergman's centralizer theorem
+  22. Bertrand's theorem
+  23. Beth definability theorem
+  24. Birkhoff's HSP theorem
+  25. Birkhoff's subdirect representation theorem
+  26. Birkhoff's theorem
+  27. Birkhoff-von Neumann theorem
+  28. Bisognano-Wichmann theorem
+  29. Blakers-Massey theorem
+  30. Bloch's theorem
+  31. Bochner linearization theorem
+  32. Bochner's theorem
+  33. Bogomolov-Tian-Todorov theorem
+  34. Boman's theorem
+  35. Borel's theorem
+  36. Borel-Weil theorem
+  37. Bousfield-Friedlander theorem
+  38. Brauer induction theorem
+  39. Brouwer's fixed point theorem
+  40. Brown representability theorem
+  41. Bruck-Toyoda theorem
+  42. Bub-Clifton theorem
+  43. Buchstaber–Rees theorem
+  44. Bénabou-Roubaud theorem
+  45. Bézout's theorem
+  46. Cantor's theorem
+  47. Cantor-Schroeder-Bernstein theorem
+  48. Cartan theorem B
+  49. Cartan's closed subgroup theorem
+  50. Cauchy group theorem
+  51. Cauchy integral theorem
+  52. Cauchy interlace theorem
+  53. Cauchy sum theorem
+  54. Cauchy theorem
+  55. Cayley's theorem
+  56. Cheeger-Gromoll splitting theorem
+  57. Chevalley's theorem on constructible sets
+  58. Chow's theorem
+  59. Church-Rosser theorem
+  60. Coleman-Mandula theorem
+  61. Craig interpolation theorem
+  62. Darboux's theorem
+  63. Day's reflection theorem
+  64. Deligne's theorem
+  65. Desargues' theorem
+  66. Diaconescu's theorem
+  67. Diaconescu-Goodman-Myhill theorem
+  68. Dirichlet's unit theorem
+  69. Dolbeault theorem
+  70. Dold-Thom theorem
+  71. Donaldson's theorem
+  72. Donaldson-Uhlenbeck-Yau theorem
+  73. Dowker's theorem
+  74. Dragon's theorem
+  75. Drinfeld-Kohno theorem
+  76. Dugger's theorem
+  77. Döring-Harding-Hamhalter theorem
+  78. Eastin-Knill theorem
+  79. Ehresmann's theorem
+  80. Eilenberg-Watts theorem
+  81. Eilenberg-Zilber theorem
+  82. Elmendorf's theorem
+  83. FRS-theorem on rational 2d CFT
+  84. Feit-Thompson theorem
+  85. Fell's theorem
+  86. Fermat's little theorem
+  87. Fourier inversion theorem
+  88. Fox's theorem
+  89. Freudenthal suspension theorem
+  90. Freyd-Mitchell embedding theorem
+  91. Frobenius theorem
+  92. Frobenius-Perron theorem
+  93. Fubini theorem
+  94. Furstenberg-Zimmer structure theorem
+  95. Gabriel's theorem
+  96. Gabriel-Popescu theorem
+  97. Gabriel-Rosenberg theorem
+  98. Gauss-Bonnet theorem
+  99. Gelfand-Kolmogorov theorem
+ 100. Gelfand-Mazur theorem
+ 101. Gelfand-Neumark theorem
+ 102. Gelfand-Raikov theorem
+ 103. Gelfond's theorem
+ 104. Gershgorin circle theorem
+ 105. Giraud's theorem
+ 106. Gleason's theorem
+ 107. Goddard-Thorn no-ghost theorem
+ 108. Goldblatt-Thomason theorem
+ 109. Goldman-Millson quasi-abelianity theorem
+ 110. Goursat theorem
+ 111. Grauert embedding theorem
+ 112. Green theorem
+ 113. Gromov's non-squeezing theorem
+ 114. Grothendieck-Riemann-Roch theorem
+ 115. Haag's theorem
+ 116. Haag–Łopuszański–Sohnius theorem
+ 117. Hadwiger's theorem
+ 118. Haefliger theorem
+ 119. Hahn decomposition theorem
+ 120. Hahn-Banach separation theorem
+ 121. Hahn-Banach theorem
+ 122. Harder-Narasimhan theorem
+ 123. Hedberg's theorem
+ 124. Heine-Borel theorem
+ 125. Heine-Cantor theorem
+ 126. Hellman-Feynman theorem
+ 127. Higman's embedding theorem
+ 128. Hilbert's Theorem 90
+ 129. Hirzebruch signature theorem
+ 130. Hirzebruch-Riemann-Roch theorem
+ 131. Hochschild-Kostant-Rosenberg theorem
+ 132. Hodge theorem
+ 133. Hodge-Maxwell theorem
+ 134. Hopf degree theorem
+ 135. Hopkins-Miller theorem
+ 136. Hurewicz theorem
+ 137. Hurwitz theorem
+ 138. Jacobson-Morozov theorem
+ 139. Jones' theorem
+ 140. Jordan curve theorem
+ 141. Jordan-Hölder theorem
+ 142. Kadeishvili's theorem
+ 143. Kahn-Priddy theorem
+ 144. Kan-Thurston theorem
+ 145. Keisler-Shelah isomorphism theorem
+ 146. Kleene's fixed point theorem
+ 147. Kochen-Specker theorem
+ 148. Kodaira embedding theorem
+ 149. Kodaira vanishing theorem
+ 150. Kolmogorov extension theorem
+ 151. Koszul-Malgrange theorem
+ 152. Krein-Milman theorem
+ 153. Krein-Smulian theorem
+ 154. Kreisel-Lacombe-Shoenfield-Tseitin theorem
+ 155. Kronecker-Weber theorem
+ 156. Kuiper's theorem
+ 157. König's theorem
+ 158. Künneth theorem
+ 159. Lagrange's theorem
+ 160. Landweber exact functor theorem
+ 161. Landweber-Novikov theorem
+ 162. Lawvere's fixed point theorem
+ 163. Lazard's theorem
+ 164. Lefschetz theorem on (1,1)-classes
+ 165. Leray-Hirsch theorem
+ 166. Lindström's theorem
+ 167. Loday-Quillen-Tsygan theorem
+ 168. Löb's theorem
+ 169. Löwenheim-Skolem theorem
+ 170. Maharam's theorem
+ 171. Maschke's theorem
+ 172. Mather's stability theorem
+ 173. Mather-Yau theorem
+ 174. May recognition theorem
+ 175. Mazur-Ulam theorem
+ 176. Michael's theorem
+ 177. Milnor's theorem
+ 178. Milnor-Moore theorem
+ 179. Milnor-Quillen theorem on MU
+ 180. Mordell-Weil theorem
+ 181. Mostow rigidity theorem
+ 182. Myers-Steenrod theorem
+ 183. Narasimhan embedding theorem
+ 184. Narasimhan–Seshadri theorem
+ 185. Nash embedding theorem
+ 186. Newlander-Nirenberg theorem
+ 187. Nielsen-Schreier theorem
+ 188. Noether's theorem
+ 189. Nori's Tannakian theorem
+ 190. Osterwalder-Schrader theorem
+ 191. Ostrowski's theorem
+ 192. PBW theorem
+ 193. PCT theorem
+ 194. Paley-Wiener-Schwartz theorem
+ 195. Pappus' involution theorem
+ 196. Parseval's theorem
+ 197. Penrose singularity theorem
+ 198. Peter-Weyl theorem
+ 199. Poincaré–Hopf theorem
+ 200. Pontryagin's theorem
+ 201. Proper Morphisms, Completions, and the Grothendieck Existence Theorem
+ 202. Pythagorean theorem
+ 203. Pólya enumeration theorem
+ 204. Quillen's Dévissage theorem
+ 205. Quillen's theorem
+ 206. Quillen-Suslin theorem
+ 207. Rector completion theorem
+ 208. Reeb sphere theorem
+ 209. Reeb theorem
+ 210. Reeh-Schlieder theorem
+ 211. Reidemeister-Schreier theorem
+ 212. Ribet's theorem
+ 213. Riemann existence theorem
+ 214. Riemann series theorem
+ 215. Riesz representation theorem
+ 216. Robinson consistency theorem
+ 217. Sard's theorem
+ 218. Schneider's theorem
+ 219. Segal-Carlsson completion theorem
+ 220. Serre finiteness theorem
+ 221. Serre's theorem on Proj
+ 222. Serre-Swan theorem
+ 223. Shum's theorem
+ 224. Snaith theorem
+ 225. Solovay-Kitaev theorem
+ 226. Spectral Mackey functor theorem
+ 227. Steenrod approximation theorem
+ 228. Stinespring factorization theorem
+ 229. Stokes theorem
+ 230. Stone-Weierstrass theorem
+ 231. Stone-von Neumann theorem
+ 232. Strøm's theorem
+ 233. Taimanov theorem
+ 234. Taketa's theorem
+ 235. Tannaka-Krein theorem
+ 236. Tarski-Seidenberg theorem
+ 237. Tate's acyclicity theorem
+ 238. Taylor's theorem
+ 239. Thom's theorem
+ 240. Thom's transversality theorem
+ 241. Tietze extension theorem
+ 242. Tychonoff theorem
+ 243. Wagner-Preston theorem
+ 244. Wedderburn-Artin theorem
+ 245. Weierstrass preparation theorem
+ 246. Weil uniformization theorem
+ 247. Wheels theorem
+ 248. Whitehead theorem
+ 249. Whitney embedding theorem
+ 250. Whitney extension theorem
+ 251. Wigner theorem
+ 252. Wiles' proof of Fermat's last theorem
+ 253. adjoint (infinity,1)-functor theorem
+ 254. adjoint functor theorem
+ 255. adjoint lifting theorem
+ 256. adjoint triangle theorem
+ 257. arithmetic Riemann-Roch theorem
+ 258. basis theorem
+ 259. bicommutant theorem
+ 260. binomial theorem
+ 261. c-theorem
+ 262. cellular approximation theorem
+ 263. central limit theorem
+ 264. change of rings theorem
+ 265. chromatic convergence theorem
+ 266. closed graph theorem
+ 267. coherence theorem
+ 268. collar neighbourhood theorem
+ 269. compactness theorem
+ 270. comparison theorem
+ 271. completeness theorem
+ 272. completion theorem for complex cobordism cohomology
+ 273. constructive Gelfand duality theorem
+ 274. de Finetti's theorem
+ 275. de Rham theorem
+ 276. decomposition theorem for simplicial groups
+ 277. divergence theorem
+ 278. equivariant Pontrjagin theorem
+ 279. ergodic decomposition theorem
+ 280. error threshold theorem
+ 281. extreme value theorem
+ 282. fan theorem
+ 283. fluctuation-dissipation theorem
+ 284. folk theorem
+ 285. four-colour theorem
+ 286. fracture theorem
+ 287. fundamental theorem of Riemannian geometry
+ 288. fundamental theorem of algebra
+ 289. fundamental theorem of arithmetic
+ 290. fundamental theorem of calculus
+ 291. fundamental theorem of covering spaces
+ 292. fundamental theorem of dg-algebraic equivariant rational homotopy theory
+ 293. fundamental theorem of dg-algebraic rational homotopy theory
+ 294. fundamental theorem of finitely generated abelian groups
+ 295. fundamental theorem of identity types
+ 296. fundamental theorem of linear algebra
+ 297. fundamental theorem of topos theory
+ 298. global dimension theorem
+ 299. group completion theorem
+ 300. h-cobordism theorem
+ 301. halting theorem
+ 302. hard Lefschetz theorem
+ 303. hyperplane section theorem
+ 304. implicit function theorem
+ 305. index theorem
+ 306. intermediate value theorem
+ 307. inverse function theorem
+ 308. main theorem of classical Galois theory
+ 309. main theorem of perturbative renormalization
+ 310. maximal ideal theorem
+ 311. mean value theorem
+ 312. metrization theorem
+ 313. modularity theorem
+ 314. monadicity theorem
+ 315. nerve theorem
+ 316. nilpotence theorem
+ 317. no-cloning theorem
+ 318. no-go theorem
+ 319. no-hair theorem
+ 320. norm residue isomorphism theorem
+ 321. periodicity theorem
+ 322. positive energy theorem
+ 323. praeclarum theorema
+ 324. prime geodesic theorem
+ 325. prime ideal theorem
+ 326. prime number theorem
+ 327. product theorem
+ 328. propagation of singularities theorem
+ 329. proper base change theorem
+ 330. quantum adiabatic theorem
+ 331. rank-nullity theorem
+ 332. rational zero theorem
+ 333. reconstruction theorem
+ 334. representable functor theorem
+ 335. rigidity theorem for elliptic genera
+ 336. selection theorem
+ 337. simplicial approximation theorem
+ 338. slice theorem
+ 339. soft graviton theorem
+ 340. spectral theorem
+ 341. spin-statistics theorem
+ 342. stone-weierstrass theorem
+ 343. strictification theorem
+ 344. structure theorem for finitely generated modules over a principal ideal domain
+ 345. the fundamental theorem of Galois theory
+ 346. theorem of the heart
+ 347. thick subcategory theorem
+ 348. triangulation theorem
+ 349. tubular neighborhood theorem
+ 350. twisted Pontrjagin theorem
+ 351. ultrafilter theorem
+ 352. universal coefficient theorem
+ 353. van Kampen theorem
+ 354. well-ordering theorem
 
 
 ======================== LEMMA ========================
@@ -397,42 +407,43 @@
   11. Friedlander-Milnor isomorphism conjecture
   12. Goldbach conjecture
   13. Guillemin-Sternberg geometric quantization conjecture
-  14. Hodge conjecture
-  15. Jacobian conjecture
-  16. Kakeya Conjecture
-  17. Kashiwara-Vergne conjecture
-  18. Kepler's conjecture
-  19. Lichtenbaum-Quillen conjecture
-  20. Macdonald Constant-Term Conjecture
-  21. Macdonald conjecture on plane partitions
-  22. Milnor's conjecture
-  23. Mordell conjecture
-  24. Mumford's conjecture
-  25. Novikov conjecture
-  26. Poincaré conjecture
-  27. Schanuel's conjecture
-  28. Sen's conjecture
-  29. Simpson's conjecture
-  30. Stolz conjecture
-  31. Sullivan conjecture
-  32. Szpiro's conjecture
-  33. Taniyama-Shimura conjecture
-  34. Tate conjecture
-  35. Vojta's conjecture
-  36. Weil conjecture on Tamagawa numbers
-  37. Witten conjecture
-  38. abc conjecture
-  39. categorical geometric Langlands conjecture
-  40. elliptization conjecture
-  41. geometrization conjecture
-  42. initiality conjecture
-  43. local Langlands conjecture
-  44. red-shift conjecture
-  45. section conjecture
-  46. telescope conjecture
-  47. virtually fibered conjecture
-  48. volume conjecture
-  49. weak gravity conjecture
+  14. Hedetniemi's conjecture
+  15. Hodge conjecture
+  16. Jacobian conjecture
+  17. Kakeya Conjecture
+  18. Kashiwara-Vergne conjecture
+  19. Kepler's conjecture
+  20. Lichtenbaum-Quillen conjecture
+  21. Macdonald Constant-Term Conjecture
+  22. Macdonald conjecture on plane partitions
+  23. Milnor's conjecture
+  24. Mordell conjecture
+  25. Mumford's conjecture
+  26. Novikov conjecture
+  27. Poincaré conjecture
+  28. Schanuel's conjecture
+  29. Sen's conjecture
+  30. Simpson's conjecture
+  31. Stolz conjecture
+  32. Sullivan conjecture
+  33. Szpiro's conjecture
+  34. Taniyama-Shimura conjecture
+  35. Tate conjecture
+  36. Vojta's conjecture
+  37. Weil conjecture on Tamagawa numbers
+  38. Witten conjecture
+  39. abc conjecture
+  40. categorical geometric Langlands conjecture
+  41. elliptization conjecture
+  42. geometrization conjecture
+  43. initiality conjecture
+  44. local Langlands conjecture
+  45. red-shift conjecture
+  46. section conjecture
+  47. telescope conjecture
+  48. virtually fibered conjecture
+  49. volume conjecture
+  50. weak gravity conjecture
 
 
 ======================== COROLLARY ========================
@@ -448,23 +459,24 @@
    7. Dold-Kan correspondence
    8. GW/DT correspondence
    9. Hecke correspondence
-  10. Kirillov correspondence
-  11. Kobayashi-Hitchin correspondence
-  12. Lagrangian correspondence
-  13. McKay correspondence
-  14. Riemann-Hilbert correspondence
-  15. Robinson-Schensted-Knuth correspondence
-  16. Springer correspondence
-  17. caloron correspondence
-  18. correspondence theory of truth
-  19. fluid/gravity correspondence
-  20. geometric Langlands correspondence
-  21. horocycle correspondence
-  22. knots-quivers correspondence
-  23. mod p local Langlands correspondence
-  24. p-adic AdS/CFT correspondence
-  25. p-adic local Langlands correspondence
-  26. state-field correspondence
+  10. Kazhdan-Luzstig correspondence
+  11. Kirillov correspondence
+  12. Kobayashi-Hitchin correspondence
+  13. Lagrangian correspondence
+  14. McKay correspondence
+  15. Riemann-Hilbert correspondence
+  16. Robinson-Schensted-Knuth correspondence
+  17. Springer correspondence
+  18. caloron correspondence
+  19. correspondence theory of truth
+  20. fluid/gravity correspondence
+  21. geometric Langlands correspondence
+  22. horocycle correspondence
+  23. knots-quivers correspondence
+  24. mod p local Langlands correspondence
+  25. p-adic AdS/CFT correspondence
+  26. p-adic local Langlands correspondence
+  27. state-field correspondence
 
 
 ======================== DUALITY ========================
@@ -472,52 +484,54 @@
    2. Anderson duality
    3. Brown-Comenetz duality
    4. Cartier duality
-   5. De Morgan duality
-   6. Eckmann-Hilton duality
-   7. Gabriel-Oberst duality
-   8. Gabriel–Ulmer duality
-   9. Gelfand duality
-  10. Gelfand-type duality for commutative von Neumann algebras
-  11. Gopakumar-Vafa duality
-  12. Grothendieck duality
-  13. Hochster duality
-  14. Isbell duality
-  15. Koszul duality
-  16. Kramers-Wannier duality
-  17. Makkai duality
-  18. Poincaré duality
-  19. Polyakov gauge-string duality
-  20. Pontryagin duality for torsion abelian groups
-  21. Rehren duality
-  22. S-duality
-  23. Schur-Weyl duality
-  24. Seiberg duality
-  25. Serre duality
-  26. Spanier-Whitehead duality
-  27. Stein duality
-  28. Stone duality
-  29. T-duality
-  30. Tannaka duality
-  31. U-duality
-  32. Verdier duality
-  33. Yosida duality
-  34. duality between M-theory and F-theory
-  35. duality between M-theory and type IIA string theory
-  36. duality between M-theory on Z2-orbifolds and type IIB string theory on K3-fibrations
-  37. duality between M/F-theory and heterotic string theory
-  38. duality between algebra and geometry
-  39. duality between heterotic and type II string theory
-  40. duality between type I and heterotic string theory
-  41. duality in physics
-  42. duality in string theory
-  43. electric-magnetic duality
-  44. mysterious duality
-  45. n-duality
-  46. open/closed string duality
-  47. quark-hadron duality
-  48. string-string duality
-  49. symplectic duality
-  50. syntax-semantics duality
+   5. Costenoble-Waner duality
+   6. De Morgan duality
+   7. Eckmann-Hilton duality
+   8. Gabriel-Oberst duality
+   9. Gabriel–Ulmer duality
+  10. Gelfand duality
+  11. Gelfand-type duality for commutative von Neumann algebras
+  12. Gopakumar-Vafa duality
+  13. Grothendieck duality
+  14. Hochster duality
+  15. Isbell duality
+  16. Koszul duality
+  17. Kramers-Wannier duality
+  18. Loomis-Sikorski duality
+  19. Makkai duality
+  20. Poincaré duality
+  21. Polyakov gauge-string duality
+  22. Pontryagin duality for torsion abelian groups
+  23. Rehren duality
+  24. S-duality
+  25. Schur-Weyl duality
+  26. Seiberg duality
+  27. Serre duality
+  28. Spanier-Whitehead duality
+  29. Stein duality
+  30. Stone duality
+  31. T-duality
+  32. Tannaka duality
+  33. U-duality
+  34. Verdier duality
+  35. Yosida duality
+  36. duality between M-theory and F-theory
+  37. duality between M-theory and type IIA string theory
+  38. duality between M-theory on Z2-orbifolds and type IIB string theory on K3-fibrations
+  39. duality between M/F-theory and heterotic string theory
+  40. duality between algebra and geometry
+  41. duality between heterotic and type II string theory
+  42. duality between type I and heterotic string theory
+  43. duality in physics
+  44. duality in string theory
+  45. electric-magnetic duality
+  46. mysterious duality
+  47. n-duality
+  48. open/closed string duality
+  49. quark-hadron duality
+  50. string-string duality
+  51. symplectic duality
+  52. syntax-semantics duality
 
 
 ======================== TOTAL ========================
@@ -537,491 +551,505 @@
   14. Andrews–Curtis conjecture
   15. Arnold conjecture
   16. Arnold-Kuiper-Massey theorem
-  17. Artin representability theorem
-  18. Artin-Lurie representability theorem
-  19. Artin-Tate lemma
-  20. Atiyah-Segal completion theorem
-  21. Atiyah-Sutcliffe conjecture
-  22. BBDG decomposition theorem
-  23. Baire category theorem
-  24. Banach fixed-point theorem
-  25. Banach-Alaoglu theorem
-  26. Banach-Steinhaus theorem
-  27. Banch-Tarski theorem
-  28. Barr embedding theorem
-  29. Barr's theorem
-  30. Baum-Connes conjecture
-  31. Beilinson conjecture
-  32. Berger's theorem
-  33. Bergman's centralizer theorem
-  34. Bertrand's theorem
-  35. Beth definability theorem
-  36. Birch and Swinnerton-Dyer conjecture
-  37. Birkhoff's HSP theorem
-  38. Birkhoff's subdirect representation theorem
-  39. Birkhoff's theorem
-  40. Birkhoff-von Neumann theorem
-  41. Bisognano-Wichmann theorem
-  42. Blakers-Massey theorem
-  43. Bloch's theorem
-  44. Bochner's theorem
-  45. Bogomolov-Tian-Todorov theorem
-  46. Boman's theorem
-  47. Boone conjecture
-  48. Borel's theorem
-  49. Borel-Weil theorem
-  50. Bousfield-Friedlander theorem
-  51. Brauer induction theorem
-  52. Brouwer's fixed point theorem
-  53. Brown representability theorem
-  54. Brown-Comenetz duality
-  55. Brown-Stallings lemma
-  56. Bruck-Toyoda theorem
-  57. Bub-Clifton theorem
-  58. Buchstaber–Rees theorem
-  59. Bénabou-Roubaud theorem
-  60. Bézout's theorem
-  61. C-star-correspondence
-  62. Cantor's theorem
-  63. Cantor-Schroeder-Bernstein theorem
-  64. Cartan theorem B
-  65. Cartan's closed subgroup theorem
-  66. Cartier duality
-  67. Cauchy group theorem
-  68. Cauchy integral theorem
-  69. Cauchy interlace theorem
-  70. Cauchy sum theorem
-  71. Cauchy theorem
-  72. Cayley's theorem
-  73. Cheeger-Gromoll splitting theorem
-  74. Chevalley's theorem on constructible sets
-  75. Chow's theorem
-  76. Church-Rosser theorem
-  77. Coleman-Mandula theorem
-  78. Craig interpolation theorem
-  79. Darboux's theorem
-  80. Day's reflection theorem
-  81. De Morgan duality
-  82. Deligne conjecture
-  83. Deligne's theorem
-  84. Desargues' theorem
-  85. Diaconescu's theorem
-  86. Diaconescu-Goodman-Myhill theorem
-  87. Dirichlet's unit theorem
-  88. Dolbeault theorem
-  89. Dold-Kan correspondence
-  90. Dold-Thom theorem
-  91. Donaldson's theorem
-  92. Donaldson-Uhlenbeck-Yau theorem
-  93. Dowker's theorem
-  94. Dragon's theorem
-  95. Drinfeld-Kohno theorem
-  96. Dugger's theorem
-  97. Döring-Harding-Hamhalter theorem
-  98. Eastin-Knill theorem
-  99. Eckmann-Hilton duality
- 100. Ehresmann's theorem
- 101. Eilenberg-Watts theorem
- 102. Eilenberg-Zilber theorem
- 103. Elmendorf's theorem
- 104. Engeler's lemma
- 105. FRS-theorem on rational 2d CFT
- 106. Feit-Thompson theorem
- 107. Fell's theorem
- 108. Fermat's little theorem
- 109. Fisher-Hartwig conjecture
- 110. Fourier inversion theorem
- 111. Fox's theorem
- 112. Freudenthal suspension theorem
- 113. Freyd-Mitchell embedding theorem
- 114. Friedlander-Milnor isomorphism conjecture
- 115. Frobenius theorem
- 116. Frobenius-Perron theorem
- 117. Fubini theorem
- 118. Furstenberg-Zimmer structure theorem
- 119. GW/DT correspondence
- 120. Gabriel's theorem
- 121. Gabriel-Oberst duality
- 122. Gabriel-Popescu theorem
- 123. Gabriel-Rosenberg theorem
- 124. Gabriel–Ulmer duality
- 125. Gauss lemma
- 126. Gauss-Bonnet theorem
- 127. Gelfand duality
- 128. Gelfand-Kolmogorov theorem
- 129. Gelfand-Mazur theorem
- 130. Gelfand-Neumark theorem
- 131. Gelfand-Raikov theorem
- 132. Gelfand-type duality for commutative von Neumann algebras
- 133. Gelfond's theorem
- 134. Gershgorin circle theorem
- 135. Giraud's theorem
- 136. Gleason's theorem
- 137. Goddard-Thorn no-ghost theorem
- 138. Goldbach conjecture
- 139. Goldblatt-Thomason theorem
- 140. Goldman-Millson quasi-abelianity theorem
- 141. Gopakumar-Vafa duality
- 142. Goursat theorem
- 143. Grauert embedding theorem
- 144. Green theorem
- 145. Gromov's non-squeezing theorem
- 146. Grothendieck duality
- 147. Grothendieck-Riemann-Roch theorem
- 148. Guillemin-Sternberg geometric quantization conjecture
- 149. Haag's theorem
- 150. Haag–Łopuszański–Sohnius theorem
- 151. Hadamard lemma
- 152. Hadwiger's theorem
- 153. Haefliger theorem
- 154. Hahn decomposition theorem
- 155. Hahn-Banach separation theorem
- 156. Hahn-Banach theorem
- 157. Harder-Narasimhan theorem
- 158. Hecke correspondence
- 159. Hedberg's theorem
- 160. Heine-Borel theorem
- 161. Heine-Cantor theorem
- 162. Hellman-Feynman theorem
- 163. Hensel's lemma
- 164. Higman's embedding theorem
- 165. Hilbert's Theorem 90
- 166. Hirzebruch signature theorem
- 167. Hirzebruch-Riemann-Roch theorem
- 168. Hochschild-Kostant-Rosenberg theorem
- 169. Hochster duality
- 170. Hodge conjecture
- 171. Hodge theorem
- 172. Hodge-Maxwell theorem
- 173. Hopf degree theorem
- 174. Hopkins-Miller theorem
- 175. Hurewicz theorem
- 176. Hurwitz theorem
- 177. Isbell duality
- 178. Jacobian conjecture
- 179. Jacobson-Morozov theorem
- 180. Jones' theorem
- 181. Jordan curve theorem
- 182. Jordan-Hölder theorem
- 183. Kadeishvili's theorem
- 184. Kahn-Priddy theorem
- 185. Kakeya Conjecture
- 186. Kan-Thurston theorem
- 187. Kashiwara-Vergne conjecture
- 188. Keisler-Shelah isomorphism theorem
- 189. Kepler's conjecture
- 190. Kirillov correspondence
- 191. Kleene's fixed point theorem
- 192. Kobayashi-Hitchin correspondence
- 193. Kochen-Specker theorem
- 194. Kodaira embedding theorem
- 195. Kodaira vanishing theorem
- 196. Kolmogorov extension theorem
- 197. Koszul duality
- 198. Koszul-Malgrange theorem
- 199. Kramers-Wannier duality
- 200. Kreisel-Lacombe-Shoenfield-Tseitin theorem
- 201. Kronecker-Weber theorem
- 202. Kuiper's theorem
- 203. König's theorem
- 204. Künneth theorem
- 205. Lagrange's theorem
- 206. Lagrangian correspondence
- 207. Landweber exact functor theorem
- 208. Landweber-Novikov theorem
- 209. Lawvere's fixed point theorem
- 210. Lazard's theorem
- 211. Lebesgue number lemma
- 212. Lefschetz theorem on (1,1)-classes
- 213. Leray-Hirsch theorem
- 214. Lichtenbaum-Quillen conjecture
- 215. Lindström's theorem
- 216. Loday-Quillen-Tsygan theorem
- 217. Löb's theorem
- 218. Löwenheim-Skolem theorem
- 219. Macdonald Constant-Term Conjecture
- 220. Macdonald conjecture on plane partitions
- 221. Maharam's theorem
- 222. Makkai duality
- 223. Maschke's theorem
- 224. Mather's stability theorem
- 225. Mather-Yau theorem
- 226. May recognition theorem
- 227. Mazur-Ulam theorem
- 228. McKay correspondence
- 229. Michael's theorem
- 230. Milnor's conjecture
- 231. Milnor's theorem
- 232. Milnor-Moore theorem
- 233. Milnor-Quillen theorem on MU
- 234. Mordell conjecture
- 235. Mordell-Weil theorem
- 236. Morse lemma
- 237. Mostow rigidity theorem
- 238. Mostowski's collapsing lemma
- 239. Mumford's conjecture
- 240. Myers-Steenrod theorem
- 241. Münchhausen trilemma
- 242. Nakayama's lemma
- 243. Narasimhan embedding theorem
- 244. Narasimhan–Seshadri theorem
- 245. Nash embedding theorem
- 246. Newlander-Nirenberg theorem
- 247. Newman's lemma
- 248. Nielsen-Schreier theorem
- 249. Noether's theorem
- 250. Nori's Tannakian theorem
- 251. Novikov conjecture
- 252. Osterwalder-Schrader theorem
- 253. Ostrowski's theorem
- 254. PBW theorem
- 255. PCT theorem
- 256. Paley-Wiener-Schwartz theorem
- 257. Parseval's theorem
- 258. Penrose singularity theorem
- 259. Peter-Weyl theorem
- 260. Poincaré conjecture
- 261. Poincaré duality
- 262. Poincaré lemma
- 263. Poincaré–Hopf theorem
- 264. Polyakov gauge-string duality
- 265. Pontryagin duality for torsion abelian groups
- 266. Pontryagin's theorem
- 267. Proper Morphisms, Completions, and the Grothendieck Existence Theorem
- 268. Pythagorean theorem
- 269. Pólya enumeration theorem
- 270. Quillen's theorem
- 271. Quillen-Suslin theorem
- 272. Rector completion theorem
- 273. Reeb sphere theorem
- 274. Reeb theorem
- 275. Reeh-Schlieder theorem
- 276. Rehren duality
- 277. Reidemeister-Schreier theorem
- 278. Ribet's theorem
- 279. Riemann existence theorem
- 280. Riemann series theorem
- 281. Riemann-Hilbert correspondence
- 282. Riesz representation theorem
- 283. Robinson consistency theorem
- 284. Robinson-Schensted-Knuth correspondence
- 285. S-duality
- 286. Sard's theorem
- 287. Schanuel's conjecture
- 288. Schanuel's lemma
- 289. Schneider's theorem
- 290. Schur's lemma
- 291. Schur-Weyl duality
- 292. Segal-Carlsson completion theorem
- 293. Seiberg duality
- 294. Sen's conjecture
- 295. Serre duality
- 296. Serre finiteness theorem
- 297. Serre's theorem on Proj
- 298. Serre-Swan theorem
- 299. Shum's theorem
- 300. Simpson's conjecture
- 301. Snaith theorem
- 302. Solovay-Kitaev theorem
- 303. Spanier-Whitehead duality
- 304. Spectral Mackey functor theorem
- 305. Springer correspondence
- 306. Steenrod approximation theorem
- 307. Stein duality
- 308. Stinespring factorization theorem
- 309. Stokes theorem
- 310. Stolz conjecture
- 311. Stone duality
- 312. Stone-Weierstrass theorem
- 313. Stone-von Neumann theorem
- 314. Strøm's theorem
- 315. Sullivan conjecture
- 316. Szpiro's conjecture
- 317. T-duality
- 318. Taimanov theorem
- 319. Taniyama-Shimura conjecture
- 320. Tannaka duality
- 321. Tannaka-Krein theorem
- 322. Tarski-Seidenberg theorem
- 323. Tate conjecture
- 324. Tate's acyclicity theorem
- 325. Taylor's theorem
- 326. Thom's theorem
- 327. Thom's transversality theorem
- 328. Tietze extension theorem
- 329. Tychonoff theorem
- 330. U-duality
- 331. Urysohn's lemma
- 332. Verdier duality
- 333. Vojta's conjecture
- 334. Wagner-Preston theorem
- 335. Wedderburn-Artin theorem
- 336. Weierstrass preparation theorem
- 337. Weil conjecture on Tamagawa numbers
- 338. Weil uniformization theorem
- 339. Wheels theorem
- 340. Whitehead theorem
- 341. Whitney embedding theorem
- 342. Whitney extension theorem
- 343. Wick's lemma
- 344. Wigner theorem
- 345. Wiles' proof of Fermat's last theorem
- 346. Witten conjecture
- 347. Yoneda lemma
- 348. Yosida duality
- 349. Zorn's lemma
- 350. abc conjecture
- 351. acyclic assembly lemma
- 352. adjoint (infinity,1)-functor theorem
- 353. adjoint functor theorem
- 354. adjoint lifting theorem
- 355. adjoint triangle theorem
- 356. arithmetic Riemann-Roch theorem
- 357. basis theorem
- 358. bicommutant theorem
- 359. binomial theorem
- 360. braid lemma
- 361. c-theorem
- 362. caloron correspondence
- 363. categorical geometric Langlands conjecture
- 364. cellular approximation theorem
- 365. central limit theorem
- 366. change of rings theorem
- 367. chromatic convergence theorem
- 368. closed graph theorem
- 369. coherence theorem
- 370. collar neighbourhood theorem
- 371. compactness theorem
- 372. comparison lemma
- 373. comparison theorem
- 374. completeness theorem
- 375. completion theorem for complex cobordism cohomology
- 376. constructive Gelfand duality theorem
- 377. correspondence theory of truth
- 378. dd^c-lemma
- 379. de Finetti's theorem
- 380. de Rham theorem
- 381. decomposition theorem for simplicial groups
- 382. diamond lemma
- 383. divergence theorem
- 384. duality between M-theory and F-theory
- 385. duality between M-theory and type IIA string theory
- 386. duality between M-theory on Z2-orbifolds and type IIB string theory on K3-fibrations
- 387. duality between M/F-theory and heterotic string theory
- 388. duality between algebra and geometry
- 389. duality between heterotic and type II string theory
- 390. duality between type I and heterotic string theory
- 391. duality in physics
- 392. duality in string theory
- 393. electric-magnetic duality
- 394. elliptization conjecture
- 395. equivariant Pontrjagin theorem
- 396. ergodic decomposition theorem
- 397. extreme value theorem
- 398. factorization lemma
- 399. fan theorem
- 400. five lemma
- 401. flat resolution lemma
- 402. fluctuation-dissipation theorem
- 403. fluid/gravity correspondence
- 404. folk theorem
- 405. four lemma
- 406. four-colour theorem
- 407. fracture theorem
- 408. fundamental theorem of Riemannian geometry
- 409. fundamental theorem of algebra
- 410. fundamental theorem of arithmetic
- 411. fundamental theorem of calculus
- 412. fundamental theorem of covering spaces
- 413. fundamental theorem of dg-algebraic equivariant rational homotopy theory
- 414. fundamental theorem of dg-algebraic rational homotopy theory
- 415. fundamental theorem of finitely generated abelian groups
- 416. fundamental theorem of identity types
- 417. fundamental theorem of linear algebra
- 418. fundamental theorem of topos theory
- 419. geometric Langlands correspondence
- 420. geometrization conjecture
- 421. global dimension theorem
- 422. group completion theorem
- 423. h-cobordism theorem
- 424. halting theorem
- 425. hard Lefschetz theorem
- 426. horocycle correspondence
- 427. horseshoe lemma
- 428. hyperplane section theorem
- 429. implicit function theorem
- 430. index theorem
- 431. initiality conjecture
- 432. intermediate value theorem
- 433. inverse function theorem
- 434. knots-quivers correspondence
- 435. local Langlands conjecture
- 436. main theorem of classical Galois theory
- 437. main theorem of perturbative renormalization
- 438. maximal ideal theorem
- 439. mean value theorem
- 440. metrization theorem
- 441. mod p local Langlands correspondence
- 442. modularity theorem
- 443. monadicity theorem
- 444. mysterious duality
- 445. n-duality
- 446. nerve theorem
- 447. nilpotence theorem
- 448. no-cloning theorem
- 449. no-go theorem
- 450. no-hair theorem
- 451. norm residue isomorphism theorem
- 452. open/closed string duality
- 453. p-adic AdS/CFT correspondence
- 454. p-adic local Langlands correspondence
- 455. periodicity theorem
- 456. positive energy theorem
- 457. praeclarum theorema
- 458. prime geodesic theorem
- 459. prime ideal theorem
- 460. prime number theorem
- 461. product theorem
- 462. propagation of singularities theorem
- 463. proper base change theorem
- 464. quantum adiabatic theorem
- 465. quark-hadron duality
- 466. rank-nullity theorem
- 467. rational fiber lemma
- 468. rational zero theorem
- 469. reconstruction theorem
- 470. red-shift conjecture
- 471. representable functor theorem
- 472. rigidity theorem for elliptic genera
- 473. salamander lemma
- 474. section conjecture
- 475. selection theorem
- 476. shrinking lemma
- 477. simplicial approximation theorem
- 478. slice theorem
- 479. snake lemma
- 480. soft graviton theorem
- 481. spectral theorem
- 482. spin-statistics theorem
- 483. state-field correspondence
- 484. stone-weierstrass theorem
- 485. strictification theorem
- 486. string-string duality
- 487. structure theorem for finitely generated modules over a principal ideal domain
- 488. symplectic duality
- 489. syntax-semantics duality
- 490. telescope conjecture
- 491. the fundamental theorem of Galois theory
- 492. theorem of the heart
- 493. thick subcategory theorem
- 494. triangulation theorem
- 495. tube lemma
- 496. tubular neighborhood theorem
- 497. twisted Pontrjagin theorem
- 498. ultrafilter theorem
- 499. universal coefficient theorem
- 500. van Kampen theorem
- 501. virtually fibered conjecture
- 502. volume conjecture
- 503. weak gravity conjecture
- 504. well-ordering theorem
+  17. Artin induction theorem
+  18. Artin representability theorem
+  19. Artin-Lurie representability theorem
+  20. Artin-Tate lemma
+  21. Atiyah-Jänich theorem
+  22. Atiyah-Segal completion theorem
+  23. Atiyah-Sutcliffe conjecture
+  24. Atkinson's theorem
+  25. BBDG decomposition theorem
+  26. Baire category theorem
+  27. Banach fixed-point theorem
+  28. Banach-Alaoglu theorem
+  29. Banach-Steinhaus theorem
+  30. Banch-Tarski theorem
+  31. Barr embedding theorem
+  32. Barr's theorem
+  33. Baum-Connes conjecture
+  34. Beilinson conjecture
+  35. Berger's theorem
+  36. Bergman's centralizer theorem
+  37. Bertrand's theorem
+  38. Beth definability theorem
+  39. Birch and Swinnerton-Dyer conjecture
+  40. Birkhoff's HSP theorem
+  41. Birkhoff's subdirect representation theorem
+  42. Birkhoff's theorem
+  43. Birkhoff-von Neumann theorem
+  44. Bisognano-Wichmann theorem
+  45. Blakers-Massey theorem
+  46. Bloch's theorem
+  47. Bochner linearization theorem
+  48. Bochner's theorem
+  49. Bogomolov-Tian-Todorov theorem
+  50. Boman's theorem
+  51. Boone conjecture
+  52. Borel's theorem
+  53. Borel-Weil theorem
+  54. Bousfield-Friedlander theorem
+  55. Brauer induction theorem
+  56. Brouwer's fixed point theorem
+  57. Brown representability theorem
+  58. Brown-Comenetz duality
+  59. Brown-Stallings lemma
+  60. Bruck-Toyoda theorem
+  61. Bub-Clifton theorem
+  62. Buchstaber–Rees theorem
+  63. Bénabou-Roubaud theorem
+  64. Bézout's theorem
+  65. C-star-correspondence
+  66. Cantor's theorem
+  67. Cantor-Schroeder-Bernstein theorem
+  68. Cartan theorem B
+  69. Cartan's closed subgroup theorem
+  70. Cartier duality
+  71. Cauchy group theorem
+  72. Cauchy integral theorem
+  73. Cauchy interlace theorem
+  74. Cauchy sum theorem
+  75. Cauchy theorem
+  76. Cayley's theorem
+  77. Cheeger-Gromoll splitting theorem
+  78. Chevalley's theorem on constructible sets
+  79. Chow's theorem
+  80. Church-Rosser theorem
+  81. Coleman-Mandula theorem
+  82. Costenoble-Waner duality
+  83. Craig interpolation theorem
+  84. Darboux's theorem
+  85. Day's reflection theorem
+  86. De Morgan duality
+  87. Deligne conjecture
+  88. Deligne's theorem
+  89. Desargues' theorem
+  90. Diaconescu's theorem
+  91. Diaconescu-Goodman-Myhill theorem
+  92. Dirichlet's unit theorem
+  93. Dolbeault theorem
+  94. Dold-Kan correspondence
+  95. Dold-Thom theorem
+  96. Donaldson's theorem
+  97. Donaldson-Uhlenbeck-Yau theorem
+  98. Dowker's theorem
+  99. Dragon's theorem
+ 100. Drinfeld-Kohno theorem
+ 101. Dugger's theorem
+ 102. Döring-Harding-Hamhalter theorem
+ 103. Eastin-Knill theorem
+ 104. Eckmann-Hilton duality
+ 105. Ehresmann's theorem
+ 106. Eilenberg-Watts theorem
+ 107. Eilenberg-Zilber theorem
+ 108. Elmendorf's theorem
+ 109. Engeler's lemma
+ 110. FRS-theorem on rational 2d CFT
+ 111. Feit-Thompson theorem
+ 112. Fell's theorem
+ 113. Fermat's little theorem
+ 114. Fisher-Hartwig conjecture
+ 115. Fourier inversion theorem
+ 116. Fox's theorem
+ 117. Freudenthal suspension theorem
+ 118. Freyd-Mitchell embedding theorem
+ 119. Friedlander-Milnor isomorphism conjecture
+ 120. Frobenius theorem
+ 121. Frobenius-Perron theorem
+ 122. Fubini theorem
+ 123. Furstenberg-Zimmer structure theorem
+ 124. GW/DT correspondence
+ 125. Gabriel's theorem
+ 126. Gabriel-Oberst duality
+ 127. Gabriel-Popescu theorem
+ 128. Gabriel-Rosenberg theorem
+ 129. Gabriel–Ulmer duality
+ 130. Gauss lemma
+ 131. Gauss-Bonnet theorem
+ 132. Gelfand duality
+ 133. Gelfand-Kolmogorov theorem
+ 134. Gelfand-Mazur theorem
+ 135. Gelfand-Neumark theorem
+ 136. Gelfand-Raikov theorem
+ 137. Gelfand-type duality for commutative von Neumann algebras
+ 138. Gelfond's theorem
+ 139. Gershgorin circle theorem
+ 140. Giraud's theorem
+ 141. Gleason's theorem
+ 142. Goddard-Thorn no-ghost theorem
+ 143. Goldbach conjecture
+ 144. Goldblatt-Thomason theorem
+ 145. Goldman-Millson quasi-abelianity theorem
+ 146. Gopakumar-Vafa duality
+ 147. Goursat theorem
+ 148. Grauert embedding theorem
+ 149. Green theorem
+ 150. Gromov's non-squeezing theorem
+ 151. Grothendieck duality
+ 152. Grothendieck-Riemann-Roch theorem
+ 153. Guillemin-Sternberg geometric quantization conjecture
+ 154. Haag's theorem
+ 155. Haag–Łopuszański–Sohnius theorem
+ 156. Hadamard lemma
+ 157. Hadwiger's theorem
+ 158. Haefliger theorem
+ 159. Hahn decomposition theorem
+ 160. Hahn-Banach separation theorem
+ 161. Hahn-Banach theorem
+ 162. Harder-Narasimhan theorem
+ 163. Hecke correspondence
+ 164. Hedberg's theorem
+ 165. Hedetniemi's conjecture
+ 166. Heine-Borel theorem
+ 167. Heine-Cantor theorem
+ 168. Hellman-Feynman theorem
+ 169. Hensel's lemma
+ 170. Higman's embedding theorem
+ 171. Hilbert's Theorem 90
+ 172. Hirzebruch signature theorem
+ 173. Hirzebruch-Riemann-Roch theorem
+ 174. Hochschild-Kostant-Rosenberg theorem
+ 175. Hochster duality
+ 176. Hodge conjecture
+ 177. Hodge theorem
+ 178. Hodge-Maxwell theorem
+ 179. Hopf degree theorem
+ 180. Hopkins-Miller theorem
+ 181. Hurewicz theorem
+ 182. Hurwitz theorem
+ 183. Isbell duality
+ 184. Jacobian conjecture
+ 185. Jacobson-Morozov theorem
+ 186. Jones' theorem
+ 187. Jordan curve theorem
+ 188. Jordan-Hölder theorem
+ 189. Kadeishvili's theorem
+ 190. Kahn-Priddy theorem
+ 191. Kakeya Conjecture
+ 192. Kan-Thurston theorem
+ 193. Kashiwara-Vergne conjecture
+ 194. Kazhdan-Luzstig correspondence
+ 195. Keisler-Shelah isomorphism theorem
+ 196. Kepler's conjecture
+ 197. Kirillov correspondence
+ 198. Kleene's fixed point theorem
+ 199. Kobayashi-Hitchin correspondence
+ 200. Kochen-Specker theorem
+ 201. Kodaira embedding theorem
+ 202. Kodaira vanishing theorem
+ 203. Kolmogorov extension theorem
+ 204. Koszul duality
+ 205. Koszul-Malgrange theorem
+ 206. Kramers-Wannier duality
+ 207. Krein-Milman theorem
+ 208. Krein-Smulian theorem
+ 209. Kreisel-Lacombe-Shoenfield-Tseitin theorem
+ 210. Kronecker-Weber theorem
+ 211. Kuiper's theorem
+ 212. König's theorem
+ 213. Künneth theorem
+ 214. Lagrange's theorem
+ 215. Lagrangian correspondence
+ 216. Landweber exact functor theorem
+ 217. Landweber-Novikov theorem
+ 218. Lawvere's fixed point theorem
+ 219. Lazard's theorem
+ 220. Lebesgue number lemma
+ 221. Lefschetz theorem on (1,1)-classes
+ 222. Leray-Hirsch theorem
+ 223. Lichtenbaum-Quillen conjecture
+ 224. Lindström's theorem
+ 225. Loday-Quillen-Tsygan theorem
+ 226. Loomis-Sikorski duality
+ 227. Löb's theorem
+ 228. Löwenheim-Skolem theorem
+ 229. Macdonald Constant-Term Conjecture
+ 230. Macdonald conjecture on plane partitions
+ 231. Maharam's theorem
+ 232. Makkai duality
+ 233. Maschke's theorem
+ 234. Mather's stability theorem
+ 235. Mather-Yau theorem
+ 236. May recognition theorem
+ 237. Mazur-Ulam theorem
+ 238. McKay correspondence
+ 239. Michael's theorem
+ 240. Milnor's conjecture
+ 241. Milnor's theorem
+ 242. Milnor-Moore theorem
+ 243. Milnor-Quillen theorem on MU
+ 244. Mordell conjecture
+ 245. Mordell-Weil theorem
+ 246. Morse lemma
+ 247. Mostow rigidity theorem
+ 248. Mostowski's collapsing lemma
+ 249. Mumford's conjecture
+ 250. Myers-Steenrod theorem
+ 251. Münchhausen trilemma
+ 252. Nakayama's lemma
+ 253. Narasimhan embedding theorem
+ 254. Narasimhan–Seshadri theorem
+ 255. Nash embedding theorem
+ 256. Newlander-Nirenberg theorem
+ 257. Newman's lemma
+ 258. Nielsen-Schreier theorem
+ 259. Noether's theorem
+ 260. Nori's Tannakian theorem
+ 261. Novikov conjecture
+ 262. Osterwalder-Schrader theorem
+ 263. Ostrowski's theorem
+ 264. PBW theorem
+ 265. PCT theorem
+ 266. Paley-Wiener-Schwartz theorem
+ 267. Pappus' involution theorem
+ 268. Parseval's theorem
+ 269. Penrose singularity theorem
+ 270. Peter-Weyl theorem
+ 271. Poincaré conjecture
+ 272. Poincaré duality
+ 273. Poincaré lemma
+ 274. Poincaré–Hopf theorem
+ 275. Polyakov gauge-string duality
+ 276. Pontryagin duality for torsion abelian groups
+ 277. Pontryagin's theorem
+ 278. Proper Morphisms, Completions, and the Grothendieck Existence Theorem
+ 279. Pythagorean theorem
+ 280. Pólya enumeration theorem
+ 281. Quillen's Dévissage theorem
+ 282. Quillen's theorem
+ 283. Quillen-Suslin theorem
+ 284. Rector completion theorem
+ 285. Reeb sphere theorem
+ 286. Reeb theorem
+ 287. Reeh-Schlieder theorem
+ 288. Rehren duality
+ 289. Reidemeister-Schreier theorem
+ 290. Ribet's theorem
+ 291. Riemann existence theorem
+ 292. Riemann series theorem
+ 293. Riemann-Hilbert correspondence
+ 294. Riesz representation theorem
+ 295. Robinson consistency theorem
+ 296. Robinson-Schensted-Knuth correspondence
+ 297. S-duality
+ 298. Sard's theorem
+ 299. Schanuel's conjecture
+ 300. Schanuel's lemma
+ 301. Schneider's theorem
+ 302. Schur's lemma
+ 303. Schur-Weyl duality
+ 304. Segal-Carlsson completion theorem
+ 305. Seiberg duality
+ 306. Sen's conjecture
+ 307. Serre duality
+ 308. Serre finiteness theorem
+ 309. Serre's theorem on Proj
+ 310. Serre-Swan theorem
+ 311. Shum's theorem
+ 312. Simpson's conjecture
+ 313. Snaith theorem
+ 314. Solovay-Kitaev theorem
+ 315. Spanier-Whitehead duality
+ 316. Spectral Mackey functor theorem
+ 317. Springer correspondence
+ 318. Steenrod approximation theorem
+ 319. Stein duality
+ 320. Stinespring factorization theorem
+ 321. Stokes theorem
+ 322. Stolz conjecture
+ 323. Stone duality
+ 324. Stone-Weierstrass theorem
+ 325. Stone-von Neumann theorem
+ 326. Strøm's theorem
+ 327. Sullivan conjecture
+ 328. Szpiro's conjecture
+ 329. T-duality
+ 330. Taimanov theorem
+ 331. Taketa's theorem
+ 332. Taniyama-Shimura conjecture
+ 333. Tannaka duality
+ 334. Tannaka-Krein theorem
+ 335. Tarski-Seidenberg theorem
+ 336. Tate conjecture
+ 337. Tate's acyclicity theorem
+ 338. Taylor's theorem
+ 339. Thom's theorem
+ 340. Thom's transversality theorem
+ 341. Tietze extension theorem
+ 342. Tychonoff theorem
+ 343. U-duality
+ 344. Urysohn's lemma
+ 345. Verdier duality
+ 346. Vojta's conjecture
+ 347. Wagner-Preston theorem
+ 348. Wedderburn-Artin theorem
+ 349. Weierstrass preparation theorem
+ 350. Weil conjecture on Tamagawa numbers
+ 351. Weil uniformization theorem
+ 352. Wheels theorem
+ 353. Whitehead theorem
+ 354. Whitney embedding theorem
+ 355. Whitney extension theorem
+ 356. Wick's lemma
+ 357. Wigner theorem
+ 358. Wiles' proof of Fermat's last theorem
+ 359. Witten conjecture
+ 360. Yoneda lemma
+ 361. Yosida duality
+ 362. Zorn's lemma
+ 363. abc conjecture
+ 364. acyclic assembly lemma
+ 365. adjoint (infinity,1)-functor theorem
+ 366. adjoint functor theorem
+ 367. adjoint lifting theorem
+ 368. adjoint triangle theorem
+ 369. arithmetic Riemann-Roch theorem
+ 370. basis theorem
+ 371. bicommutant theorem
+ 372. binomial theorem
+ 373. braid lemma
+ 374. c-theorem
+ 375. caloron correspondence
+ 376. categorical geometric Langlands conjecture
+ 377. cellular approximation theorem
+ 378. central limit theorem
+ 379. change of rings theorem
+ 380. chromatic convergence theorem
+ 381. closed graph theorem
+ 382. coherence theorem
+ 383. collar neighbourhood theorem
+ 384. compactness theorem
+ 385. comparison lemma
+ 386. comparison theorem
+ 387. completeness theorem
+ 388. completion theorem for complex cobordism cohomology
+ 389. constructive Gelfand duality theorem
+ 390. correspondence theory of truth
+ 391. dd^c-lemma
+ 392. de Finetti's theorem
+ 393. de Rham theorem
+ 394. decomposition theorem for simplicial groups
+ 395. diamond lemma
+ 396. divergence theorem
+ 397. duality between M-theory and F-theory
+ 398. duality between M-theory and type IIA string theory
+ 399. duality between M-theory on Z2-orbifolds and type IIB string theory on K3-fibrations
+ 400. duality between M/F-theory and heterotic string theory
+ 401. duality between algebra and geometry
+ 402. duality between heterotic and type II string theory
+ 403. duality between type I and heterotic string theory
+ 404. duality in physics
+ 405. duality in string theory
+ 406. electric-magnetic duality
+ 407. elliptization conjecture
+ 408. equivariant Pontrjagin theorem
+ 409. ergodic decomposition theorem
+ 410. error threshold theorem
+ 411. extreme value theorem
+ 412. factorization lemma
+ 413. fan theorem
+ 414. five lemma
+ 415. flat resolution lemma
+ 416. fluctuation-dissipation theorem
+ 417. fluid/gravity correspondence
+ 418. folk theorem
+ 419. four lemma
+ 420. four-colour theorem
+ 421. fracture theorem
+ 422. fundamental theorem of Riemannian geometry
+ 423. fundamental theorem of algebra
+ 424. fundamental theorem of arithmetic
+ 425. fundamental theorem of calculus
+ 426. fundamental theorem of covering spaces
+ 427. fundamental theorem of dg-algebraic equivariant rational homotopy theory
+ 428. fundamental theorem of dg-algebraic rational homotopy theory
+ 429. fundamental theorem of finitely generated abelian groups
+ 430. fundamental theorem of identity types
+ 431. fundamental theorem of linear algebra
+ 432. fundamental theorem of topos theory
+ 433. geometric Langlands correspondence
+ 434. geometrization conjecture
+ 435. global dimension theorem
+ 436. group completion theorem
+ 437. h-cobordism theorem
+ 438. halting theorem
+ 439. hard Lefschetz theorem
+ 440. horocycle correspondence
+ 441. horseshoe lemma
+ 442. hyperplane section theorem
+ 443. implicit function theorem
+ 444. index theorem
+ 445. initiality conjecture
+ 446. intermediate value theorem
+ 447. inverse function theorem
+ 448. knots-quivers correspondence
+ 449. local Langlands conjecture
+ 450. main theorem of classical Galois theory
+ 451. main theorem of perturbative renormalization
+ 452. maximal ideal theorem
+ 453. mean value theorem
+ 454. metrization theorem
+ 455. mod p local Langlands correspondence
+ 456. modularity theorem
+ 457. monadicity theorem
+ 458. mysterious duality
+ 459. n-duality
+ 460. nerve theorem
+ 461. nilpotence theorem
+ 462. no-cloning theorem
+ 463. no-go theorem
+ 464. no-hair theorem
+ 465. norm residue isomorphism theorem
+ 466. open/closed string duality
+ 467. p-adic AdS/CFT correspondence
+ 468. p-adic local Langlands correspondence
+ 469. periodicity theorem
+ 470. positive energy theorem
+ 471. praeclarum theorema
+ 472. prime geodesic theorem
+ 473. prime ideal theorem
+ 474. prime number theorem
+ 475. product theorem
+ 476. propagation of singularities theorem
+ 477. proper base change theorem
+ 478. quantum adiabatic theorem
+ 479. quark-hadron duality
+ 480. rank-nullity theorem
+ 481. rational fiber lemma
+ 482. rational zero theorem
+ 483. reconstruction theorem
+ 484. red-shift conjecture
+ 485. representable functor theorem
+ 486. rigidity theorem for elliptic genera
+ 487. salamander lemma
+ 488. section conjecture
+ 489. selection theorem
+ 490. shrinking lemma
+ 491. simplicial approximation theorem
+ 492. slice theorem
+ 493. snake lemma
+ 494. soft graviton theorem
+ 495. spectral theorem
+ 496. spin-statistics theorem
+ 497. state-field correspondence
+ 498. stone-weierstrass theorem
+ 499. strictification theorem
+ 500. string-string duality
+ 501. structure theorem for finitely generated modules over a principal ideal domain
+ 502. symplectic duality
+ 503. syntax-semantics duality
+ 504. telescope conjecture
+ 505. the fundamental theorem of Galois theory
+ 506. theorem of the heart
+ 507. thick subcategory theorem
+ 508. triangulation theorem
+ 509. tube lemma
+ 510. tubular neighborhood theorem
+ 511. twisted Pontrjagin theorem
+ 512. ultrafilter theorem
+ 513. universal coefficient theorem
+ 514. van Kampen theorem
+ 515. virtually fibered conjecture
+ 516. volume conjecture
+ 517. weak gravity conjecture
+ 518. well-ordering theorem
